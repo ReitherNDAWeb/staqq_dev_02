@@ -1,0 +1,62 @@
+.section--login{
+    background-image: url(img/login/bg.jpg);
+    background-size: cover;
+    
+    .section__overlay{
+        display: table;
+        width: 100%;
+        height: calc(100vh - 142px);
+        //background-color: rgba(255, 255, 255, 0.5);
+        
+        .section__wrapper{
+            height: auto;
+            display: table-cell;
+            vertical-align: middle;
+            max-width: none;
+            text-align: center;
+            
+            .center{
+                width: auto;
+                height: auto;
+                display: inline-block;
+                padding: 0px;
+                margin: 0px auto;
+                max-width: $layout_max_width;
+                @extend .clearfix;
+                max-width: 480px;
+                width: 100%;
+                
+                .signup-info{
+                    h2{
+                        color: #fff;
+                    }
+                    
+                    p{
+                        color: #ccc;
+                    }
+                }
+                
+                article{
+                    display: block;
+                
+                    form{
+                        background-color: #fff;
+                        padding: 30px;
+                        border-radius: 2px;
+                        box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
+                        
+                        img{
+                            height: 44px;
+                            margin-top: 20px;
+                            margin-bottom: 30px;
+                        }
+                        
+                        button{
+                            margin-bottom: 0px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+.tab-links{
+    li{
+        @extend .hover-transition;
+        
+        &:hover{
+            cursor: pointer;
+            color: #000;
+        }
+    }
+}
+
+.tab{
+    display: none;
+    
+    &--active{
+        display: block !important;
+    }
+}

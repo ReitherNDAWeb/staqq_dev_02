@@ -1,0 +1,199 @@
+input[type=email],
+input[type=text],
+input[type=password],
+output,
+textarea,
+select,
+.ms-choice{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    
+    font-size: 1em;
+    font-weight: normal;
+    
+    margin: 0px;
+    color: #333;
+    
+    border: 0px;
+    border-bottom: 2px #888 solid;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    padding: 10px 0px;
+    
+    width: 100%;
+    max-width: 540px;
+    background-color: transparent;
+    border-radius: 0px;
+    display: block;
+    
+    &:focus{
+        border-bottom-color: #000;
+        transition: all ease 500ms;
+    }
+    
+    &[readonly]{
+        opacity: 0.5;
+    }
+    
+    &:-webkit-autofill {
+        -webkit-box-shadow: 0 0 0px 1000px white inset;
+    }
+}
+
+input[type=submit]{
+    display: inline-block;
+}
+
+.select-wrapper{
+    position: relative;
+    margin-bottom: 10px;
+    
+    select{
+        margin-bottom: 0px !important;
+        position: relative;
+        z-index: 2;
+    }
+    
+    &:after{
+        content: '';
+        width: 16px;
+        height: 12px;
+        background-image: url(img/forms/triangle.png);
+        background-repeat: no-repeat;
+        position: absolute;
+        background-position: center;
+        background-size: contain;
+        opacity: 0.5;
+        top: 50%;
+        right: 0px;
+        margin-top: -6px;
+        z-index: 1;
+    }
+}
+
+select{        
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+form{
+    display: block;
+    margin: 0px auto;
+    
+    .button[type=submit]{
+        display: block;
+        margin: 0px auto;
+    }
+}
+    
+    .form-center{
+        width: 100%;
+        max-width: 400px;
+        display: inline-block;
+    }
+
+label{
+    display: block;
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #000;
+}
+
+// Toggles
+
+.switchable-wrapper{
+    @extend .clearfix;
+    display: block;
+    border: 0px;
+    border-bottom: 2px #888 solid;
+    padding: 6px 0px;
+    margin-bottom: 10px;
+    
+    
+    .switchable-label{
+        display: block;
+        font-size: 1rem;
+        color: #000;
+        font-weight: normal !important;
+    }
+    
+    .switchable-holder{
+        float: right;
+        margin-right: 0px;
+        text-align: left;
+    }
+}
+
+// Tel
+
+.input-tel{
+    width: 100%;
+    @extend .clearfix;
+    
+    &__land{
+        width: 16% !important;
+        float: left;
+        margin-right: 3% !important;
+    }
+    
+    &__vorwahl{
+        width: 20% !important;
+        float: left;
+        margin-right: 3%;
+    }
+    
+    &__nummer{
+        width: 58% !important;
+        float: left;
+    }
+}
+
+
+.ui-datepicker table tr{
+    background-color: transparent !important;
+}
+
+// currency
+
+.input-currency-wrapper{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    
+    input{
+        padding-left: 18px;
+    }
+    
+    &:before{
+        content: '€';
+        position: absolute;
+        left: 0px;
+        color: #777;
+        line-height: 38px;
+    }
+}
+
+
+// Multiple Selects
+
+.ms-choice{
+	height: 40px !important;
+	line-height: 40px !important;
+	margin: 0px !important;
+	border: 0px !important;
+	border-bottom: 2px #888 solid !important;
+	border-radius: 0px !important;
+	
+	span{
+		padding-left: 0px !important;
+	}
+	
+	div{display: none;}
+}
+
+.ms-drop{
+	border-radius: 0px !important;
+}

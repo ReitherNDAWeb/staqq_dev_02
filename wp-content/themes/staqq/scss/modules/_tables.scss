@@ -1,0 +1,110 @@
+table.table{
+    width: 100%;
+    border-collapse: collapse;
+	border-bottom: 0px !important;
+    
+    th, td{
+        padding: 15px 10px;
+    }
+    
+    thead{  
+        tr{
+            th{
+                text-align: left;
+                color: #bbb;
+                text-transform: uppercase;
+                font-size: 0.85rem;
+                font-weight: normal;
+        		padding: 15px 10px 20px 10px !important;
+				border-bottom: 0px !important;
+            }
+        }
+    }
+    
+    
+    tbody{
+        
+		tr{
+            &:nth-child(even) {background-color: rgba($base_color, 0.1);}
+            &:nth-child(odd) {background-color: rgba($base_color, 0.2);}
+			
+            td{
+                border: none;
+                line-height: 30px;
+                color: #333;
+        		padding: 15px 10px !important;
+                
+                a{color: $orange;}
+		
+				.button{
+					color: #fff !important;
+				}
+            }
+        }
+    }
+}
+
+.pricing-table{
+    
+    td{
+        width: 30%;
+        text-align: center;
+    }
+    
+    thead{
+        th{
+            text-align: center;
+            color: $orange;
+            font-size: 1.15rem;
+
+            h3{
+                font-size: 1.65rem;
+            }
+        }
+    }
+    
+    tbody{
+        th, td{
+            padding: 20px;
+        }
+        
+        th{
+            text-align: right;
+            font-weight: bold;
+            color: #000;
+        }
+    }
+    
+    &--no-width{
+        td{
+            width: auto;
+        }
+    }
+}
+
+
+
+// Data Tables
+
+.dataTables_filter{
+	background-color: #f4f4f4;
+	border: 1px #ddd solid;
+	padding: 20px 30px;
+	margin-bottom: 20px;
+	
+	label{
+		margin-top: 0px;
+		font-weight: bold;
+	}
+	
+	input{
+		padding: 8px;
+		border: 1px #ccc solid;
+		background-color: transparent;
+		font-size: 1rem;
+	}
+}
+
+.dataTables_info{
+	display: none;
+}

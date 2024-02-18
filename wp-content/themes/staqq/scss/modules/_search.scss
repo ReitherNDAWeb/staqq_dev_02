@@ -1,0 +1,45 @@
+.search-header{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.search-searchform{
+    margin: 0px;
+    padding: 40px 20px;
+    background-color: $base_color;
+    
+    .dvi{
+        text-align: center;
+    }
+    
+    input[type=text]{
+        color: #fff;
+        display: block;
+        margin: 0px auto;
+        text-align: center;
+    }
+    
+    #searchsubmit{
+        @extend .button;
+        display: block !important;
+        margin: 0px auto;
+        margin-top: 30px;
+        border: 2px #fff solid !important;
+    }
+}
+
+.search-results{
+    padding-top: 60px;
+}
+
+.suchergebnis-row{
+    &--title{
+        margin: 0px;
+    }
+    
+    &--type{
+        margin: 0px;
+        font-size: 0.8rem;
+        opacity: 0.8;
+    }
+}

@@ -1,0 +1,133 @@
+#vorteile{
+    
+    
+    // Headline
+    
+    .headline--ressource{
+        background-color: $colors_ressources;
+    }
+    
+    .headline--dienstleister{
+        background-color: $colors_dienstleister;
+    }
+    
+    .headline--kunde{
+        background-color: $colors_kunden;
+    }
+    
+    .widget_sow-headline{
+        margin: 0px !important;
+    }
+    .sow-headline-container {
+        
+        h2{
+            text-align: center;
+            color: #fff;
+            font-size: 1.2rem;
+            background-color: transparent;
+            padding: 12px;
+            margin: 0px !important;
+        }
+        
+        .decoration{
+            display: none;
+        }
+    }
+    
+    
+    // Aufzählung
+    
+    .textwidget{
+        background-color: #f4f4f4;
+        padding: 12px;
+        
+        ul{
+    		list-style: none;
+			padding:0;
+			padding-left: 15px;
+			margin:0;
+            
+            li {
+				position: relative;
+				margin-bottom: 8px;
+				padding-left: 6px;
+			}
+
+			li:before {
+				content: "•";
+				position: absolute;
+				left: -10px;
+			}
+        }
+        
+    }
+
+
+	.vorteile-aufzaehlung--ressource{
+		li:before {
+			color: $colors_ressources;
+		}
+	}
+	
+	.vorteile-aufzaehlung--dienstleister{
+		li:before {
+			color: $colors_dienstleister;
+		}
+	}
+	
+	.vorteile-aufzaehlung--kunde{
+		li:before {
+			color: $colors_kunden;
+		}
+	}
+}
+
+
+// AGB Page
+
+.agb-item{
+	display: block;
+	width: 100%;
+	height: auto;
+	background-color: $orange;
+	color: #fff;
+	padding: 10px 14px;
+	font-size: 1.15rem;
+	font-weight: bold;
+	@extend .hover-transition;
+	
+	&:hover{
+		opacity: 0.6;
+		color: #fff;
+	}
+	
+	&--ressource{
+        background-color: $colors_ressources;
+    }
+    
+    &--dienstleister{
+        background-color: $colors_dienstleister;
+    }
+    
+    &--kunde{
+		background-color: $colors_kunden;
+	}
+}
+
+#agb-accept-hover{
+	display: block;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	padding: 30px;
+	background-color: $orange;
+	padding: 30px;
+	text-align: center;
+	z-index: 99999;
+	color: #fff;
+	
+	.button{
+		margin-top: 12px;
+	}
+}

@@ -1,0 +1,228 @@
+.mpay24cw-control-group {
+	margin-bottom: 15px;
+}
+
+.mpay24cw-control-label {
+	font-size: 14px;
+	display: inline-block;
+	padding: 6px 15px;
+	width: 120px;
+	font-size: 14px;
+	text-align: right;
+	float: left;
+}
+
+.mpay24cw-control-label .mpay24cw-required {
+	color: #990000;
+}
+
+.mpay24cw-control-group > label+.mpay24cw-controls {
+	margin-left: 140px;
+}
+
+ul.payment_methods .mpay24cw-control-group > label+.mpay24cw-controls
+	{
+	margin-left: 140px;
+}
+
+.mpay24cw-description {
+	margin-left: 140px;
+}
+
+.mpay24cw-error {
+	margin-left: 140px;
+	color: #D8000C;
+}
+
+.mpay24cw-element-error input[type='text'],
+	.mpay24cw-element-error input[type='password'],
+	.mpay24cw-element-error select {
+	border-color: #D8000C;
+}
+
+.mpay24cw-card-cvc input[type='text'] {
+	width: 60px;
+}
+
+.mpay24cw-multi-control .mpay24cw-controls {
+	display: inline-block;
+}
+
+.mpay24cw-multi-control {
+	overflow: auto;
+}
+
+.mpay24cw-payment-form-confirm {
+	margin-left: 140px;
+}
+
+.mpay24cw-iframe {
+	width: 100%;
+	border: none;
+}
+
+.mpay24cw-widget {
+	width: 100%;
+	border: none;
+}
+
+
+.mpay24cw-alias-hidden-new {
+	display: none;
+}
+
+.card-brand-image-box {
+	display: inline-block;
+}
+
+.card-brand-image-color.brand-is-deselected {
+	display: none;
+}
+
+.card-brand-image-grey.brand-is-selected {
+	display: none;
+}
+
+.entry-content .card-brand-image-selection img,
+	.card-brand-image-selection img {
+	width: auto;
+	height: 25px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	margin: 0 .5em 0 0;
+}
+
+.invalid-card-number, .invalid-card-number:focus, .invalid-cvc-number,
+	.invalid-cvc-number:focus, .invalid-issuer-number,
+	.invalid-issuer-number:focus {
+	border-color: #fb7f88;
+	background-image: url(../image/invalid.png);
+	background-position: 95% center;
+	background-repeat: no-repeat;
+}
+
+.valid-card-number, .valid-card-number:focus, .valid-cvc-number,
+	.valid-cvc-number:focus, .valid-issuer-number, .valid-issuer-number:focus
+	{
+	background-image: url(../image/valid.png);
+	background-position: 95% center;
+	background-repeat: no-repeat;
+}
+
+.mpay24cw-multi-control .mpay24cw-select-field select {
+	margin-right: 1em;
+}
+
+.mpay24cw-card-number .mpay24cw-multi-control select {
+	float: none;
+	margin-top: 0.2em;
+	margin-bottom: 0.2em;
+}
+
+.card-brand-image-selection {
+	margin-top: 0.5em;
+	cursor: pointer;
+}
+
+.mpay24cw-card-number .mpay24cw-html-field {
+	display: block;
+}
+
+.mpay24cw-back-to-checkout {
+	margin-top: 10px;
+	font-size: small;
+}
+
+.mpay24cw-requires-second-run {
+	display: none;
+}
+
+.mpay24cw .col2-set {
+	width: 100%;
+	margin-bottom: 24 px
+}
+
+.mpay24cw .col2-set:after, .woocommerce .col2-set:before
+	{
+	content: " ";
+	display: table;
+}
+
+.mpay24cw .col2-set :after {
+	clear: both;
+}
+
+.mpay24cw .col2-set .col-1 {
+	float: left;
+	width: 48%;
+}
+
+.mpay24cw .col2-set .col-2 {
+	float: right;
+	width: 48%;
+}
+
+.mpay24cw-external-checkout-line-items-table .head-name {
+	width: 60%;
+}
+
+.mpay24cw-external-checkout-line-items-table .head-quantity {
+	width: 10%;
+}
+
+.mpay24cw-external-checkout-line-items-table .head-total {
+	width: 30%;
+}
+
+.mpay24cw-external-checkout-line-items-table .product-quantity {
+	text-align: center;
+}
+
+.mpay24cw-external-checkout-additional {
+	width: 100%;
+	margin-bottom: 24px
+}
+
+.mpay24cw-external-checkout-terms {
+	width: 100%;
+	margin-bottom: 12px
+}
+
+.mpay24cw-external-checkout-confirm-buttons {
+	margin-bottom: 24px
+}
+
+.mpay24cw-external-checkout-account input.button {
+	margin-top: 12px
+}
+
+.cw-external-checkouts {
+	overflow: hidden;
+	margin-bottom: 12px;
+}
+
+.cw-external-checkouts .cw-external-checkout {
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 1em;
+}
+
+.mpay24cw-external-checkout-customer-details {
+	margin-bottom: 24px;
+}
+
+.mpay24cw-external-checkout-billing {
+	margin-bottom: 24px;
+}
+
+.mpay24cw-external-checkout-shipping {
+	margin-bottom: 24px;
+}
+
+.mpay24cw-external-checkout-login-info-message {
+	margin-bottom: 24px;
+}
+
+.woocommerce-checkout #payment div.payment_box p:nth-last-of-type(1) {
+	margin-bottom: 0px;
+}

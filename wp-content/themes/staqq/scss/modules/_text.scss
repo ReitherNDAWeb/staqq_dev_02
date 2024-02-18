@@ -1,0 +1,71 @@
+h1, h2, h3, h4, h5, h6{color: $text_color;}
+
+h1{
+    font-size: 2.5rem;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+h2{
+    font-size: 1.8rem;
+    margin-top: 7px;
+    margin-bottom: 20px;
+}
+
+
+p{
+    line-height: 1.35;
+    font-size: 1rem;
+    font-weight: normal;
+    color: $text_color;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: $orange;
+    
+    &:hover{
+        color: $green;
+    }
+}
+
+blockquote{
+    
+}
+
+figcaption{
+    font-size: 1rem;
+    font-weight: 300;
+    color: #B8B8B8;
+    margin-bottom: 30px;
+}
+
+.form-headline{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    font-size: 1.5rem;
+}
+
+.info-box{
+    border-radius: 2px;
+    display: block;
+    background-color: lighten($colors_zusatz_1, 20%);
+    padding: 20px 30px !important;
+    margin-top: 30px;
+
+    h2{
+        font-size: 1.1rem;
+        text-transform: uppercase;
+        font-weight: normal;
+        line-height: 1;
+        margin: 0px;
+        line-height: 33px;
+        display: inline-block;
+
+        span{
+            font-weight: bold;
+        }
+    }
+}

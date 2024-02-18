@@ -1,0 +1,1831 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "The customer does not finish the payment with in the timeout."
+msgstr "Le client n'a pas fini le paiement dans le délai imparti."
+
+msgid "Diners Club"
+msgstr "Diners Club"
+
+msgid "Transaction Uncertain"
+msgstr "La transaction est incertaine"
+
+msgid "Capture ID"
+msgstr "ID de comptabilisation"
+
+msgid "Select Brand"
+msgstr "Sélectionnez le type de la carte"
+
+msgid "Billing Address"
+msgstr "Adresse de facturation"
+
+msgid "The MDXI XML stream could not be validated."
+msgstr "Le flux XML MDXI n'a pas pu être validé."
+
+msgid "Live Site ID (PBX_SITE)"
+msgstr "Live Site ID (PBX_SITE)"
+
+msgid "Transaction Captured"
+msgstr "Transaction comptabilisée"
+
+msgid "If activating this setting, the Payment Page adapts itself to the resolution of the screen. Smallest resolution of width: 300px. (Also suitable for mobile platforms)"
+msgstr "En activant cette option, la page de paiement s'adaptera à la résolution de l'écran. Résolution minimal (largeur): 300px. (Également adapté pour les plateformes mobiles)"
+
+msgid "Widget Frame Height"
+msgstr "Hauteur du widget frame"
+
+msgid "Uncertain Status"
+msgstr "Statut incertain"
+
+msgid "Live Merchant ID"
+msgstr "Live Merchant ID"
+
+msgid "You can not submit both forms at once"
+msgstr "Vous ne pouvez pas soumettre les deux formes à la fois."
+
+msgid "An internal error occurred."
+msgstr "Une erreur interne s'est produite chez mPAY24."
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "SEPA Mandate ID"
+msgstr "SEPA Mandate ID"
+
+msgid "The site id (PBX_RANG) as defined in the backoffice of mPAY24."
+msgstr "L'identifiant du site (PBX_RANG) tel que défini dans le backoffice de mPAY24."
+
+msgid "Shopping Cart: Total Price"
+msgstr "Panier: Prix Total"
+
+msgid "Phone number was missing area code"
+msgstr "Le numéro de téléphone requière un code régional."
+
+msgid "Bank"
+msgstr "Banque"
+
+msgid "Order Prefix"
+msgstr "Préfixe pour la commande"
+
+msgid "Company Commercial Number"
+msgstr "Société Nombre de commerce"
+
+msgid "Failed transaction. State: @state"
+msgstr "La transaction a échoué. Statut: @state"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be refunded successfully."
+msgstr "Si l'état est 'En attente', il est difficile de savoir si l'opération sera remboursé avec succès."
+
+msgid "Missing payment method."
+msgstr "Méthode de paiement manquante."
+
+msgid "Rabatt"
+msgstr "Rabais"
+
+msgid "Enable/Disable"
+msgstr "Activer / Désactiver"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "The order is not fully completed. Please contact the store owner."
+msgstr "Le paiement ne peut être effectué."
+
+msgid "The payment method mismatches."
+msgstr "Le mode de paiement ne correspond pas."
+
+msgid "Order: General"
+msgstr "Commande: Général"
+
+msgid "EPS"
+msgstr "EPS"
+
+msgid "Shopping Cart: Description"
+msgstr "Panier: Description"
+
+msgid "A captured transaction cannot be marked as failed."
+msgstr "Une transaction comptabilisée ne peut pas être marquée comme échouée"
+
+msgid "INTERNATIONAL"
+msgstr "INTERNATIONAL"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Please enter here the card holder name on the card."
+msgstr "Veuillez insérer le nom du titulaire de la carte"
+
+msgid "Please choose your bank."
+msgstr "Sélectionnez votre banque."
+
+msgid "Payment Method"
+msgstr "Mode de paiement"
+
+msgid "Capturing"
+msgstr "Comptabiliser"
+
+msgid "Please select the Bank Identifier Code (BIC) of your bank."
+msgstr "Veuillez sélectionner le code d'identification de votre banque. (BIC)"
+
+msgid "Gesamt"
+msgstr "Total"
+
+msgid "The given password is empty."
+msgstr "Le mot de passe donné est vide."
+
+msgid "No order ID provided."
+msgstr "Pas de numéro de commande fourni."
+
+msgid "The password field was empty"
+msgstr "Le champ de mot de passe était vide"
+
+msgid "The phone number has to start with an area code (e.g., +49 for Germany)"
+msgstr "Le numéro de téléphone doit commencer par un indicatif régional (par exemple, +49 pour l'Allemagne)"
+
+msgid "Shopping Cart: SubTotal: Element"
+msgstr "Panier: Sous-total: Elément"
+
+msgid "Cancelled Status"
+msgstr "Statut Annulé"
+
+msgid "Hobex-DE"
+msgstr "Hobex-DE"
+
+msgid "The HMAC key as defined in the live backoffice of mPAY24. You may need generate the HMAC key. Please take a look at the manual how to do this."
+msgstr "La clé HMAC tel que défini dans le backoffice de production de mPAY24. Vous devrez peut-être générer la clé HMAC. Veuillez jeter un coup d'oeil sur le manuel pour savoir comment faire cela."
+
+msgid "Live Rang (PBX_RANG)"
+msgstr "Live Rang (PBX_RANG)"
+
+msgid "You can specify the order status for new orders that have an uncertain authorisation status."
+msgstr "Vous pouvez spécifier le statut de la commande pour les nouvelles commandes qui ont un statut d'autorisation incertain."
+
+msgid "Refund"
+msgstr "Remboursement"
+
+msgid "Bank Location"
+msgstr "Lieu de la banque"
+
+msgid "Please enter your phone number registered as Paybox identifier."
+msgstr "Veuillez entrer votre numéro de téléphone enregistré comme identifiant Paybox."
+
+msgid "Redirection is not possible."
+msgstr "Redirection n'est pas possible."
+
+msgid "Submitting order information..."
+msgstr "Soumission des données de la commande..."
+
+msgid "Transaction not found."
+msgstr "Transaction introuvable."
+
+msgid "You have to enter sales tax number of you company."
+msgstr "Vous devez insérer le numéro de la taxe de vente de votre entreprise."
+
+msgid "Every 3 days"
+msgstr "Tous les 3 jours"
+
+msgid "The transaction is only executed in the test system. The goods should not be delivered."
+msgstr "La transaction a est exécutée uniquement dans le système de test. Les produits ne doivent pas être livrés."
+
+msgid "You have to enter your social security number."
+msgstr "Veuillez insérer votre numéro de sécurité sociale."
+
+msgid "The brand of the credit card is detected by the card number if hidden authorization is used. If the payment page is used, the user has to select the brand. The allowed credit card brands can be restricted by this setting."
+msgstr "Le type de la carte de crédit est détecté par le numéro de la carte si une autorisation cachée est utilisé. Si la page de paiement est utilisé, l'utilisateur doit sélectionner la marque. Les marques de cartes de crédit autorisés peuvent être limitées par ce paramètre."
+
+msgid "Return code: OK"
+msgstr "Code Retour: OK"
+
+msgid "Create account"
+msgstr "Create account"
+
+msgid "You have to enter a card number."
+msgstr "Vous devez insérer le numéro de carte."
+
+msgid "Is Authorized"
+msgstr "Autorisé"
+
+msgid "A cancelled transaction cannot be refunded."
+msgstr "Une autorisation annulée ne peut pas être remboursée."
+
+msgid "Unfortunately the transaction could not be verified"
+msgstr "Malheureusement, l'opération n'a pas pu être vérifiée."
+
+msgid "Month"
+msgstr "Mois"
+
+msgid "Redirection"
+msgstr "Redirection"
+
+msgid "Please select your gender."
+msgstr "Veuillez sélectionner votre sexe"
+
+msgid "The provided IBAN is not plausible."
+msgstr "L'IBAN fourni n'est pas correct."
+
+msgid "The provided signature does not match with the one calculated."
+msgstr "La signature fournie ne correspond pas à celle calculée."
+
+msgid "Shipping Method"
+msgstr "Mode de livraison"
+
+msgid "Error Message:"
+msgstr "Notification d'erreur:"
+
+msgid "Shopping Cart: Product Numbers"
+msgstr "Panier: Numéros de produits"
+
+msgid "Merchant ID for test mode (beginning with 9). The Merchant ID will be provided by mPAY24"
+msgstr "Merchant ID pour le mode test (commençant avec 9). Le Merchant ID sera fourni par mPAY24"
+
+msgid "Which status should be set if the payment has been successfully authorised?"
+msgstr "Quel état doit être activé si un paiement a été autorisé avec succès?"
+
+msgid "no"
+msgstr "no"
+
+msgid "Multiple Shipping Methods"
+msgstr "Multiple Shipping Methods"
+
+msgid "Shopping Cart: Numbers"
+msgstr "Panier: Nombres"
+
+msgid "This setting defines the absolute height (in pixel) of the IFrame generated during Ajax and / or Widget Authorization."
+msgstr "Ce paramètre définit la hauteur absolue (en pixel) de l'IFrame généré au cours de l'autorisation Ajax et / ou  Widget."
+
+msgid "Profile Name"
+msgstr "Profil"
+
+msgid "A cancelled transaction cannot be captured."
+msgstr "Une transaction annulée ne peut pas être comptabilisée"
+
+msgid "#Error: @errNo"
+msgstr "#Error: @errNo"
+
+msgid "Order Description"
+msgstr "Description de la commande"
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to mPAY24. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+msgstr "Ici vous pouvez insérer un préfixe de la commande. Le préfixe vous permet de changer le numéro de commande qui est transmis à mPAY24. Le préfixe doit contenir le tag {id}. Il sera ensuite remplacé par le numéro de commande (par exemple name-{id}). Assurez-vous de ne pas utiliser '_'."
+
+msgid "Confirm email"
+msgstr "Confirm email"
+
+msgid "Figure !number:"
+msgstr "Image !number:"
+
+msgid "You have to state your bank."
+msgstr "Sélectionnez votre banque"
+
+msgid "Please enter here the bank code of your bank."
+msgstr "Veuillez insérer le code de votre banque."
+
+msgid "JCB"
+msgstr "JCB"
+
+msgid "Inactive"
+msgstr "Inactif"
+
+msgid "When using Ajax Authorization, a styling for the input form can be deposited for a merchant???s account at mPAY24. To create the styling the mPAY24 Designer should be used, which is located at https://test.mpay24.com/web/designer."
+msgstr "Lorsque vous utilisez l'autorisation Ajax, une mise en forme pour le formulaire peut être déposé pour le compte d'un marchand chez mPAY24. Pour créer le style, vous devez utiliser le mPAY24 Designer qui se trouve ici https://test.mpay24.com/web/designer."
+
+msgid "EPS Brand"
+msgstr "Marque EPS"
+
+msgid "The given identifier is empty."
+msgstr "L'identificateur donné est vide."
+
+msgid "Shipping Option"
+msgstr "Shipping Option"
+
+msgid "Currency"
+msgstr "Monnaie"
+
+msgid "Shopping Cart: Caption"
+msgstr "Panier: Titre"
+
+msgid "Footer"
+msgstr "Pied de page"
+
+msgid "The token is invalid due to missing or incorrect data."
+msgstr "Le token est invalide en raison de données manquantes ou incorrectes."
+
+msgid "No, use the dropdown."
+msgstr "Utiliser le menu déroulant"
+
+msgid "Error Text Style"
+msgstr "Style de texte d'erreur"
+
+msgid "Social Security Number"
+msgstr "Numéro de sécurité sociale"
+
+msgid "Transaction Authorized"
+msgstr "Transaction autorisée"
+
+msgid "The external payment interface returned an error."
+msgstr "L'interface de paiement externe a renvoyé une erreur."
+
+msgid "Payment ID"
+msgstr "ID de paiement"
+
+msgid "Refunds"
+msgstr "Remboursements"
+
+msgid "Preis/St??ck"
+msgstr "Prix unitaire"
+
+msgid "Date of Birth"
+msgstr "Date de naissance"
+
+msgid "Which status should be set when a transaction is labelled as paid? For payments by invoice a payment the labelling might occur with a delay; in this case this status helps keep apart paid from unpaid invoices."
+msgstr "Quel statut doit être activé si une transaction est marquée 'Payée'? En cas de paiement par facture c'est possible que la transaction soit marquée avec un délai; dans se cas, cet état aide à distinger entre les factures payées et non-payées."
+
+msgid "No shipping method available for your region"
+msgstr "No shipping method available for your region"
+
+msgid "Background"
+msgstr "Arrière-plan"
+
+msgid "You have to enter sales tax number of your company."
+msgstr "Vous devez insérer le numéro de la taxe de vente de votre entreprise."
+
+msgid "Shopping Cart: Item: Numbers"
+msgstr "Panier: Article: Numéros"
+
+msgid "Maximal Capturable Amount"
+msgstr "Maximum du montant comptabilisable"
+
+msgid "State"
+msgstr "Statut"
+
+msgid "Release Date"
+msgstr "Date de sortie"
+
+msgid "A authorized transaction cannot be marked as failed."
+msgstr "Une transaction autorisée ne peut pas être marquée comme échouée"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Captured Amount"
+msgstr "Montant comptabilisé"
+
+msgid "The transaction @tid could not be found!"
+msgstr "La transaction @tid n'a pas pu être trouvé."
+
+msgid "Please enter your issue number, if there is no CVC code on your card."
+msgstr "Veuillez insérer votre numéro, s'il n'y a pas de code CVC de votre carte."
+
+msgid "Issue Number"
+msgstr "Numéro"
+
+msgid "Pay with %s over the interface of mPAY24."
+msgstr "Pay with %s over the interface of mPAY24."
+
+msgid "Enter the date on which your card expires."
+msgstr "Veuillez sélectionner la date d’expiration"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Should the amount be captured automatically after the order (direct) or should the amount only be reserved (deferred)?"
+msgstr "Est-ce que le montant doit être comptabilisé automatiquement après la commande (direct) ou est-ce que le montant doit seulement être réservé (différé)?"
+
+msgid "Validation"
+msgstr "Valider"
+
+msgid "Produkt"
+msgstr "Produit"
+
+msgid "Rounding Adjustment"
+msgstr "Ajustements d'arrondi"
+
+msgid "Amount to capture"
+msgstr "Montant de comptabilisation"
+
+msgid "Please select the the year of your birth."
+msgstr "Veuillez  sélectionner l'année de votre date de naissance."
+
+msgid "The brand with external name '!key' was not present in the map."
+msgstr "La marque avec le nom externe '!key' n'était pas présent dans la carte."
+
+msgid "The token has not been used and is expired."
+msgstr "Le token n'a pas été utilisé et est expiré."
+
+msgid "Bank code number"
+msgstr "Numéro de code banquaire"
+
+msgid "The maximum number of payment profiles of a customer is reached."
+msgstr "Le nombre maximum de profils de paiement d'un client est atteint."
+
+msgid "The merchant???s IP address is not white listed."
+msgstr "L'adresse IP du commerçant n'est pas autorisée."
+
+msgid "The parameter @param is not supported."
+msgstr "Le paramètre @param n'est pas valide."
+
+msgid "Success Title"
+msgstr "Titre de la réussite"
+
+msgid "Klarna"
+msgstr "Klarna"
+
+msgid "This setting defines the absolute height (in pixel) of the IFrame generated during IFrame authorization."
+msgstr "Ce paramètre définit la hauteur absolue (en pixel) de l'IFrame généré lors de l'autorisation via IFrame."
+
+msgid "Hobex-AT"
+msgstr "Hobex-AT"
+
+msgid "A manual renewal debits the customer directly for this subscription. This by pass any time restriction of the automatic subscription plugin."
+msgstr "Un renouvellement manuel débite directement le client pour cet abonnement. Avec cette option, vous contournez le mécanisme automatique du plugin d'abonnement."
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "Yes, use images for the brand selection."
+msgstr "Oui, utiliser des images pour la sélection du type."
+
+msgid "Authorized Status"
+msgstr "Statut autorisé"
+
+msgid "The cancellation could not be conducted. Error code: !error."
+msgstr "L'annulation n'a pas pu être réalisée. Code d'erreur: !error."
+
+msgid "IBAN number"
+msgstr "Número du compte bancaire"
+
+msgid "Bank account number"
+msgstr "Número du compte bancaire"
+
+msgid "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown. Should the brand selection using images?"
+msgstr "La sélection de la marque de la carte se fait automatiquement à partir du numéro de carte inséré. Si Javascript n'est pas actif dans le navigateur, un menu déroulant apparaît. Si JavaScript est activé, les logos de marques peuvent être affichées. Afficher les logos au lieu du menu déroulant?"
+
+msgid "The operation failed."
+msgstr "L'opération a échoué."
+
+msgid "Continue"
+msgstr "Continuer"
+
+msgid "Error with the length of the validation date."
+msgstr "Erreur avec la longueur de la date de validation."
+
+msgid "A redirection problem occurred."
+msgstr "Un problème de redirection s'est produit."
+
+msgid "Time Out"
+msgstr "Time Out"
+
+msgid "Could not create user."
+msgstr "Impossible de créer l'utilisateur."
+
+msgid "The token data could not be decrypted."
+msgstr "Les données du token n'ont pas pu être décryptées."
+
+msgid "Shopping Cart: Tax: Header Text"
+msgstr "Panier : Impôt : Texte de l'en-tête"
+
+msgid "The token data could not be encrypted."
+msgstr "Les données du token n'ont pas pu être cryptées."
+
+msgid "Directly after order"
+msgstr "Directement après la commande"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Error Title"
+msgstr "Titre de l'erreur"
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Capture amount"
+msgstr "Montant comptabilisé"
+
+msgid "Determine whether transactions should be updated regularly or not."
+msgstr "Déterminer si les transactions doivent être régulièrement mis à jour ou pas."
+
+msgid "Live Identifier (PBX_IDENTIFIANT)"
+msgstr "Live identifiant (PBX_IDENTIFIANT)"
+
+msgid "Authorization Amount"
+msgstr "Montant de l'autorisation"
+
+msgid "Shopping Cart: General"
+msgstr "Panier: Général"
+
+msgid "After selection of payment method"
+msgstr "Après la sélection du mode de paiement"
+
+msgid "Direct E-Banking"
+msgstr "Sofort Banking"
+
+msgid "Menge"
+msgstr "Quantité"
+
+msgid "Please enter your IBAN number."
+msgstr "Veuillez insérer votre numéro IBAN."
+
+msgid "Refund Amount"
+msgstr "Refund Amount"
+
+msgid "Capture"
+msgstr "Comptabiliser"
+
+msgid "Zwischensumme"
+msgstr "Sous-total"
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to mPAY24. The prefix must contain the tag {id}. It will then be replaced by the transaction number (e.g. order_{id})."
+msgstr "Ici, vous pouvez insérer un préfixe de la commande. Le préfixe permet de changer le numéro de commande qui est transmis à mPAY24. Le préfixe doit contenir le tag {id}. Il sera ensuite remplacé par le numéro de transaction (par exemple order_ {id})."
+
+msgid "mPAY24 Profile FLEX is not activated."
+msgstr "MPAY24 Le profil FLEX n'est pas activé."
+
+msgid "Creditcard Data"
+msgstr "Données de carte de crédit"
+
+msgid "Could not load payment module."
+msgstr "Impossible de charger le module de paiement."
+
+msgid "Day"
+msgstr "Jour"
+
+msgid "ReturnCode: OK"
+msgstr "ReturnCode: OK"
+
+msgid "Break Out"
+msgstr "Break Out"
+
+msgid "Error: @returnCode"
+msgstr "Erreur: @returnCode"
+
+msgid "Dear customer, it appears to us that your payment was successful, but we are still waiting for confirmation. You can wait on this page and we will redirect you after we received the confirmation. Or you can close this window and we will send out an order confirmation email."
+msgstr "Cher client, il nous semble que votre paiement a été un succès, mais nous sommes toujours en attente de la confirmation. Vous pouvez attendre sur cette page et vous serez redirigé après que nous ayons reçu la confirmation. Vous pouvez aussi fermer cette fenêtre et nous vous enverrons un e-mail de confirmation de la commande."
+
+msgid "Shipping #%d"
+msgstr "Shipping #%d"
+
+msgid "Credit Card Brands"
+msgstr "Types de cartes de crédit"
+
+msgid "The password will be provided in the initial set up documents by mPAY24."
+msgstr "Le mot de passe sera fourni dans les documents de la configuration initiale mPAY24."
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be captured successfully."
+msgstr "Si l'état est 'En attente', il est difficile de savoir si la transaction sera capturé avec succès."
+
+msgid "Please select the day of your birth."
+msgstr "Veuillez sélectionner le jour de votre naissance."
+
+msgid "Page Header"
+msgstr "Page Header"
+
+msgid "Capture Amount"
+msgstr "Montant de comptabilisation"
+
+msgid "Could not load layout from URL !url. Reason: !reason"
+msgstr "Impossible de charger le template à partir de l'URL !url. Raison: !reason"
+
+msgid "Only captured transaction can be refunded."
+msgstr "Seulement les transaction comptabilisées peuvent être remboursées."
+
+msgid "Shipping"
+msgstr "Livraison"
+
+msgid "Please enter here the commercial number of your company."
+msgstr "Il faut insérer le numéro de commerce de votre entreprise."
+
+msgid "Order #"
+msgstr "Numéro de commande"
+
+msgid "You have to enter your bank account number."
+msgstr "Veuillez insérer l'IBAN de votre compte banquaire."
+
+msgid "BIC"
+msgstr "BIC"
+
+msgid "Select your gender"
+msgstr "Veuillez sélectionner votre sexe"
+
+msgid "Display"
+msgstr "Afficher"
+
+msgid "Please enter here the Bank Identifier Code (BIC)."
+msgstr "Veuillez insérer ici le code d'identification de banque (BIC)."
+
+msgid "The transaction has already been cleared."
+msgstr "La transaction a déjà été autorisée."
+
+msgid "Merchant ID for productive mode (beginning with 7) will be provided by mPAY24."
+msgstr "Merchant ID pour le mode live (commençant avec 7) sera fourni par mPAY24."
+
+msgid "Don't display"
+msgstr "Ne pas afficher"
+
+msgid "Shopping Cart: Price: Header"
+msgstr "Panier: Prix: En-tête"
+
+msgid "You have to enter bank code of your bank."
+msgstr "Il faut insérer le code banquaire de votre banque."
+
+msgid "Could not find template file at default location '!location'."
+msgstr "Impossible de trouver le fichier template dans le répertoire par défaut '!location'."
+
+msgid "Subscription Payment Failed with error:"
+msgstr "Paiement pour la subscription a échoué avec l'erreur:"
+
+msgid "Define a minimal order total for this checkout to be available."
+msgstr "Définir un total de commande minimale pour que ce checkout soit disponible."
+
+msgid "Enter the Merchant ID, Username and Password that you received from MPAY24 in the main module."
+msgstr "Insérez le Merchant ID, Nom d'utilisateur et mot de passe que vous avez reçu de MPAY24 dans le module principal."
+
+msgid "Minimal Order Total"
+msgstr "Montant de commande minimal"
+
+msgid "Bank: !bank"
+msgstr "Banque: !banque"
+
+msgid "No more details available."
+msgstr "No more details available."
+
+msgid "Transaction Cancelled"
+msgstr "Transaction annulée"
+
+msgid "Wrong authorization type."
+msgstr "Type d'autorisation invalide."
+
+msgid "Shopping Cart: Item: Product Numbers"
+msgstr "Panier: Article: Numéros de produits"
+
+msgid "Capture Transaction"
+msgstr "Comptabiliser la transaction"
+
+msgid "Capture status"
+msgstr "Statut de combtabilisation"
+
+msgid "Discount"
+msgstr "Rabais"
+
+msgid "@errMsg @error @desc"
+msgstr "@errMsg @error @desc"
+
+msgid "Refund status"
+msgstr "Statut de remboursement"
+
+msgid "customweb ltd"
+msgstr "customweb ltd"
+
+msgid "The capture item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "L'élément de capture avec SKU '@sku' a un montant plus élevé (@amountItem) comme l'élément d'origine (@amountOriginal)."
+
+msgid "The transaction was blocked."
+msgstr "La transaction a été bloquée."
+
+msgid "Don't change order status"
+msgstr "Ne pas modifier le statut de la commande"
+
+msgid "Select the processor for direct debits."
+msgstr "Sélectionnez le processeur pour le prélèvement automatique."
+
+msgid "Product"
+msgstr "Produit"
+
+msgid "Card Expiration"
+msgstr "Date d'expiration de la carte"
+
+msgid "Authorization Failed"
+msgstr "Autorisation a échouée"
+
+msgid "You can specify the order status for orders that are captured either directly after the order or manually in the backend."
+msgstr "Vous pouvez spécifier le statut de la commande pour les commandes qui sont capturés soit directement après la commande ou manuellement depuis le backend."
+
+msgid "Enable %s"
+msgstr "Activer %s"
+
+msgid "3D Secure sucess"
+msgstr "3D Secure avec succès"
+
+msgid "Card Holder Name"
+msgstr "Titulaire de la carte"
+
+msgid "Shipping &amp; Handling"
+msgstr "Shipping &amp; Handling"
+
+msgid "Use Default"
+msgstr "Utilisez les paramètres standard"
+
+msgid "An internal error has occurred."
+msgstr "Une erreur interne s'est produite chez mPAY24."
+
+msgid "This is a brief installation instruction of the main and most important installation steps. It is important that you strictly follow the check-list. Only by doing so, the secure usage in correspondence with all security regulations can be guaranteed."
+msgstr "Ceci est un petit guide d'installation des paramètres principaux et les plus importantes étapes de l'installation. Il est important que vous suiviez strictement la liste de contrôle. En suivant la liste correctement, l'utilisation sécurisée en correspondance avec tous les règlements de sécurité peut être garantie."
+
+msgid "Could not find a brand for the given card number."
+msgstr "Impossible de trouver une marque pour le numéro de carte donnée."
+
+msgid "Shopping Cart: Item Price"
+msgstr "Panier: Prix de l'article"
+
+msgid "Please enter here the number on your card."
+msgstr "Veuillez insérer le numéro de carte bancaire."
+
+msgid "Register"
+msgstr "Inscrivez-vous"
+
+msgid "Activated"
+msgstr "Activé"
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "mPAY24 payment profile could not be found."
+msgstr "Le profil de paiement mPAY24 n'a pas pu être trouvé."
+
+msgid "External Checkout"
+msgstr "Vérification externe"
+
+msgid "Payment Information"
+msgstr "Conditions de vente"
+
+msgid "MasterCard"
+msgstr "MasterCard"
+
+msgid "Shopping Cart: ShippingCosts: Header Text"
+msgstr "Panier: Livraison: texte de l'en-tête"
+
+msgid "Atos"
+msgstr "Atos"
+
+msgid "The capture item with SKU '@sku' is not present in the original order."
+msgstr "L'élément de capture avec SKU '@sku' n'est pas présent dans la commande original."
+
+msgid "mPAY24 Profile is not activated."
+msgstr "mPAY24 Profile is not activated."
+
+msgid "The alias transaction could not be conductet with error code: !code, and reason: !reason:"
+msgstr "La transaction alias n'a pas pu être réalisée. Code d'erreur: !code et raison: !reason"
+
+msgid "Please select a shipping method"
+msgstr "Please select a shipping method"
+
+msgid "You have to enter the account holder name."
+msgstr "Veuillez insérer ici le nom du titulaire de la carte."
+
+msgid "The transaction was declined by the external payment interface."
+msgstr "La transaction a été refusée par l'interface de paiement externe."
+
+msgid "The email address field was empty"
+msgstr "Le champ d'adresse email était vide"
+
+msgid "The total refund amount (!totalRefundedAmount) cannot be greater than the captured amount (!capturedAmount)."
+msgstr "Le montant total du remboursement (!totalRefundedAmount) ne peut pas être supérieur à la quantité capturée (!capturedAmount)."
+
+msgid "If it is not applicable leave the field empty."
+msgstr "Si ce n'est pas applicable veuillez laisser le champ vide."
+
+msgid "Payment Notification"
+msgstr "Notification de paiement"
+
+msgid "The payment method !paymentMethodName does not support the currency '!currency'."
+msgstr "La méthode de paiement !paymentMethodName ne supporte pas la devise '!currency'."
+
+msgid "Every 12 hours"
+msgstr "Toutes les 12 heures"
+
+msgid "Unfortunately your data could not be stored and therefore are no recurring transactions possible. Please try again later."
+msgstr "Malheureusement vos données ne peuvent pas être stockées et à cause de ça, les transactions récurrentes ne sont pas possible. Veuillez réessayer plus tard."
+
+msgid "Live Mode"
+msgstr "Live Mode"
+
+msgid "Beschreibung"
+msgstr "Description"
+
+msgid "Transaction aborted."
+msgstr "Transaction annulée"
+
+msgid "You have to enter commercial number of you company."
+msgstr "Il faut insérer le numéro de commerce de votre entreprise."
+
+msgid "The given card number has an invalid length."
+msgstr "Le numéro de carte inséré a une longueur invalide."
+
+msgid "The merchant id is locked."
+msgstr "L'ID marchand est verrouillé."
+
+msgid "Shopping Cart: Discount: Header Text"
+msgstr "Panier: Rabais: texte de l'en-tête"
+
+msgid "Shopping Cart: Discount: Element"
+msgstr "Panier: Rabais: Elément"
+
+msgid "Select the authorization method to use for processing this payment method."
+msgstr "Sélectionnez un mode d'autorisation pour le traitement de ce mode de paiement."
+
+msgid "Maximal Order Total"
+msgstr "Montant de commande maximal"
+
+msgid "Close transaction for further refunds."
+msgstr "Fermez la transaction pour d'autres remboursements."
+
+msgid "Shopping Cart: Background"
+msgstr "Panier: Arrière-plan"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Close transaction for further captures."
+msgstr "Fermer la transaction pour d'autres comptabilisations."
+
+msgid "A captured transaction cannot be authorized."
+msgstr "Une transaction comptabilisée ne peut pas être autorisée."
+
+msgid "Captures"
+msgstr "Comptabilisations"
+
+msgid "Which status should be set if a problem with the authorisation has occurred? In these cases you must manually verify if the customer has been charged with the amount."
+msgstr "Quel statut doit être activé si un problème se produit avec l'autorisation? Pour les commandes avec ce statut il faudra vérifier manuellement si le montant a été comptabilisé ou pas."
+
+msgid "Please enter here your social security number."
+msgstr "Veuillez insérer votre numéro de sécurité sociale."
+
+msgid "You can specify the order status when an order is cancelled."
+msgstr "Vous pouvez spécifier le statut de la commande quand une commande est annulée."
+
+msgid "Activate"
+msgstr "Activé"
+
+msgid "No transaction ID provided."
+msgstr "Aucune ID de la transaction a été fourni."
+
+msgid "Please validate your input."
+msgstr "Veuillez valider votre saisie."
+
+msgid "Shopping Cart: ShippingCosts: Header"
+msgstr "Panier: Frais de port: en-tête"
+
+msgid "Less Details"
+msgstr "Moins de détails"
+
+msgid "The username for Payment Page transaction via mPAY24 will be provided in the initial set up documents."
+msgstr "Le nom d'utilisateur pour la transaction Paiement Page via mPAY24 sera fourni dans les documents de la configuration initiale."
+
+msgid "<span class=\"card-expiry-format-note\">The expected format is '!format' where the 'MM' means the month number and 'YY' the year number.</span>"
+msgstr "<span class=\"card-expiry-format-note\">Le format doit être '!format' où le 'MM' veut indiquer le numéro du mois et 'AA' le numéro de l'année.</span>"
+
+msgid "An internal error at mPAY24 occurred."
+msgstr "Une erreur interne s'est produite chez mPAY24."
+
+msgid "Transaction Updates"
+msgstr "Mises à jour pour les transactions"
+
+msgid "Please select the expiry year on your card."
+msgstr "Veuillez insérer la date d'expiration de la carte."
+
+msgid "The refunding could not be conducted. Error code: !error."
+msgstr "Le remboursement n'a pas pu être réalisé. Code d'erreur: !error."
+
+msgid "This password is used for recurring payments and for the alias manager as well as for the server authorization. This is the password of the mPAY24 account."
+msgstr "Ce mot de passe est utilisé pour les paiements récurrents et pour la gestion des alias, ainsi que pour l'autorisation du serveur. C'est le mot de passe du compte mPAY24."
+
+msgid "Deferred (authorization)"
+msgstr "Différé (autorisation)"
+
+msgid "Define a maximal order total for this checkout to be available."
+msgstr "Définir un total de commande maximale pour que ce checkout soit disponible."
+
+msgid "The Maestro card number is not plausible."
+msgstr "Le numéro de  carte Maestro n'est pas correct."
+
+msgid "Costs"
+msgstr "Costs"
+
+msgid "The transaction id (TID) did not match"
+msgstr "L'ID de la transaction (TID) ne correspond pas."
+
+msgid "The transaction failed with error code !code."
+msgstr "L'opération a échoué avec le code d'erreur: !code."
+
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgid "Preis"
+msgstr "Prix"
+
+msgid "The temporary cache data are invalid due to expiration."
+msgstr "Les données de cache temporaire sont invalides en raison de l'expiration."
+
+msgid "Could not convert object of type '!type' to string."
+msgstr "Impossible de convertir objet de type '!type' à string."
+
+msgid "Shopping Cart: Numbers Header Text"
+msgstr "Panier : Numéros de l'en-tête"
+
+msgid "Activate the payment method that you want to process transactions with."
+msgstr "Activez le mode de paiement que vous souhaitez accepter les transactions avec."
+
+msgid "Failed Order Status"
+msgstr "Statut des commandes échouées"
+
+msgid "The controller class '@controller' does not provide any method with annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' and valid output."
+msgstr "Le contrôleur '@controller' ne fournit pas de méthode avec l'annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' et de données valides."
+
+msgid "Reference Number: !reference"
+msgstr "Numéro de référence: !Reference"
+
+msgid "Please enter the state you live in"
+msgstr "Veuillez insérer l'état où vous habitez."
+
+msgid "The refund item with SKU '@sku' is not present in the original order."
+msgstr "L'article de remboursement avec SKU '@sku' n'est pas présent dans la commande originale."
+
+msgid "Test Password"
+msgstr "Test Password"
+
+msgid "Please enter the location of your bank."
+msgstr "Vous devez insérer le lieu de votre banque."
+
+msgid "The total amount of all clearing exceeds the reservation amount."
+msgstr "Le montant total de la compensation dépasse le montant de la réservation."
+
+msgid "VISA"
+msgstr "VISA"
+
+msgid "Female"
+msgstr "Femelle"
+
+msgid "Continue to your the order confirmation"
+msgstr "Continuer à la confirmation de commande."
+
+msgid "The capture amount (!captureAmount) cannot be greater than the authorized amount (!authorizedAmount)."
+msgstr "Le montant de comptabilisation (!captureAmount) ne peut pas être supérieur au montant autorisé (!authorizedAmount)."
+
+msgid "Male"
+msgstr "Mâle"
+
+msgid "The validation of the payment can be carried out at various points during the order process. The validation can be controlled with this option."
+msgstr "La validation du paiement peut être effectué à différents moments au cours du processus de commande. Vous pouvez contrôler cela avec cette option."
+
+msgid "You have to activate JavaScript in your browser to complete the payment."
+msgstr "Vous devez activer JavaScript dans votre navigateur pour effectuer le paiement."
+
+msgid "The given CVC code has the wrong length."
+msgstr "Le code CVC inséré a une longeur incorecte."
+
+msgid "With this payment method it is not necessary to provide the billing address. It is possible to display it on the payment page though."
+msgstr "Avec cette méthode de paiement, il n'est pas nécessaire de fournir l'adresse de facturation. Il est possible de l'afficher sur la page de paiement."
+
+msgid "Shopping Cart: Item Price Header Text"
+msgstr "Panier: Texte de l'élément prix en-tête"
+
+msgid "Token expired"
+msgstr "Token expiré"
+
+msgid "Short Installation Instructions:"
+msgstr "Instructions d'installation:"
+
+msgid "The rang (PBX_RANG) as defined in the live backoffice of mPAY24. It must be nummeric value with length two. In the backoffice it may be displayed as a three char value. You must truncate the first digit."
+msgstr "Le champ 'rang' (PBX_RANG) tel que défini dans le backoffice de production de mPAY24. Il doit être nummeric avec deux caractères de long. Dans le backoffice il peut être affiché comme trois caractères. Vous devez tronquer le premier chiffre."
+
+msgid "Shopping Cart: Description Header Text"
+msgstr "Panier: Description de l'en-tête"
+
+msgid "Billpay"
+msgstr "BillPay"
+
+msgid "Total amount computed over all lineitems (%f) does not match cart total (%f)"
+msgstr "Total amount computed over all lineitems (%f) does not match cart total (%f)"
+
+msgid "This transaction is already closed for further refunds."
+msgstr "Cette transaction a déjà été fermée pour d'autres remboursements."
+
+msgid "CVC Code"
+msgstr "Code de sécurité (CVC)"
+
+msgid "When the store is not available (network outage, server failure or any other outage), when the feedback of mPAY24 is sent, then the transaction state is not updated. Hence no order confirmation e-mail is sent and the order is not in the paid state. By activating the transaction update, such transactions can be authorized later over direct link. To use this feature the update service must be activated and the API username and the API password must be set."
+msgstr "Lorsque la boutique n'est pas disponible (panne de réseau, une panne de serveur ou de toute autre panne), après le retour de mPAY24 envoyé,  le statut de la transaction ne sera pas mis à jour. Par conséquent, aucune confirmation de commande sera envoyé par e-mail et la commande n'aura pas le statut payé. En activant la mise à jour de la transaction, ces opérations peuvent être autorisées plus tard sur la liaison directe. Pour utiliser cette fonction, le service de mise à jour doit être activé et le nom d'utilisateur de l'API et le mot de passe de l'API doit être aussi configuré."
+
+msgid "Select the date of your birth."
+msgstr "Veuillez sélectionner votre date de naissance."
+
+msgid "Mpay24Cw Interval"
+msgstr "Mpay24Cw Interval"
+
+msgid "Input Fields"
+msgstr "Champs de saisie"
+
+msgid "Once a day"
+msgstr "Une fois par jour"
+
+msgid "Test Mode"
+msgstr "Mode test"
+
+msgid "The amount of !amount is authorized."
+msgstr "Le montant de !amount est autorisé."
+
+msgid "Shopping Cart: Item: Quantity"
+msgstr "Panier: Article: Quantité"
+
+msgid "Hobex-NL"
+msgstr "Hobex-NL"
+
+msgid "A failed authorization cannot be authorized."
+msgstr "Une transaction échouée ne peut pas être autorisée."
+
+msgid "Pending"
+msgstr "En attente"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "The layout does not contain the tag '!layout_tag'."
+msgstr "Le layout ne contient pas le mot-clé '!layout_tag'."
+
+msgid "Cancel status"
+msgstr "Statut d'annulation"
+
+msgid "Processing..."
+msgstr "Traitement en cours..."
+
+msgid "Refunded Amount"
+msgstr "Montant du remboursement"
+
+msgid "Directly after order (sale)"
+msgstr "Directement après la commande"
+
+msgid "Only authorized transaction can be cancelled."
+msgstr "Seulement les transactions autorisées peuvent être annulées."
+
+msgid "You have to enter the location of your bank."
+msgstr "Vous devez insérer le lieu de votre banque."
+
+msgid "Phone number"
+msgstr "Numéro de téléphone"
+
+msgid "You have to enter the card holder name on the card."
+msgstr "Vous devez insérer le titulaire de la carte."
+
+msgid "You do have the option to style the payment pages. In the payment page styling section you are able to define your CSS that will be applied to the payment pages."
+msgstr "Vous avez la possibilité de changer les pages de paiement. Dans la section 'payment page styling', vous pouvez définir votre CSS qui sera appliqué aux pages de paiement."
+
+msgid "Only authorized transaction can be refunded."
+msgstr "Seulement les transactions autorisées peuvent être remboursées"
+
+msgid "Select the processor for open invoice."
+msgstr "Choisissez le processeur pour open invoice."
+
+msgid "Your Payment"
+msgstr "Votre paiement"
+
+msgid "Test Transaction"
+msgstr "Transaction de test"
+
+msgid "Bad signature format."
+msgstr "Format de signature incorrect"
+
+msgid "Set here the minimal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "Ce mode de paiement est seulement disponible si le montant total est supérieur que le montant défini ici. S'il est réglé à zéro, il sera toujours disponible."
+
+msgid "You have to enter your IBAN Number."
+msgstr "Il faut insérer l'IBAN du compte banquaire"
+
+msgid "Please check the entered CVC number."
+msgstr "Veuillez vérifier le numéro CVC entré."
+
+msgid "Create a recurring payment, with an existing alias is not supported"
+msgstr "Création d'un paiement récurrent avec un alias existant n'est pas possible."
+
+msgid "The parameters \"3DSIGNVAL\" was false."
+msgstr "Le paramètre \"3DSIGNVAL\" était faux."
+
+msgid "A cancelled transaction cannot be authorized."
+msgstr "Une transaction annulée ne peut pas être autorisée."
+
+msgid "Set the sort order to show the external checkouts."
+msgstr "Définir l'ordre de montrer les checkouts externes."
+
+msgid "Please enter here the account holder name."
+msgstr "Veuillez insérer ici le nom du titulaire du compte."
+
+msgid "Subscriptions: Add Manual Renewal"
+msgstr "Subscriptions: Ajouter renouvellement manuellement"
+
+msgid "mPAY24 Profil is not activated."
+msgstr "MPAY24 Le profil n'est pas activé."
+
+msgid "Shopping Cart: Price: Element"
+msgstr "Panier: Prix: Elément"
+
+msgid "Please select"
+msgstr "Sélectionner s'il vous plaît"
+
+msgid "A refund was added over !amount."
+msgstr "Un remboursement de !amount a été ajouté."
+
+msgid "No @name found in settings"
+msgstr "Aucun @name trouvé dans la configuration"
+
+msgid "Account Holder: !holder"
+msgstr "Titulaire du compte: !holder"
+
+msgid "Transaction failed the update @number @times. Return code: @return"
+msgstr "La transaction a échoué la mise à jour @number @times. Code de retour: @return"
+
+msgid "The payment could not be processed. However, it seems that the payment was successful nevertheless. Your order was created and can be seen on the order confirmation page. Please contact us to find out more about the status of the order."
+msgstr "Le paiement n'a pas pu être traité. Cependant, il semble que le paiement a réussi. Votre commande a été créé et peut être vue sur la page de confirmation de commande. Veuillez nous contacter pour en savoir plus sur le statut de la commande."
+
+msgid "More Details"
+msgstr "Plus de détails"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Captured Status"
+msgstr "Statut de capture"
+
+msgid "Refund ID"
+msgstr "ID de remboursement"
+
+msgid "The following input fields allows the styling of the payment page. The input must be valid CSS instructions. e.g. 'background-color: #FF0000;'. Except the fields ending with 'Text', which will insert the its value literally"
+msgstr "Les champs suivants permettent le style de la page de paiement. Les champs doivent avoir des instructions CSS valides. Par exemple 'Couleur d'arrière-plan: #FF0000;'. Les champs terminant avec 'Text' vont afficher le texte inséré."
+
+msgid "Determine the status of an order, which failed during the update of the transaction over the cron. This setting requires an update interval above."
+msgstr "Déterminer l'état d'une commande, qui a échoué lors de la mise à jour de la transaction avec le cron. Ce réglage nécessite un intervalle de mise à jour."
+
+msgid "This status is set, when the payment was successfull and it is authorized."
+msgstr "Cet état est défini, lorsque le paiement a été un succès et il est autorisé."
+
+msgid "Shopping Cart: Item: Item Price"
+msgstr "Panier: Article: Point de prix"
+
+msgid "No update"
+msgstr "Aucune mise à jour"
+
+msgid "The identifier as defined in the backoffice of mPAY24."
+msgstr "L'identifiant tel que défini dans le backoffice de mPAY24."
+
+msgid "Add manual renewal"
+msgstr "Ajouter renouvellement manuel"
+
+msgid "Failed"
+msgstr "Raté"
+
+msgid "The SEPA mandate schema does not contain the tag '!tag'. This tag is required."
+msgstr "Le schéma de mandat SEPA ne contient pas le mot-clé '!tag'. Ce mot-clé est obligatoire."
+
+msgid "You have to enter the BIC."
+msgstr "Vous devez saisir le code BIC."
+
+msgid "American Express"
+msgstr "American Express"
+
+msgid "Invalid MDXI!"
+msgstr "MDXI invalide"
+
+msgid "Shopping Cart: Tax: Element"
+msgstr "Panier: Impôt: Elément"
+
+msgid "Could not find profile! Return code: @returnCode"
+msgstr "Impossible de trouver le profil. Code de retour: @returnCode"
+
+msgid "Shopping Cart: Item: Description"
+msgstr "Panier: Article: Description"
+
+msgid "Please select the month of your birth."
+msgstr "Veuillez sélectionner le mois de votre date de naissance."
+
+msgid "The given rang is invalid. It must be a nummeric value with length of two."
+msgstr "Le champ 'rang' n'est pas valide. Il doit être une valeur numérique avec une longueur de deux."
+
+msgid "Cancel ID"
+msgstr "Cancel ID"
+
+msgid "Here you can insert an order description. If the description contains the tag {id}, it will then be replaced by the transaction id. (e.g. name {id})."
+msgstr "Ici, vous pouvez insérer une description de la commande. Si la description contienne le tag {id}, il sera remplacé par l'id de la transaction. (p. ex. nom {id})."
+
+msgid "Cancel Transaction"
+msgstr "Annuler la transaction"
+
+msgid "Cart has been modified after displaying order review"
+msgstr "Cart has been modified after displaying order review"
+
+msgid "Shopping Cart: Quantity Header Text"
+msgstr "Panier: Texte d'en-tête quantité"
+
+msgid "Paid Status"
+msgstr "État payé"
+
+msgid "Shopping Cart: Total Price Header Text"
+msgstr "Panier: Texte d'en-tête du prix total"
+
+msgid "mPAY24 Transactions"
+msgstr "Transactions de mPAY24"
+
+msgid "Cart Subtotal"
+msgstr "Cart Subtotal"
+
+msgid "Once a week"
+msgstr "Une fois par semaine"
+
+msgid "Invalid Email/Username"
+msgstr "Email / nom d'utilisateur incorrecte"
+
+msgid "A authorized transaction cannot be authorized again."
+msgstr "Une transaction autorisée ne peut pas être autorisée à nouveau."
+
+msgid "Shopping Cart: Header"
+msgstr "Panier: en-tête"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "The authorization method '!method' is not supported."
+msgstr "Le mode d'autorisation '!method' n'est pas accepté."
+
+msgid "Save Shipping Method"
+msgstr "Sauvegarder le mode de livraison"
+
+msgid "Please enter here the CVC code from your card. You find the code on the back of the card."
+msgstr "Insérez le code de sécurité de la carte. Vous le trouverez à l’arrière de la carte"
+
+msgid "Transaction Number"
+msgstr "Numéro de transaction"
+
+msgid "IBAN: !iban"
+msgstr "IBAN: !iban"
+
+msgid "Amount to refund"
+msgstr "Montant à rembourser"
+
+msgid "The signature could not be verified."
+msgstr "La signature ne peut pas être vérifiée."
+
+msgid "Shipping Address"
+msgstr "Adresse de livraison"
+
+msgid "The parameter @param was not valid."
+msgstr "Le paramètre @param n'est pas correct."
+
+msgid "Please enter your phone number"
+msgstr "Veuillez insérer votre numéro de téléphone."
+
+msgid "Please enter here the International Bank Account Number (IBAN)."
+msgstr "Veuillez insérer l'IBAN de votre compte banquaire."
+
+msgid "Geb??hren"
+msgstr "Frais"
+
+msgid "Pay"
+msgstr "Payer"
+
+msgid "Operation Mode"
+msgstr "Mode de fonctionnement"
+
+msgid "Account owner name."
+msgstr "Nom du titulaire du compte"
+
+msgid "The next update execution date indicates when the next cron is run to update the transaction state."
+msgstr "La prochaine date d'exécution de mise à jour indique lorsque le cron suivant sera exécuté pour mettre à jour l'état de la transaction."
+
+msgid "Action"
+msgstr "Action"
+
+msgid "The parameter price holds invalid values."
+msgstr "Le prix du paramètre contient des valeurs non valides."
+
+msgid "Shopping Cart: SubTotal: Header Text"
+msgstr "Panier: Sous-total: texte de l'en-tête"
+
+msgid "3D Secure failed"
+msgstr "3D Secure a échoué."
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "Ce setting contrôle le titre qui est affiché pendant la commande."
+
+msgid "Every 18 hours"
+msgstr "Toutes les 18 heures"
+
+msgid "Shopping Cart: Product Numbers Header Text"
+msgstr "Panier: Le texte d'en-tête de numéros de produit"
+
+msgid "Error: @code"
+msgstr "Erreur: @code"
+
+msgid "Shopping Cart: Price: Header Text"
+msgstr "Panier: Prix: Texte de l'en-tête"
+
+msgid "Please enter here the account holder name on the card."
+msgstr "Veuillez insérer ici le nom du titulaire de la carte."
+
+msgid "The transaction has been processed and can not be processed again."
+msgstr "La transaction a déjà été traitée et ne peut être traitée à nouveau."
+
+msgid "About"
+msgstr "À propos de nous"
+
+msgid "Only an uncertain transaction can be marked as finally declined."
+msgstr "Seulement une transaction incertaine peut être marquée comme déclinée."
+
+msgid "The whole transaction is cancelled."
+msgstr "Toute la transaction a été annulée."
+
+msgid "Maximal Refundable Amount"
+msgstr "Maximum du montant remboursable"
+
+msgid "The amount of !amount is captured."
+msgstr "Le montant de !amount est capturé."
+
+msgid "Account creation"
+msgstr "Account creation"
+
+msgid "Payment"
+msgstr "Paiement"
+
+msgid "The customer is now in the payment process of mPAY24."
+msgstr "Le client est maintenant dans le processus de paiement de mPAY24."
+
+msgid "Transaction Paid"
+msgstr "Transacion payée"
+
+msgid "The refund item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "L'article de remboursement avec SKU '@sku' a un montant plus élevé (@amountItem) comme l'article d'origine (@amountOriginal)."
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "yes"
+msgstr "Oui"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "You have to enter the CVC code from your card."
+msgstr "Vous devez insérer le code CVC de votre carte."
+
+msgid "Successful"
+msgstr "Succès"
+
+msgid "The capturing could not be conducted. Error code: !error."
+msgstr "La capture n'a pas pu être réalisée. Code d'erreur: !error."
+
+msgid "The token has not been found or has already been used."
+msgstr "Le token est introuvable ou a déjà été utilisé."
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to Authorize.net. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+msgstr "Ici vous pouvez insérer un préfixe de la commande. Le préfixe vous permet de changer le numéro de commande qui est transmis à mPAY24. Le préfixe doit contenir le tag {id}. Il sera ensuite remplacé par le numéro de commande (par exemple name-{id}). Assurez-vous de ne pas utiliser '_'."
+
+msgid "Your browser does not allow the execution of JavaScript. Please activate JavaScript in your browser and reload this page."
+msgstr "Votre navigateur ne permet pas l'exécution de JavaScript. Veuillez activer JavaScript dans votre navigateur et recharger cette page."
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "Awaiting confirmation"
+msgstr "En attente de confirmation"
+
+msgid "Only authorized transaction can be captured."
+msgstr "Seulement les transactions autorisées peuvent être comptabilisées."
+
+msgid "Other Discount"
+msgstr "Autre rabais"
+
+msgid "A captured transaction cannot be cancelled."
+msgstr "Une transaction comptabilisée ne peut pas être annulée."
+
+msgid "Update Transactions"
+msgstr "Mises à jour pour les transactions"
+
+msgid "Unfortunately we suffered some technical difficulties. The transaction was aborted and no charging took place."
+msgstr "Malheureusement nous avons souffert des difficultés techniques. La transaction a été annulée et le montant n'a pas été débité de la carte."
+
+msgid "Shopping Cart: Tax: Header"
+msgstr "Panier: Impôt: En-tête"
+
+msgid "A cancelled transaction cannot be cancelled again."
+msgstr "Une transaction annulée ne peut pas être annulée à nouveau."
+
+msgid "The given site number is empty."
+msgstr "Le nombre de site donné est vide."
+
+msgid "The currency did not match"
+msgstr "La monnaie ne correspond pas."
+
+msgid "Dynamic Payment Page"
+msgstr "Page de paiement dynamique"
+
+msgid "Versandkosten"
+msgstr "Frais de port"
+
+msgid "Order Review"
+msgstr "Revue de la commande"
+
+msgid "You have to enter the account holder name on the card."
+msgstr "Vous devez insérer le nom du titulaire de la carte."
+
+msgid "Shopping Cart: Package Header Text"
+msgstr "Panier: Texte d'en-tête du paquet"
+
+msgid "3D Secure Authentication"
+msgstr "Authentification 3D Secure"
+
+msgid "I confirm my payment"
+msgstr "Je confirme le paiement"
+
+msgid "BillPay"
+msgstr "BillPay"
+
+msgid "This setting can be used to activate resp. deactivate the 3D secure check. Please check with PayBox if you are allowed to deactivate the 3D secure check. This setting has only an effect when you use the payment page."
+msgstr "Ce setting peut être utilisé pour activer ou désactiver le contrôle 3D Secure. Veuillez vérifier avec PayBox si vous êtes autorisé à désactiver le contrôle 3D Secure. Ce paramètre aura seulement un effet que si vous utilisez la page de paiement."
+
+msgid "Processor"
+msgstr "Processeur"
+
+msgid "Transaction Number Prefix"
+msgstr "Préfixe pour le numéro de transaction"
+
+msgid "Select the date on which your card expires."
+msgstr "Séléctionnez la date d'expiration de la carte."
+
+msgid "Bank Name"
+msgstr "Nom de la banque"
+
+msgid "The payment method !paymentMethodName is not available in your country ('!country')."
+msgstr "La méthode de paiement !paymentMethodName n'est pas disponible dans votre pays ('!country')."
+
+msgid "Next Update Execution Date"
+msgstr "Prochaine mise à jour"
+
+msgid "Unexpected return code received: @returnCode"
+msgstr "Code retour inattendu reçu: @returnCode"
+
+msgid "Customer sucessfully returned from the Mpay24Cw payment page."
+msgstr "Client retourné avec succès de la page de paiement de Mpay24Cw."
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Recurring profile could not be created"
+msgstr "Profil récurrent n'a pas pu être créé."
+
+msgid "Please enter here the sales tax number of your company."
+msgstr "Veuillez insérer ici le numéro de taxe de vente de votre entreprise."
+
+msgid "The credit card number is not plausible."
+msgstr "Le numéro de carte de crédit n'est pas correct."
+
+msgid "A transaction may be uncertain, when the payment is not guaranteed. For example in case the credit card does not participate in the 3D procedure."
+msgstr "Une transaction peut être incertaine si le paiement n'est pas garanti. Par example, si la carte de crédit ne fait pas partie du processus 3D secure."
+
+msgid "Shopping Cart: SubTotal: Header"
+msgstr "Panier: Sous-total: en-tête"
+
+msgid "No profile found for charging!"
+msgstr "Pas de profil trouvé pour charging!"
+
+msgid "If you have any issues with the module please feel free to contact us. See our <a href='https://www.sellxed.com/en/support' target='_blank'>support page</a> for more information."
+msgstr "Si vous avez des problèmes avec le module, n'hésitez pas à nous contacter. Consultez notre <a href='https://www.sellxed.com/en/support' target='_blank'>page d'assistance</a> pour plus d'informations."
+
+msgid "Order Total"
+msgstr "Total de la commande"
+
+msgid "The given hmac key is empty."
+msgstr "La clé HMAC donnée est vide."
+
+msgid "The parameter @param could not be found."
+msgstr "Le paramètre @param n'a pas pu être trouvé."
+
+msgid "The given rang is empty. It must be a nummeric value with length of two."
+msgstr "Le champ 'rang' donné est vide. Il doit être une valeur nummerique avec une longueur de deux."
+
+msgid "IFrame Height"
+msgstr "Hauteur de l'iFrame"
+
+msgid "If the test mode is selected the test account is used. Otherwise the configured account is used."
+msgstr "Si le mode de test est sélectionné, le compte test sera utilisé. Sinon, le compte configuré sera utilisé."
+
+msgid "Dear customer we have received your billing and shipping information. In order to finish your order please create an account below or checkout as guest."
+msgstr "Cher client, nous avons reçu votre information de facturation et de livraison. Pour terminer votre commande veuillez créer un compte ci-dessous ou continuez en tant qu'invité."
+
+msgid "The EPS payment type supports two so called brands. The brand EPS is used for EPS online-banking transactions with Austrian banks. The brand INTERNATIONAL is used for interoperability of EPS online-banking with Giropay online-banking and allows to use Austrian banks as well as German banks. The interoperability is is only available with an additional EPS agreement. Please contact mPAY24 for further information."
+msgstr "Le type de paiement EPS supporte deux marques. La marque EPS est utilisée pour les opérations bancaires en ligne EPS avec les banques autrichiennes. La marque INTERNATIONAL est utilisée pour l'interopérabilité des services bancaires en ligne EPS avec la banque en ligne Giropay et permet d'utiliser les banques autrichiennes ainsi que les banques allemandes. L'interopérabilité n'est disponible qu'avec un accord EPS supplémentaire. Veuillez contacter mPAY24 pour plus d'informations."
+
+msgid "You can choose a previous used card:"
+msgstr "Vous pouvez choisir une carte déjà utilisée:"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Shopping Cart: Package"
+msgstr "Panier: paquet"
+
+msgid "Shopping Cart: Item: Package"
+msgstr "Panier: Article: Paquet"
+
+msgid "Select card"
+msgstr "Sélectionnez le type de la carte"
+
+msgid "By setting the capturing the reservation can be captured directly after the order or later manually over the backend of the store."
+msgstr "En configurant la capture, les réservations peuvent être capturés directement après la commande ou plus tard manuellement depuis le backend du magasin."
+
+msgid "Please select the expiry month on your card."
+msgstr "Sélectionnez le mois de l'expiration de votre carte"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "The payment failed due to an unknown error."
+msgstr "Le paiement a échoué à cause d'une erreur inconnue."
+
+msgid "Parameter \"USER_FIELD\" did not match"
+msgstr "Paramètre \"USER_FIELD\" ne correspond pas."
+
+msgid "Deactivated"
+msgstr "Désactivé"
+
+msgid "Refund Transaction"
+msgstr "Rembourser la transaction"
+
+msgid "Only an authorized transaction can be marked as finally declined."
+msgstr "Seulement une transaction autorisée peut être marquée comme finalement déclinée."
+
+msgid "An error during the communication occurred."
+msgstr "Une erreur s'est produite pendant la communication."
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "Set here the maximal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "Ce mode de paiement est seulement disponible si le montant total est moins que le montant défini ici. S'il est réglé à zéro, il sera toujours disponible."
+
+msgid "A cancelled transaction cannot be marked as failed."
+msgstr "Une transaction annulée ne peut pas être marquée comme échouée."
+
+msgid "Check to activate the external checkout."
+msgstr "Marquer cette option pour activer la vérification externe."
+
+msgid "Not a valid shipping method"
+msgstr "Not a valid shipping method"
+
+msgid "Could not find the payment method !paymentMethodName."
+msgstr "Impossible de trouver le mode de paiement !paymentMethodName."
+
+msgid "Current File:"
+msgstr "Fichier actuel:"
+
+msgid "Brand Name"
+msgstr "Nom de marque"
+
+msgid "Description"
+msgstr "Ce setting contrôle la description que l'utilisateur voit pendant le checkout."
+
+msgid "Show Billing Address"
+msgstr "Montrer l'adresse de facturation"
+
+msgid "Free"
+msgstr "Free"
+
+msgid "Page Caption"
+msgstr "Légende de la page"
+
+msgid "Place Order"
+msgstr "Soumettre la commande"
+
+msgid "Operation failed: @details"
+msgstr "L'opération a échoué: @details"
+
+msgid "The given card number has an invalid check sum."
+msgstr "Le numéro de carte donné a une somme de contrôle invalide."
+
+msgid "Please enter the name of your bank."
+msgstr "Veuillez insérer ici le nom de votre banque."
+
+msgid "Direct Debits"
+msgstr "Direct Debits"
+
+msgid "Email / Username"
+msgstr "Email / Username"
+
+msgid "Account Holder Name"
+msgstr "Nom du titulaire du compte"
+
+msgid "Operation was declined!"
+msgstr "Opération a été refusée."
+
+msgid "The brand with key '!key' was not found in the card information map."
+msgstr "La marque '!key' n'a pas été trouvée dans les marques disponibles."
+
+msgid "Shopping Cart: Discount: Header"
+msgstr "Panier: Rabais: en-tête"
+
+msgid "The desired payment system is not active."
+msgstr "Le système de paiement souhaité n'est pas actif."
+
+msgid "You have to enter the IBAN."
+msgstr "Il faut insérer l'IBAN du compte banquaire"
+
+msgid "The transaction @tid had the unexcpected state @tState"
+msgstr "La transaction @tid a eu le statut inattendu: @tState"
+
+msgid "No, use the dropdown menu."
+msgstr "Utiliser le menu déroulant"
+
+msgid "Only on captured transaction the flag customer refusing to pay can be set."
+msgstr "Il est seulement possible de définir un indicateur pour les clients qui n'ont pas payé sur les transactions capturées."
+
+msgid "The configuration values for mPAY24 can be set under:"
+msgstr "Les valeurs de la configuration pour mPAY24 peuvent être définies sous:"
+
+msgid "Change payment method"
+msgstr "Changer le mode de paiement"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Deactivate"
+msgstr "Désactiver"
+
+msgid "The transaction was ok (no error occurred)."
+msgstr "La transaction était correcte (aucune erreur ne s'est produite)."
+
+msgid "Sales Tax Number"
+msgstr "Numéro de taxe de vente"
+
+msgid "Authorization Method"
+msgstr "Mode d'autorisation"
+
+msgid "The transaction failed for an unknown reason."
+msgstr "La transaction a échoué pour une raison inconnue."
+
+msgid "The amount could not be verified."
+msgstr "Le montant n'a pas pu être vérifié."
+
+msgid "Live HMAC Key"
+msgstr "Live HMAC Key"
+
+msgid "Ajax Input Form Styling"
+msgstr "Styling du Formulaire Ajax"
+
+msgid "Deferred"
+msgstr "Differé"
+
+msgid "No authorization method found for payment method !method."
+msgstr "Aucun mode d'autorisation trouvé pour le mode de paiement !method."
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "3D Secure"
+msgstr "3D Secure"
+
+msgid "Description: @errDesc"
+msgstr "Description: @errDesc"
+
+msgid "An external error has occurred."
+msgstr "Une erreur externe s'est produite."
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Please enter here the name of the account owner."
+msgstr "Vous devez insérer le titulaire de compte"
+
+msgid "Transaction status could not be verified. Return code: @return"
+msgstr "État de la transaction n'a pas pu être vérifiée. Code de retour: @return"
+
+msgid "Refund amount"
+msgstr "Montant du remboursement"
+
+msgid "You have to enter the name of the account owner."
+msgstr "Vous devez insérer le titulaire de compte"
+
+msgid "The total amount of all credits exceeds the clearing amount."
+msgstr "Le montant total de tous les crédits dépasse le montant de compensation."
+
+msgid "Buttons"
+msgstr "Boutons"
+
+msgid "An external error occurred."
+msgstr "Une erreur externe s'est produite."
+
+msgid "Card Number"
+msgstr "Numéro de la carte"
+
+msgid "Please enter here the account number of your bank account."
+msgstr "Veuillez insérer l'IBAN de votre compte banquaire."
+
+msgid "The capture will automatically close the transaction for further captures."
+msgstr "La comptabilisation va automatiquement fermer la transaction pour d'autres comptabilisations."
+
+msgid "Login / Register"
+msgstr "Connexion / Inscription"
+
+msgid "You have to enter the name of your bank."
+msgstr "Vous devez insérer le nom de votre banque."
+
+msgid "The paid amount was smaller than the price"
+msgstr "Le montant payé est plus petit que le prix."
+
+msgid "Missing Permissions."
+msgstr "Permissions manquantes."
+
+msgid "Successfully add a manual renewal payment."
+msgstr "Successfully add a manual renewal payment."
+
+msgid "Shopping Cart: Quantity"
+msgstr "Panier: Quantité"
+
+msgid "Image Brand Selection"
+msgstr "Image Brand Selection"
+
+msgid "Shopping Cart: Item: Total Price"
+msgstr "Panier: Article: Prix total"
+
+msgid "This transaction is already closed for further captures."
+msgstr "Cette transaction a déjà été fermée pour plus de comptabilisations."
+
+msgid "Error Header"
+msgstr "Error Header"
+
+msgid "mPAY24 Settings"
+msgstr "Réglages mPAY24"
+
+msgid "During the authorization"
+msgstr "Pendant l'autorisation"
+
+msgid "Payment Page Styling"
+msgstr "Styling des pages de paiement"
+
+msgid "You have to enter either the CVC code or the issue number of your card."
+msgstr "Vous devez insérer le code CVC ou le numéro de série de votre carte."
+
+msgid "BIC: !bic"
+msgstr "BIC: !bic"
+
+msgid "Please select a shipping method."
+msgstr "Please select a shipping method."
+
+msgid "Please check the entered credit card number."
+msgstr "Veuillez vérifier le numéro de carte de crédit indiqué."
+
+msgid "Drop Down Lists"
+msgstr "Listes déroulantes"
+
+msgid "We experienced a problem with your sellxed payment extension. For more information, please visit the information page of the plugin."
+msgstr "Il y a un problème avec votre module de paiement sellxed. Pour plus d'informations, veuillez visiter la page d'informations du plugin."
+
+msgid "Previous Actions"
+msgstr "Actions antérieures"
+
+msgid "Withdraw operation is not allowed for the merchant."
+msgstr "L'opération de retrait n'est pas autorisée pour le marchand."
+
+msgid "Transaction was declined!"
+msgstr "Malheureusement, la transaction a été refusée."
+
+msgid "Cache data expired."
+msgstr "Les données de cache ont expirées."
+
+msgid "Invalid transaction ID provided."
+msgstr "Une ID de transaction invalide a été fournie."
+
+msgid "Subtotal"
+msgstr "Sous-total"
+
+msgid "The authorization was not successful"
+msgstr "Erreur d'autorisation. Autorisation sans succès."
+
+msgid "For comfy future payments, enter a profile name here to store your data securily at mPAY24."
+msgstr "Pour faciliter vos paiements à l'avenir, entrez un nom de profil ici pour stocker vos données en toute sécurité chez mPAY24."
+
+msgid "The parameter amount holds invalid values."
+msgstr "Le montant du paramètre contient des valeurs non valides."
+
+msgid "The payment has been cancelled."
+msgstr "Le paiement a été annulé."
+
+msgid "Shopping Cart: ShippingCosts: Element"
+msgstr "Panier: Frais de port: Elément"
+
+msgid "Live Password"
+msgstr "Mot de passe live"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be cancelled successfully."
+msgstr "Si l'état est 'En attente', il est difficile de savoir si la transaction sera annulée avec succès."
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "Ce setting contrôle la description que l'utilisateur voit pendant le checkout."
+
+msgid "Gender"
+msgstr "Sexe"
+
+msgid "Test Merchant ID"
+msgstr "Test Merchant ID"
+
+msgid "No"
+msgstr "Non"
+

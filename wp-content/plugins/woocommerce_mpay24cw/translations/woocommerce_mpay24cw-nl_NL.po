@@ -1,0 +1,1834 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgid "BillPay"
+msgstr "BillPay"
+
+msgid "Subscriptions: Add Manual Renewal"
+msgstr "Subscriptions: Voeg Manual Vernieuwing"
+
+msgid "Phone number"
+msgstr "Telefoonnummer"
+
+msgid "Account owner name."
+msgstr "Rekeninghouder naam"
+
+msgid "Release Date"
+msgstr "Release Date"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Deferred (authorization)"
+msgstr "Deferred (authorization)"
+
+msgid "Error Header"
+msgstr "Error Header"
+
+msgid "Description: @errDesc"
+msgstr "Beschrijving: @errDesc"
+
+msgid "Only authorized transaction can be refunded."
+msgstr "Alleen geautoriseerde transacties kunnen worden bijgeschreven."
+
+msgid "Multiple Shipping Methods"
+msgstr "Multiple Shipping Methods"
+
+msgid "No, use the dropdown menu."
+msgstr "Nee, het dropdown menu."
+
+msgid "Please select the day of your birth."
+msgstr "Kies de dag van je geboorte."
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Klarna"
+msgstr "Klarna"
+
+msgid "Shopping Cart: Tax: Header"
+msgstr "Shopping Cart: Tax: Header"
+
+msgid "When the store is not available (network outage, server failure or any other outage), when the feedback of mPAY24 is sent, then the transaction state is not updated. Hence no order confirmation e-mail is sent and the order is not in the paid state. By activating the transaction update, such transactions can be authorized later over direct link. To use this feature the update service must be activated and the API username and the API password must be set."
+msgstr "When the store is not available (network outage, server failure or any other outage), when the feedback of mPAY24 is sent, then the transaction state is not updated. Hence no order confirmation e-mail is sent and the order is not in the paid state. By activating the transaction update, such transactions can be authorized later over direct link. To use this feature the update service must be activated and the API username and the API password must be set."
+
+msgid "The temporary cache data are invalid due to expiration."
+msgstr "The temporary cache data are invalid due to expiration."
+
+msgid "Close transaction for further refunds."
+msgstr "Sluit transactie voor verdere terugbetalingen."
+
+msgid "Please enter here the account holder name on the card."
+msgstr "Vul hier de naam rekeninghouder op de kaart."
+
+msgid "Direct E-Banking"
+msgstr "Direct E-Banking"
+
+msgid "After selection of payment method"
+msgstr "Na het selecteren van de betaalmethode"
+
+msgid "Captured Amount"
+msgstr "Opgenomen bedrag"
+
+msgid "Order Prefix"
+msgstr "Order Prefix"
+
+msgid "Could not find template file at default location '!location'."
+msgstr "Kan template bestand niet vinden op standaard locatie '!location'."
+
+msgid "The merchant id is locked."
+msgstr "The merchant id is locked."
+
+msgid "Break Out"
+msgstr "Break Out"
+
+msgid "Shopping Cart: Item: Quantity"
+msgstr "Shopping Cart: Item: Quantity"
+
+msgid "Please select the expiry year on your card."
+msgstr "Vul datum van de kaart de vervaldatum in te voeren"
+
+msgid "The currency did not match"
+msgstr "De munt kwam niet overeen."
+
+msgid "The payment method !paymentMethodName does not support the currency '!currency'."
+msgstr "De betaalmethode !paymentMethodName ondersteunt niet de munt '!currency'."
+
+msgid "Test Merchant ID"
+msgstr "Test Merchant ID"
+
+msgid "Background"
+msgstr "Background"
+
+msgid "Please enter here the International Bank Account Number (IBAN)."
+msgstr "Voer hier het International Bank Account Number (IBAN)."
+
+msgid "Refunds"
+msgstr "Terugbetalingen"
+
+msgid "Order Total"
+msgstr "Order Total"
+
+msgid "Inactive"
+msgstr "Inactive"
+
+msgid "The customer does not finish the payment with in the timeout."
+msgstr "The customer does not finish the payment with in the timeout."
+
+msgid "Page Header"
+msgstr "Page Header"
+
+msgid "This setting defines the absolute height (in pixel) of the IFrame generated during IFrame authorization."
+msgstr "This setting defines the absolute height (in pixel) of the IFrame generated during IFrame authorization."
+
+msgid "Please check the entered CVC number."
+msgstr "Controleer de ingevoerde CVC nummer."
+
+msgid "The refunding could not be conducted. Error code: !error."
+msgstr "The refunding could not be conducted. Error code: !error."
+
+msgid "Sales Tax Number"
+msgstr "Sales Tax nummer"
+
+msgid "Cancel Transaction"
+msgstr "Annuleer transactie"
+
+msgid "The transaction was ok (no error occurred)."
+msgstr "The transaction was ok (no error occurred)."
+
+msgid "Author"
+msgstr "Author"
+
+msgid "The amount of !amount is captured."
+msgstr "De hoeveelheid !amount wordt opgevangen."
+
+msgid "Bank"
+msgstr "Bank"
+
+msgid "Not a valid shipping method"
+msgstr "Not a valid shipping method"
+
+msgid "Shopping Cart: Item Price"
+msgstr "Shopping Cart: Item Price"
+
+msgid "BIC"
+msgstr "BIC"
+
+msgid "Alias"
+msgstr "Alias"
+
+msgid "Every 3 days"
+msgstr "Elke 3 dagen"
+
+msgid "Missing payment method."
+msgstr "Missing payment method."
+
+msgid "The Maestro card number is not plausible."
+msgstr "The Maestro card number is not plausible."
+
+msgid "Bad signature format."
+msgstr "Bad signature format."
+
+msgid "The capture amount (!captureAmount) cannot be greater than the authorized amount (!authorizedAmount)."
+msgstr "De vangst bedrag (!captureAmount) kan niet hoger zijn dan het toegestane bedrag (!authorizedAmount)."
+
+msgid "Shipping Option"
+msgstr "Shipping Option"
+
+msgid "Payment Information"
+msgstr "Betalingsgegevens"
+
+msgid "We experienced a problem with your sellxed payment extension. For more information, please visit the information page of the plugin."
+msgstr "We ervaren een probleem met uw uitstel van betaling van sellXed. Voor meer informatie, bezoek de pagina gegevens van de plugin."
+
+msgid "If you have any issues with the module please feel free to contact us. See our <a href='https://www.sellxed.com/en/support' target='_blank'>support page</a> for more information."
+msgstr "If you have any issues with the module please feel free to contact us. See our <a href='https://www.sellxed.com/en/support' target='_blank'>support page</a> for more information."
+
+msgid "The username for Payment Page transaction via mPAY24 will be provided in the initial set up documents."
+msgstr "De gebruikersnaam voor de betaalpagina transactie via mPAY24 zal worden verstrekt in de documenten voor de eerste installatie."
+
+msgid "JCB"
+msgstr "JCB"
+
+msgid "Account Holder Name"
+msgstr "Naam rekeninghouder"
+
+msgid "Discount"
+msgstr "Discount"
+
+msgid "Set here the minimal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "De betaalmethode is alleen beschikbaar wanneer de bestelling totaal minder is dan het hier genoemde bedrag. Als deze is ingesteld op nul, het is altijd beschikbaar."
+
+msgid "Transaction failed the update @number @times. Return code: @return"
+msgstr "Transactie is mislukt de update @number keer. Retourcode: @return"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be refunded successfully."
+msgstr "Als de status 'Pending' het is onduidelijk of de transactie met succes zal worden terugbetaald."
+
+msgid "Payment Method"
+msgstr "Betalingsmethode"
+
+msgid "Maximal Refundable Amount"
+msgstr "Maximum terugbetaalbaare bedrag"
+
+msgid "Please enter here the bank code of your bank."
+msgstr "Vul hier de bankcode van uw bank in te voeren"
+
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+msgid "Token expired"
+msgstr "Token expired"
+
+msgid "Refund status"
+msgstr "Status van de restitutie"
+
+msgid "Operation Mode"
+msgstr "Operation Mode"
+
+msgid "The capturing could not be conducted. Error code: !error."
+msgstr "The capturing could not be conducted. Error code: !error."
+
+msgid "No @name found in settings"
+msgstr "No @name found in settings"
+
+msgid "Shopping Cart: SubTotal: Header Text"
+msgstr "Shopping Cart: SubTotal: Header Text"
+
+msgid "Invalid MDXI!"
+msgstr "Ongeldige MDXI"
+
+msgid "Shopping Cart: Item Price Header Text"
+msgstr "Shopping Cart: Item Price Header Text"
+
+msgid "GebÃ¼hren"
+msgstr "GebÃ¼hren"
+
+msgid "Could not convert object of type '!type' to string."
+msgstr "Kan niet converteren object van het type '!type' naar een string."
+
+msgid "Create account"
+msgstr "Create account"
+
+msgid "No, use the dropdown."
+msgstr "No, use the dropdown."
+
+msgid "A failed authorization cannot be authorized."
+msgstr "Een mislukte autorisatie kan niet worden geautoriseerd."
+
+msgid "Select the authorization method to use for processing this payment method."
+msgstr "Selecteer de Autorisatie Methode voor deze betaalmethode."
+
+msgid "When using Ajax Authorization, a styling for the input form can be deposited for a merchant???s account at mPAY24. To create the styling the mPAY24 Designer should be used, which is located at https://test.mpay24.com/web/designer."
+msgstr "When using Ajax Authorization, a styling for the input form can be deposited for a merchant???s account at mPAY24. To create the styling the mPAY24 Designer should be used, which is located at https://test.mpay24.com/web/designer."
+
+msgid "You have to enter the name of your bank."
+msgstr "Je moet de naam van uw bank in te voeren."
+
+msgid "Dynamic Payment Page"
+msgstr "Dynamic Payment Page"
+
+msgid "Less Details"
+msgstr "Minder Details"
+
+msgid "Please enter here the name of the account owner."
+msgstr "Vul de naam van de rekeninghouder in te voeren"
+
+msgid "State"
+msgstr "Staat"
+
+msgid "Amount"
+msgstr "Bedrag"
+
+msgid "The MDXI XML stream could not be validated."
+msgstr "The MDXI XML stream could not be validated."
+
+msgid "Please enter your IBAN number."
+msgstr "Gelieve uw IBAN-nummer."
+
+msgid "Widget Frame Height"
+msgstr "Widget Frame Height"
+
+msgid "Only an uncertain transaction can be marked as finally declined."
+msgstr "Only an uncertain transaction can be marked as finally declined."
+
+msgid "Successfully add a manual renewal payment."
+msgstr "Successfully add a manual renewal payment."
+
+msgid "Shopping Cart: Background"
+msgstr "Shopping Cart: Background"
+
+msgid "Refunded Amount"
+msgstr "Bedrag gecrediteerd"
+
+msgid "3D Secure sucess"
+msgstr "3D Secure succes"
+
+msgid "You have to activate JavaScript in your browser to complete the payment."
+msgstr "U moet activeren JavaScript in uw browser om de betaling te voltooien."
+
+msgid "Shipping &amp; Handling"
+msgstr "Shipping &amp; Handling"
+
+msgid "The given identifier is empty."
+msgstr "The given identifier is empty."
+
+msgid "Failed"
+msgstr "Mislukt"
+
+msgid "Issue Number"
+msgstr "Albumreeks"
+
+msgid "Maximal Order Total"
+msgstr "Maximum Bestel Total"
+
+msgid "Billing Address"
+msgstr "Billing Address"
+
+msgid "Error: @returnCode"
+msgstr "Fout: @returnCode"
+
+msgid "An error during the communication occurred."
+msgstr "An error during the communication occurred."
+
+msgid "The transaction has been processed and can not be processed again."
+msgstr "The transaction has been processed and can not be processed again."
+
+msgid "Shopping Cart: Package"
+msgstr "Shopping Cart: Package"
+
+msgid "The total refund amount (!totalRefundedAmount) cannot be greater than the captured amount (!capturedAmount)."
+msgstr "Het totaal terug te betalen bedrag kan niet hoger zijn dan de vastgelegde bedrag"
+
+msgid "Authorization Failed"
+msgstr "Autorisatie mislukt"
+
+msgid "Please check the entered credit card number."
+msgstr "Controleer de ingevoerde creditcardnummer."
+
+msgid "Capturing"
+msgstr "Boeking"
+
+msgid "I confirm my payment"
+msgstr "Ik bevestig mijn betaling"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Rounding Adjustment"
+msgstr "Rounding Adjustment"
+
+msgid "A cancelled transaction cannot be captured."
+msgstr "Een geannuleerde transactie kan niet worden weer opgenomen."
+
+msgid "Please enter here your social security number."
+msgstr "Vul hier uw sofi-nummer."
+
+msgid "Phone number was missing area code"
+msgstr "Phone number was missing area code"
+
+msgid "Please select the month of your birth."
+msgstr "Kies de maand van je geboorte."
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to Authorize.net. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+msgstr "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to Authorize.net. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+
+msgid "You have to enter a card number."
+msgstr "Je moet een kaartnummer in te voeren."
+
+msgid "Shopping Cart: Caption"
+msgstr "Shopping Cart: Caption"
+
+msgid "The total amount of all clearing exceeds the reservation amount."
+msgstr "The total amount of all clearing exceeds the reservation amount."
+
+msgid "The validation of the payment can be carried out at various points during the order process. The validation can be controlled with this option."
+msgstr "De validatie van de betaling kan worden gedaan op verschillende momenten tijdens het bestelproces. Met deze optie kan de validatie worden gecontroleerd."
+
+msgid "Please select a shipping method"
+msgstr "Please select a shipping method"
+
+msgid "Shopping Cart: Item: Package"
+msgstr "Shopping Cart: Item: Package"
+
+msgid "Activated"
+msgstr "Activated"
+
+msgid "Deactivate"
+msgstr "Deactivate"
+
+msgid "Refund amount"
+msgstr "Terug te betalen bedrag"
+
+msgid "Pay"
+msgstr "Pay"
+
+msgid "The total amount of all credits exceeds the clearing amount."
+msgstr "The total amount of all credits exceeds the clearing amount."
+
+msgid "The signature could not be verified."
+msgstr "The signature could not be verified."
+
+msgid "Amount to refund"
+msgstr "Kredietbedrag"
+
+msgid "Set the sort order to show the external checkouts."
+msgstr "Set the sort order to show the external checkouts."
+
+msgid "Active"
+msgstr "Active"
+
+msgid "Year"
+msgstr "Jaar"
+
+msgid "Footer"
+msgstr "Footer"
+
+msgid "Geb??hren"
+msgstr "Geb??hren"
+
+msgid "Shopping Cart: Item: Description"
+msgstr "Shopping Cart: Item: Description"
+
+msgid "If the test mode is selected the test account is used. Otherwise the configured account is used."
+msgstr "Als de test-modus is geselecteerd, wordt de test account wordt gebruikt. Anders wordt de geconfigureerde account wordt gebruikt."
+
+msgid "Select the processor for open invoice."
+msgstr "Selecteer de processor voor de openstaande factuur."
+
+msgid "A manual renewal debits the customer directly for this subscription. This by pass any time restriction of the automatic subscription plugin."
+msgstr "Een handmatige vernieuwing debiteert de klant direct voor dit abonnement. Met deze optie kunt omzeilen de automatische mechanisme van het abonnement plugin."
+
+msgid "Transaction Number Prefix"
+msgstr "Transaction Number Prefix"
+
+msgid "A redirection problem occurred."
+msgstr "Een omleiding probleem zich voordeed."
+
+msgid "Card Number"
+msgstr "Kaartnummer"
+
+msgid "Place Order"
+msgstr "Place Order"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Validation"
+msgstr "Bevestiging"
+
+msgid "Shopping Cart: Total Price Header Text"
+msgstr "Shopping Cart: Total Price Header Text"
+
+msgid "Directly after order"
+msgstr "Direct na bestelling"
+
+msgid "Select the date on which your card expires."
+msgstr "Selecteer de datum waarop uw kaart verloopt."
+
+msgid "Change payment method"
+msgstr "Betalingsmethode wijzigen"
+
+msgid "The token has not been found or has already been used."
+msgstr "The token has not been found or has already been used."
+
+msgid "The SEPA mandate schema does not contain the tag '!tag'. This tag is required."
+msgstr "De SEPA-machtiging schema niet de tag 'tag!' Bevatten. Deze tag is nodig."
+
+msgid "Transaction aborted."
+msgstr "Transactie ongedaan gemaakt."
+
+msgid "Payment Page Styling"
+msgstr "Payment Page Styling"
+
+msgid "Deferred"
+msgstr "Uitgesteld"
+
+msgid "Live Site ID (PBX_SITE)"
+msgstr "Live Site ID (PBX_SITE)"
+
+msgid "Once a day"
+msgstr "Een keer per dag"
+
+msgid "The following input fields allows the styling of the payment page. The input must be valid CSS instructions. e.g. 'background-color: #FF0000;'. Except the fields ending with 'Text', which will insert the its value literally"
+msgstr "The following input fields allows the styling of the payment page. The input must be valid CSS instructions. e.g. 'background-color: #FF0000;'. Except the fields ending with 'Text', which will insert the its value literally"
+
+msgid "Continue to your the order confirmation"
+msgstr "Blijven bevestiging van de bestelling"
+
+msgid "The phone number has to start with an area code (e.g., +49 for Germany)"
+msgstr "The phone number has to start with an area code (e.g., +49 for Germany)"
+
+msgid "This status is set, when the payment was successfull and it is authorized."
+msgstr "Deze status wordt ingesteld, wanneer de betaling is gelukt en het is toegestaan."
+
+msgid "The payment has been cancelled."
+msgstr "The payment has been cancelled."
+
+msgid "Hobex-NL"
+msgstr "Hobex-NL"
+
+msgid "Currency"
+msgstr "Valuta"
+
+msgid "More Details"
+msgstr "Meer details"
+
+msgid "SEPA Mandate ID"
+msgstr "SEPA Mandate ID"
+
+msgid "Shopping Cart: Price: Header"
+msgstr "Shopping Cart: Price: Header"
+
+msgid "Shopping Cart: Item: Item Price"
+msgstr "Shopping Cart: Item: Item Price"
+
+msgid "Menge"
+msgstr "Menge"
+
+msgid "Processor"
+msgstr "Processor"
+
+msgid "During the authorization"
+msgstr "Tijdens de autorisatie"
+
+msgid "Shopping Cart: Item: Product Numbers"
+msgstr "Shopping Cart: Item: Product Numbers"
+
+msgid "Error Title"
+msgstr "Error Title"
+
+msgid "Shopping Cart: Price: Header Text"
+msgstr "Shopping Cart: Price: Header Text"
+
+msgid "This controls the title which the user sees during checkout."
+msgstr "Hiermee wordt de titel die de gebruiker bij het afrekenen ziet."
+
+msgid "Which status should be set when a transaction is labelled as paid? For payments by invoice a payment the labelling might occur with a delay; in this case this status helps keep apart paid from unpaid invoices."
+msgstr "Waarvan de status moet worden ingesteld wanneer een transactie is gemarkeerd als betaald? Bij het plaatsen van een bestelling met een factuur, kan de betaling worden uitgesteld gemarkeerd als betaald, in dat geval kan helpen om de onbetaalde facturen door deze staat betaalde onderscheiden."
+
+msgid "External Checkout"
+msgstr "External Checkout"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Payment ID"
+msgstr "Betaling ID"
+
+msgid "Which status should be set if a problem with the authorisation has occurred? In these cases you must manually verify if the customer has been charged with the amount."
+msgstr "Die de status van de bestelling te worden ingesteld wanneer er een probleem is opgetreden bij het toelaten? Als er geen statuswijziging optreedt, selecteer dan optie 'niet de status van de bestelling te veranderen'."
+
+msgid "Test Transaction"
+msgstr "Test Transaction"
+
+msgid "The brand of the credit card is detected by the card number if hidden authorization is used. If the payment page is used, the user has to select the brand. The allowed credit card brands can be restricted by this setting."
+msgstr "The brand of the credit card is detected by the card number if hidden authorization is used. If the payment page is used, the user has to select the brand. The allowed credit card brands can be restricted by this setting."
+
+msgid "The token data could not be decrypted."
+msgstr "The token data could not be decrypted."
+
+msgid "Order Description"
+msgstr "Order Description"
+
+msgid "The amount of !amount is authorized."
+msgstr "Het bedrag van !amount is toegestaan."
+
+msgid "Bank code number"
+msgstr "Bankcode"
+
+msgid "MasterCard"
+msgstr "MasterCard"
+
+msgid "Cart Subtotal"
+msgstr "Cart Subtotal"
+
+msgid "Minimal Order Total"
+msgstr "Minimum Bestel Total"
+
+msgid "Define a maximal order total for this checkout to be available."
+msgstr "Define a maximal order total for this checkout to be available."
+
+msgid "Test Mode"
+msgstr "Test Mode"
+
+msgid "Don't display"
+msgstr "Don't display"
+
+msgid "The authorization was not successful"
+msgstr "The authorization was not successful"
+
+msgid "Transaction Authorized"
+msgstr "Geautoriseerde transactie"
+
+msgid "Shopping Cart: SubTotal: Element"
+msgstr "Shopping Cart: SubTotal: Element"
+
+msgid "Live Rang (PBX_RANG)"
+msgstr "Live Rang (PBX_RANG)"
+
+msgid "The password will be provided in the initial set up documents by mPAY24."
+msgstr "Het wachtwoord zal worden verstrekt in de documenten voor de eerste installatie van mPAY24."
+
+msgid "Capture Amount"
+msgstr "Capture Amount"
+
+msgid "Select the date of your birth."
+msgstr "Kies de datum van uw geboorte."
+
+msgid "You have to enter the BIC."
+msgstr "Je moet de BIC in te voeren."
+
+msgid "Error: @code"
+msgstr "Error: @code"
+
+msgid "mPAY24 Profile is not activated."
+msgstr "mPAY24 Profile is not activated."
+
+msgid "No profile found for charging!"
+msgstr "Geen profiel gevonden in rekening te brengen."
+
+msgid "Shopping Cart: Quantity Header Text"
+msgstr "Shopping Cart: Quantity Header Text"
+
+msgid "Transaction status could not be verified. Return code: @return"
+msgstr "Status transactie kon niet worden geverifieerd. Retourcode: @return"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Live Password"
+msgstr "Live Password"
+
+msgid "Could not load payment module."
+msgstr "Could not load payment module."
+
+msgid "An internal error has occurred."
+msgstr "Er is een interne fout opgetreden."
+
+msgid "Hobex-DE"
+msgstr "Hobex-DE"
+
+msgid "Refund ID"
+msgstr "Refund ID"
+
+msgid "The authorization method '!method' is not supported."
+msgstr "De methode vergunning '!method' wordt niet ondersteund."
+
+msgid "Please choose your bank."
+msgstr "Please choose your bank."
+
+msgid "The configuration values for mPAY24 can be set under:"
+msgstr "De configuratie waarden voor mPAY24 kan worden ingesteld onder:"
+
+msgid "You have to enter the name of the account owner."
+msgstr "Je moet de rekeninghouder te voeren."
+
+msgid "Could not find a brand for the given card number."
+msgstr "Kan een merk voor de opgegeven kaartnummer niet vinden."
+
+msgid "Processing..."
+msgstr "Processing..."
+
+msgid "An internal error at mPAY24 occurred."
+msgstr "Een interne fout bij MPAY24 opgetreden."
+
+msgid "Product"
+msgstr "Product"
+
+msgid "The parameters \"3DSIGNVAL\" was false."
+msgstr "The parameters \"3DSIGNVAL\" was false."
+
+msgid "Transaction was declined!"
+msgstr "Transactie is geweigerd."
+
+msgid "The payment method !paymentMethodName is not available in your country ('!country')."
+msgstr "De betaalmethode !paymentMethodName is niet beschikbaar in uw land ('!country')."
+
+msgid "Capture Transaction"
+msgstr "Transactie boeken"
+
+msgid "A captured transaction cannot be authorized."
+msgstr "Een opgenomen transactie kan niet worden geautoriseerd."
+
+msgid "Shopping Cart: General"
+msgstr "Shopping Cart: General"
+
+msgid "Please enter your phone number"
+msgstr "Vul uw telefoonnummer."
+
+msgid "A cancelled transaction cannot be authorized."
+msgstr "Een geannuleerde transactie kan niet worden geautoriseerd."
+
+msgid "Beschreibung"
+msgstr "Beschreibung"
+
+msgid "The token has not been used and is expired."
+msgstr "The token has not been used and is expired."
+
+msgid "Shopping Cart: Numbers"
+msgstr "Shopping Cart: Numbers"
+
+msgid "Input Fields"
+msgstr "Input Fields"
+
+msgid "The provided signature does not match with the one calculated."
+msgstr "The provided signature does not match with the one calculated."
+
+msgid "Rabatt"
+msgstr "Rabatt"
+
+msgid "Please enter here the number on your card."
+msgstr "Vul het kaartnummer van uw creditcard in te voeren"
+
+msgid "3D Secure failed"
+msgstr "3D Secure mislukt"
+
+msgid "Shopping Cart: Total Price"
+msgstr "Shopping Cart: Total Price"
+
+msgid "mPAY24 Transactions"
+msgstr "mPAY24 transacties"
+
+msgid "Could not find the payment method !paymentMethodName."
+msgstr "Kan de betaalmethode !paymentMethodName niet vinden."
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "The given rang is invalid. It must be a nummeric value with length of two."
+msgstr "The given rang is invalid. It must be a nummeric value with length of two."
+
+msgid "About"
+msgstr "About"
+
+msgid "Dear customer we have received your billing and shipping information. In order to finish your order please create an account below or checkout as guest."
+msgstr "Dear customer we have received your billing and shipping information. In order to finish your order please create an account below or checkout as guest."
+
+msgid "The parameter @param was not valid."
+msgstr "The parameter @param was not valid."
+
+msgid "Bank: !bank"
+msgstr "Bank: !bank"
+
+msgid "Failed transaction. State: @state"
+msgstr "Mislukte transactie. Staat: @state"
+
+msgid "Next Update Execution Date"
+msgstr "Next Update Execution Date"
+
+msgid "By setting the capturing the reservation can be captured directly after the order or later manually over the backend of the store."
+msgstr "By setting the capturing the reservation can be captured directly after the order or later manually over the backend of the store."
+
+msgid "Shopping Cart: ShippingCosts: Header Text"
+msgstr "Shopping Cart: ShippingCosts: Header Text"
+
+msgid "Shipping #%d"
+msgstr "Shipping #%d"
+
+msgid "Missing Permissions."
+msgstr "Missing Permissions."
+
+msgid "The credit card number is not plausible."
+msgstr "The credit card number is not plausible."
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Operation failed: @details"
+msgstr "De bewerking is mislukt: @details"
+
+msgid "Merchant ID for test mode (beginning with 9). The Merchant ID will be provided by mPAY24"
+msgstr "Merchant ID voor testmodus (beginnend met 9). De Merchant ID zal worden verstrekt door mPAY24."
+
+msgid "IFrame Height"
+msgstr "IFrame Height"
+
+msgid "Add manual renewal"
+msgstr "Voeg handmatige vernieuwing"
+
+msgid "Mpay24Cw Interval"
+msgstr "___ModuleCamel___ Interval"
+
+msgid "Shopping Cart: Description Header Text"
+msgstr "Shopping Cart: Description Header Text"
+
+msgid "The brand with key '!key' was not found in the card information map."
+msgstr "Het merk met de belangrijkste !key'  werd niet gevonden in de kaartinformatie kaart."
+
+msgid "You have to enter the account holder name on the card."
+msgstr "Je moet de naam rekeninghouder op de kaart in te voeren."
+
+msgid "Which status should be set if the payment has been successfully authorised?"
+msgstr "Waarvan de status moet worden ingesteld wanneer de betaling succesvol is geautoriseerde?"
+
+msgid "Close transaction for further captures."
+msgstr "Sluit transactie voor verdere boekingen."
+
+msgid "Successful"
+msgstr "Met goed gevolg"
+
+msgid "The transaction was blocked."
+msgstr "The transaction was blocked."
+
+msgid "No more details available."
+msgstr "No more details available."
+
+msgid "You have to enter the location of your bank."
+msgstr "Je moet de locatie van uw bank in te voeren."
+
+msgid "Account creation"
+msgstr "Account creation"
+
+msgid "Wrong authorization type."
+msgstr "Wrong authorization type."
+
+msgid "Recurring profile could not be created"
+msgstr "Terugkerende profiel kan niet worden gemaakt."
+
+msgid "Date of Birth"
+msgstr "Geboortedatum"
+
+msgid "The transaction is only executed in the test system. The goods should not be delivered."
+msgstr "The transaction is only executed in the test system. The goods should not be delivered."
+
+msgid "Captured Status"
+msgstr "Capture Status"
+
+msgid "Order: General"
+msgstr "Order: General"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Pay with %s over the interface of mPAY24."
+msgstr "Pay with %s over the interface of mPAY24."
+
+msgid "No"
+msgstr "Geen"
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "Hiermee wordt de beschrijving die de gebruiker bij het afrekenen ziet."
+
+msgid "This is a brief installation instruction of the main and most important installation steps. It is important that you strictly follow the check-list. Only by doing so, the secure usage in correspondence with all security regulations can be guaranteed."
+msgstr "This is a brief installation instruction of the main and most important installation steps. It is important that you strictly follow the check-list. Only by doing so, the secure usage in correspondence with all security regulations can be guaranteed."
+
+msgid "Shopping Cart: Tax: Element"
+msgstr "Shopping Cart: Tax: Element"
+
+msgid "Page Caption"
+msgstr "Page Caption"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "The transaction failed for an unknown reason."
+msgstr "The transaction failed for an unknown reason."
+
+msgid "A transaction may be uncertain, when the payment is not guaranteed. For example in case the credit card does not participate in the 3D procedure."
+msgstr "Een transactie kan onveilig zijn als de betaling niet is gegarandeerd. Bijvoorbeeld, als de credit card niet tot het 3D Secure proces."
+
+msgid "Hobex-AT"
+msgstr "Hobex-AT"
+
+msgid "Don't change order status"
+msgstr "Laat orderstatus niet veranderen."
+
+msgid "The refund item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "The refund item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+
+msgid "Yes, use images for the brand selection."
+msgstr "Ja, afbeeldingen gebruiken voor het merk selectie."
+
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgid "If activating this setting, the Payment Page adapts itself to the resolution of the screen. Smallest resolution of width: 300px. (Also suitable for mobile platforms)"
+msgstr "If activating this setting, the Payment Page adapts itself to the resolution of the screen. Smallest resolution of width: 300px. (Also suitable for mobile platforms)"
+
+msgid "Deactivated"
+msgstr "Deactivated"
+
+msgid "Preis/St??ck"
+msgstr "Preis/St??ck"
+
+msgid "Authorization Method"
+msgstr "Autorisatie Methode"
+
+msgid "Ajax Input Form Styling"
+msgstr "Ajax Input Form Styling"
+
+msgid "Shopping Cart: Item: Total Price"
+msgstr "Shopping Cart: Item: Total Price"
+
+msgid "IBAN: !iban"
+msgstr "IBAN: !iban"
+
+msgid "Setup"
+msgstr "Setup"
+
+msgid "This setting can be used to activate resp. deactivate the 3D secure check. Please check with PayBox if you are allowed to deactivate the 3D secure check. This setting has only an effect when you use the payment page."
+msgstr "This setting can be used to activate resp. deactivate the 3D secure check. Please check with PayBox if you are allowed to deactivate the 3D secure check. This setting has only an effect when you use the payment page."
+
+msgid "Please enter the state you live in"
+msgstr "Vul de staat waarin u woont."
+
+msgid "No update"
+msgstr "Geen update"
+
+msgid "The capture will automatically close the transaction for further captures."
+msgstr "De boeking wordt automatisch de transactie te sluiten voor verdere boekingen."
+
+msgid "Once a week"
+msgstr "Een keer per week"
+
+msgid "The given CVC code has the wrong length."
+msgstr "De gegeven CVC-code heeft de verkeerde lengte."
+
+msgid "Other Discount"
+msgstr "Andere Discount"
+
+msgid "Shopping Cart: Numbers Header Text"
+msgstr "Shopping Cart: Numbers Header Text"
+
+msgid "Shopping Cart: Discount: Element"
+msgstr "Shopping Cart: Discount: Element"
+
+msgid "Register"
+msgstr "Register"
+
+msgid "Determine whether transactions should be updated regularly or not."
+msgstr "Bepalen of transacties regelmatig of niet moeten worden bijgewerkt."
+
+msgid "The parameter @param is not supported."
+msgstr "The parameter @param is not supported."
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Return code: OK"
+msgstr "Retourcode"
+
+msgid "Please enter here the CVC code from your card. You find the code on the back of the card."
+msgstr "Voer hier het CVC uw kaart in te voeren. U kunt dit vinden op de achterkant van uw creditcard."
+
+msgid "Unfortunately your data could not be stored and therefore are no recurring transactions possible. Please try again later."
+msgstr "Helaas uw gegevens konden niet worden opgeslagen en dus zijn er geen terugkerende transacties mogelijk. Probeer het later opnieuw."
+
+msgid "The alias transaction could not be conductet with error code: !code, and reason: !reason:"
+msgstr "The alias transaction could not be conductet with error code: !code, and reason: !reason:"
+
+msgid "The given card number has an invalid length."
+msgstr "Het opgegeven kaartnummer heeft een ongeldige lengte."
+
+msgid "Awaiting confirmation"
+msgstr "Awaiting confirmation"
+
+msgid "No transaction ID provided."
+msgstr "No transaction ID provided."
+
+msgid "Determine the status of an order, which failed during the update of the transaction over the cron. This setting requires an update interval above."
+msgstr "Bepaal de status van een order, die tijdens de update van de transactie over de cron mislukt. Deze instelling vereist een update-interval boven."
+
+msgid "Every 18 hours"
+msgstr "Elke 18 uur"
+
+msgid "Live Identifier (PBX_IDENTIFIANT)"
+msgstr "Live Identifier (PBX_IDENTIFIANT)"
+
+msgid "Refund Amount"
+msgstr "Refund Amount"
+
+msgid "@errMsg @error @desc"
+msgstr "@errMsg @error @desc"
+
+msgid "IBAN number"
+msgstr "IBAN-nummer"
+
+msgid "3D Secure"
+msgstr "3D Secure"
+
+msgid "The merchant???s IP address is not white listed."
+msgstr "The merchant???s IP address is not white listed."
+
+msgid "Please enter here the account holder name."
+msgstr "Vul hier de naam van de rekeninghouder."
+
+msgid "The payment failed due to an unknown error."
+msgstr "The payment failed due to an unknown error."
+
+msgid "Select your gender"
+msgstr "Selecteer uw geslacht."
+
+msgid "The EPS payment type supports two so called brands. The brand EPS is used for EPS online-banking transactions with Austrian banks. The brand INTERNATIONAL is used for interoperability of EPS online-banking with Giropay online-banking and allows to use Austrian banks as well as German banks. The interoperability is is only available with an additional EPS agreement. Please contact mPAY24 for further information."
+msgstr "The EPS payment type supports two so called brands. The brand EPS is used for EPS online-banking transactions with Austrian banks. The brand INTERNATIONAL is used for interoperability of EPS online-banking with Giropay online-banking and allows to use Austrian banks as well as German banks. The interoperability is is only available with an additional EPS agreement. Please contact mPAY24 for further information."
+
+msgid "Zwischensumme"
+msgstr "Zwischensumme"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "A authorized transaction cannot be marked as failed."
+msgstr "Een geautoriseerde transactie kan niet worden gemarkeerd als mislukt."
+
+msgid "Figure !number:"
+msgstr "Figure !number:"
+
+msgid "Failed Order Status"
+msgstr "Status van de mislukte bestellingen"
+
+msgid "CVC Code"
+msgstr "CVC Code"
+
+msgid "Continue"
+msgstr "Voortzetten"
+
+msgid "Versandkosten"
+msgstr "Versandkosten"
+
+msgid "Operation was declined!"
+msgstr "Operatie werd afgewezen."
+
+msgid "Directly after order (sale)"
+msgstr "Directly after order (sale)"
+
+msgid "Select the processor for direct debits."
+msgstr "Selecteer de processor voor automatische incasso."
+
+msgid "The order is not fully completed. Please contact the store owner."
+msgstr "The order is not fully completed. Please contact the store owner."
+
+msgid "Submitting order information..."
+msgstr "Submitting order information..."
+
+msgid "Please select the the year of your birth."
+msgstr "Selecteer het het jaar van uw geboorte."
+
+msgid "Email / Username"
+msgstr "Email / Username"
+
+msgid "mPAY24 payment profile could not be found."
+msgstr "mPAY24 payment profile could not be found."
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Redirection is not possible."
+msgstr "Redirection niet mogelijk."
+
+msgid "Capture status"
+msgstr "Capture status"
+
+msgid "Gender"
+msgstr "Geslacht"
+
+msgid "Your browser does not allow the execution of JavaScript. Please activate JavaScript in your browser and reload this page."
+msgstr "Uw browser staat niet toe dat de uitvoering van JavaScript. Gelieve JavaScript te activeren in uw browser en herlaad deze pagina."
+
+msgid "You have to enter bank code of your bank."
+msgstr "Je moet bankcode van uw bank in te voeren."
+
+msgid "Transaction Number"
+msgstr "Transactienummer"
+
+msgid "Direct Debits"
+msgstr "Direct Debits"
+
+msgid "Buttons"
+msgstr "Buttons"
+
+msgid "Please enter here the card holder name on the card."
+msgstr "Geef de kaarthouder een"
+
+msgid "The rang (PBX_RANG) as defined in the live backoffice of mPAY24. It must be nummeric value with length two. In the backoffice it may be displayed as a three char value. You must truncate the first digit."
+msgstr "The rang (PBX_RANG) as defined in the live backoffice of mPAY24. It must be nummeric value with length two. In the backoffice it may be displayed as a three char value. You must truncate the first digit."
+
+msgid "customweb ltd"
+msgstr "customweb ltd"
+
+msgid "An internal error occurred."
+msgstr "Er is een interne fout opgetreden."
+
+msgid "Invalid transaction ID provided."
+msgstr "Invalid transaction ID provided."
+
+msgid "The next update execution date indicates when the next cron is run to update the transaction state."
+msgstr "The next update execution date indicates when the next cron is run to update the transaction state."
+
+msgid "The transaction was declined by the external payment interface."
+msgstr "The transaction was declined by the external payment interface."
+
+msgid "The brand with external name '!key' was not present in the map."
+msgstr "Het merk met externe naam  '!key' was niet in de kaart."
+
+msgid "mPAY24 Settings"
+msgstr "Instellingen mPAY24"
+
+msgid "Please enter here the sales tax number of your company."
+msgstr "Vul hier de omzetbelasting nummer van uw bedrijf."
+
+msgid "Billpay"
+msgstr "Billpay"
+
+msgid "Authorized Status"
+msgstr "Status van de vergunning"
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be captured successfully."
+msgstr "Als de status 'Pending' het is onduidelijk of de transactie met succes zal worden vastgelegd."
+
+msgid "Free"
+msgstr "Free"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Cancelled Status"
+msgstr "Status van de annulering"
+
+msgid "An external error has occurred."
+msgstr "Een externe fout opgetreden."
+
+msgid "Drop Down Lists"
+msgstr "Drop Down Lists"
+
+msgid "Invalid Email/Username"
+msgstr "Invalid Email/Username"
+
+msgid "A cancelled transaction cannot be refunded."
+msgstr "Een geannuleerde transactie kan niet worden bijgeschreven."
+
+msgid "Withdraw operation is not allowed for the merchant."
+msgstr "Withdraw operation is not allowed for the merchant."
+
+msgid "Maximal Capturable Amount"
+msgstr "Maximaal te beoken bedrag"
+
+msgid "Atos"
+msgstr "Atos"
+
+msgid "You have to enter either the CVC code or the issue number of your card."
+msgstr "Je moet ofwel de CVC-code of het nummer van afgifte van uw kaart in te voeren."
+
+msgid "Success Title"
+msgstr "Success Title"
+
+msgid "The transaction id (TID) did not match"
+msgstr "De transactie-ID (TID) niet overeen."
+
+msgid "Please enter the name of your bank."
+msgstr "Vul de naam van uw bank."
+
+msgid "Female"
+msgstr "Vrouwelijk"
+
+msgid "Set here the maximal order total for which this payment method is available. If it is set to zero, it is always available."
+msgstr "De betaalmethode is alleen beschikbaar wanneer de bestelling totaal hoger is dan het hier genoemde bedrag. Als deze is ingesteld op nul, het is altijd beschikbaar."
+
+msgid "Shopping Cart: ShippingCosts: Header"
+msgstr "Shopping Cart: ShippingCosts: Header"
+
+msgid "Live HMAC Key"
+msgstr "Live HMAC Key"
+
+msgid "Creditcard Data"
+msgstr "Creditcard Data"
+
+msgid "Shipping"
+msgstr "Shipping"
+
+msgid "Use Default"
+msgstr "Use Default"
+
+msgid "Could not find profile! Return code: @returnCode"
+msgstr "Kon het niet vinden profiel. Retourcode: @returnCode"
+
+msgid "EPS Brand"
+msgstr "EPS Brand"
+
+msgid "Error Text Style"
+msgstr "Error Text Style"
+
+msgid "Company Commercial Number"
+msgstr "Company Commerciële Nummer"
+
+msgid "IBAN"
+msgstr "IBAN"
+
+msgid "Refund Transaction"
+msgstr "Transactie terugbetalen"
+
+msgid "This transaction is already closed for further captures."
+msgstr "Deze transactie is gesloten en geen verdere gegevens worden gemaakt."
+
+msgid "The capture item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+msgstr "The capture item with SKU '@sku' has a higher amount (@amountItem) as the original item (@amountOriginal)."
+
+msgid "A refund was added over !amount."
+msgstr "Een terugbetaling van !amount werd toegevoegd."
+
+msgid "Login / Register"
+msgstr "Login / Register"
+
+msgid "Select card"
+msgstr "Selecteer een kaart"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "3D Secure Authentication"
+msgstr "3D Secure Authentication"
+
+msgid "The transaction has already been cleared."
+msgstr "The transaction has already been cleared."
+
+msgid "Only captured transaction can be refunded."
+msgstr "Alleen opgenomen transacties kunnen worden bijgeschreven."
+
+msgid "Select Brand"
+msgstr "Kies een Merk"
+
+msgid "Bank Location"
+msgstr "Bank Locatie"
+
+msgid "You have to state your bank."
+msgstr "You have to state your bank."
+
+msgid "The controller class '@controller' does not provide any method with annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' and valid output."
+msgstr "The controller class '@controller' does not provide any method with annotation 'Customweb_Payment_Endpoint_Annotation_ExtractionMethod' and valid output."
+
+msgid "You have to enter your IBAN Number."
+msgstr "Je moet voer uw IBAN-nummer."
+
+msgid "Image Brand Selection"
+msgstr "Image Brand Selection"
+
+msgid "Paid Status"
+msgstr "Betaalde Status"
+
+msgid "Save Shipping Method"
+msgstr "Save Shipping Method"
+
+msgid "ReturnCode: OK"
+msgstr "ReturnCode: OK"
+
+msgid "Brand Name"
+msgstr "Brand Name"
+
+msgid "<span class=\"card-expiry-format-note\">The expected format is '!format' where the 'MM' means the month number and 'YY' the year number.</span>"
+msgstr "<span class=\"card-expiry-format-note\">De verwachte formaat is '!format' waar de 'MM' is de maand nummer en 'YY' het jaartal.</span>"
+
+msgid "BIC: !bic"
+msgstr "BIC: !bic"
+
+msgid "Transaction Updates"
+msgstr "Transaction Updates"
+
+msgid "Card Holder Name"
+msgstr "Kaarthouder"
+
+msgid "The site id (PBX_RANG) as defined in the backoffice of mPAY24."
+msgstr "The site id (PBX_RANG) as defined in the backoffice of mPAY24."
+
+msgid "The HMAC key as defined in the live backoffice of mPAY24. You may need generate the HMAC key. Please take a look at the manual how to do this."
+msgstr "The HMAC key as defined in the live backoffice of mPAY24. You may need generate the HMAC key. Please take a look at the manual how to do this."
+
+msgid "Current File:"
+msgstr "Current File:"
+
+msgid "mPAY24 Profil is not activated."
+msgstr "mPAY24 Profil is not activated."
+
+msgid "The paid amount was smaller than the price"
+msgstr "Het betaalde bedrag was kleiner dan de prijs."
+
+msgid "The payment could not be processed. However, it seems that the payment was successful nevertheless. Your order was created and can be seen on the order confirmation page. Please contact us to find out more about the status of the order."
+msgstr "De betaling kan niet worden verwerkt. Nochtans, schijnt het dat de betaling gelukt niettemin is. Uw bestelling is gemaakt en kan worden gezien op de bevestigingspagina van de bestelling. Neem contact met ons op om erachter te komen meer over de status van de bestelling."
+
+msgid "Live Mode"
+msgstr "Live Mode"
+
+msgid "No order ID provided."
+msgstr "No order ID provided."
+
+msgid "Shopping Cart: Header"
+msgstr "Shopping Cart: Header"
+
+msgid "You have to enter the card holder name on the card."
+msgstr "U moet de kaarthouder in te voeren."
+
+msgid "The transaction @tid could not be found!"
+msgstr "De transactie @tid kan niet worden gevonden."
+
+msgid "You can specify the order status for new orders that have an uncertain authorisation status."
+msgstr "U kunt de status van de bestelling voor de nieuwe orders die een onzeker statuut toestemming hebben geven."
+
+msgid "The operation failed."
+msgstr "De bewerking is mislukt."
+
+msgid "A authorized transaction cannot be authorized again."
+msgstr "Een geautoriseerde transactie kan niet worden weer geautoriseerd."
+
+msgid "You can specify the order status for orders that are captured either directly after the order or manually in the backend."
+msgstr "U kunt de status van de bestelling voor bestellingen die worden opgevangen hetzij direct na de bestelling of met de hand in de backend te specificeren."
+
+msgid "Diners Club"
+msgstr "Diners Club"
+
+msgid "Enable %s"
+msgstr "Enabe %s"
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to mPAY24. The prefix must contain the tag {id}. It will then be replaced by the transaction number (e.g. order_{id})."
+msgstr "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to mPAY24. The prefix must contain the tag {id}. It will then be replaced by the transaction number (e.g. order_{id})."
+
+msgid "Enter the Merchant ID, Username and Password that you received from MPAY24 in the main module."
+msgstr "Enter the Merchant ID, Username and Password that you received from MPAY24 in the main module."
+
+msgid "Transaction Captured"
+msgstr "Transactie opgenomen"
+
+msgid "Total amount computed over all lineitems (%f) does not match cart total (%f)"
+msgstr "Total amount computed over all lineitems (%f) does not match cart total (%f)"
+
+msgid "Here you can insert an order description. If the description contains the tag {id}, it will then be replaced by the transaction id. (e.g. name {id})."
+msgstr "Here you can insert an order description. If the description contains the tag {id}, it will then be replaced by the transaction id. (e.g. name {id})."
+
+msgid "The refund item with SKU '@sku' is not present in the original order."
+msgstr "The refund item with SKU '@sku' is not present in the original order."
+
+msgid "You have to enter sales tax number of you company."
+msgstr "Je moet omzetbelasting aantal van jullie bedrijf in te voeren."
+
+msgid "Shipping Method"
+msgstr "Shipping Method"
+
+msgid "Transaction Uncertain"
+msgstr "Transactie is onzeker"
+
+msgid "INTERNATIONAL"
+msgstr "INTERNATIONAL"
+
+msgid "Payment Notification"
+msgstr "Payment Notification"
+
+msgid "The desired payment system is not active."
+msgstr "The desired payment system is not active."
+
+msgid "VISA"
+msgstr "VISA"
+
+msgid "Cache data expired."
+msgstr "De cache data is verlopen."
+
+msgid "The email address field was empty"
+msgstr "The email address field was empty"
+
+msgid "Credit Card Brands"
+msgstr "Credit Card Brands"
+
+msgid "Please validate your input."
+msgstr "Please validate your input."
+
+msgid "Capture amount"
+msgstr "Capture bedrag"
+
+msgid "Customer sucessfully returned from the Mpay24Cw payment page."
+msgstr "Customer sucessfully returned from the Mpay24Cw payment page."
+
+msgid "Show Billing Address"
+msgstr "Show Billing Address"
+
+msgid "Please enter here the Bank Identifier Code (BIC)."
+msgstr "Vul hier de Bank Identifier Code (BIC)."
+
+msgid "A captured transaction cannot be cancelled."
+msgstr "Een opgenomen transactie kan niet worden geannuleerd."
+
+msgid "Could not create user."
+msgstr "Could not create user."
+
+msgid "An external error occurred."
+msgstr "Een externe fout opgetreden."
+
+msgid "Please select a shipping method."
+msgstr "Please select a shipping method."
+
+msgid "mPAY24 Profile FLEX is not activated."
+msgstr "mPAY24 Profile FLEX is not activated."
+
+msgid "Order #"
+msgstr "Order #"
+
+msgid "This setting defines the absolute height (in pixel) of the IFrame generated during Ajax and / or Widget Authorization."
+msgstr "This setting defines the absolute height (in pixel) of the IFrame generated during Ajax and / or Widget Authorization."
+
+msgid "Live Merchant ID"
+msgstr "Live Merchant ID"
+
+msgid "Payment"
+msgstr "Payment"
+
+msgid "Could not load layout from URL !url. Reason: !reason"
+msgstr "Kon layout niet laden van URL !url. Reden: !reason"
+
+msgid "The maximum number of payment profiles of a customer is reached."
+msgstr "The maximum number of payment profiles of a customer is reached."
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Bank Name"
+msgstr "Bank Naam"
+
+msgid "Shopping Cart: Product Numbers"
+msgstr "Shopping Cart: Product Numbers"
+
+msgid "The capture item with SKU '@sku' is not present in the original order."
+msgstr "The capture item with SKU '@sku' is not present in the original order."
+
+msgid "Reference Number: !reference"
+msgstr "Reference Number: !reference"
+
+msgid "For comfy future payments, enter a profile name here to store your data securily at mPAY24."
+msgstr "For comfy future payments, enter a profile name here to store your data securily at mPAY24."
+
+msgid "Capture ID"
+msgstr "Capture ID"
+
+msgid "Activate the payment method that you want to process transactions with."
+msgstr "Activate the payment method that you want to process transactions with."
+
+msgid "Here you can insert an order prefix. The prefix allows you to change the order number that is transmitted to mPAY24. The prefix must contain the tag {id}. It will then be replaced by the order number (e.g. name_{id})."
+msgstr "Hier kunt u een bestelling plaatst prefix. Het voorvoegsel kunt u het ordernummer dat op mPAY24 wordt overgebracht veranderen. Het voorvoegsel moet de tag {id} bevatten. Het zal dan worden vervangen door het ordernummer (bijvoorbeeld name_ {id})."
+
+msgid "Uncertain Status"
+msgstr "Onzekere Status"
+
+msgid "Card Expiration"
+msgstr "Kaart vervaldatum"
+
+msgid "The customer is now in the payment process of mPAY24."
+msgstr "De klant is nu in het betalingsproces van mPAY24."
+
+msgid "Only authorized transaction can be cancelled."
+msgstr "Alleen geautoriseerde transacties kan worden geannuleerd."
+
+msgid "Version"
+msgstr "Version"
+
+msgid "With this payment method it is not necessary to provide the billing address. It is possible to display it on the payment page though."
+msgstr "With this payment method it is not necessary to provide the billing address. It is possible to display it on the payment page though."
+
+msgid "Refund"
+msgstr "Terugebetalen"
+
+msgid "The password field was empty"
+msgstr "The password field was empty"
+
+msgid "Pending"
+msgstr "Pending"
+
+msgid "You have to enter commercial number of you company."
+msgstr "Je moet commerciële aantal van jullie bedrijf in te voeren."
+
+msgid "Shopping Cart: Price: Element"
+msgstr "Shopping Cart: Price: Element"
+
+msgid "The card brand selection is automatically done depending on the entered card number. If no Javascript is active in the browser, a drop down is shown. In case JavaScript a the brand logos can be shown. Should the brand selection using images?"
+msgstr "De kaart merk selectie gebeurt automatisch, afhankelijk van het ingevoerde kaartnummer. Als er geen Javascript is actief in de browser, een drop-down wordt getoond. In het geval dat is JavaScript actief het merk logo's kan worden aangetoond dient het merk selectie met behulp van beelden."
+
+msgid "Transaction Paid"
+msgstr "Transactie betaald"
+
+msgid "The token is invalid due to missing or incorrect data."
+msgstr "The token is invalid due to missing or incorrect data."
+
+msgid "Please enter here the account number of your bank account."
+msgstr "Vul het rekeningnummer van uw bankrekening in te voeren"
+
+msgid "Unfortunately we suffered some technical difficulties. The transaction was aborted and no charging took place."
+msgstr "Helaas hebben we leed een aantal technische problemen. De transactie is afgebroken en niet opgeladen plaatsvond."
+
+msgid "Short Installation Instructions:"
+msgstr "Short Installation Instructions:"
+
+msgid "Shopping Cart: Package Header Text"
+msgstr "Shopping Cart: Package Header Text"
+
+msgid "You have to enter your bank account number."
+msgstr "Je moet het rekeningnummer van uw bankrekening in te voeren."
+
+msgid "Shopping Cart: Item: Numbers"
+msgstr "Shopping Cart: Item: Numbers"
+
+msgid "The external payment interface returned an error."
+msgstr "The external payment interface returned an error."
+
+msgid "Quantity"
+msgstr "Quantity"
+
+msgid "Your Payment"
+msgstr "Uw betaling"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Error with the length of the validation date."
+msgstr "Error with the length of the validation date."
+
+msgid "Please select the Bank Identifier Code (BIC) of your bank."
+msgstr "Selecteer de Bank Identifier Code (BIC) van uw bank."
+
+msgid "Redirection"
+msgstr "Omleiding"
+
+msgid "You have to enter the CVC code from your card."
+msgstr "U moet de CVC uw kaart in te voeren."
+
+msgid "You have to enter the IBAN."
+msgstr "Je moet de IBAN in te voeren."
+
+msgid "The layout does not contain the tag '!layout_tag'."
+msgstr "De lay-out is niet de tag '!layout_tag' bevatten."
+
+msgid "The parameter price holds invalid values."
+msgstr "The parameter price holds invalid values."
+
+msgid "Shopping Cart: Discount: Header"
+msgstr "Shopping Cart: Discount: Header"
+
+msgid "no"
+msgstr "no"
+
+msgid "The given site number is empty."
+msgstr "The given site number is empty."
+
+msgid "American Express"
+msgstr "American Express"
+
+msgid "Authorization Amount"
+msgstr "Autorisatie bedrag"
+
+msgid "Male"
+msgstr "Mannelijk"
+
+msgid "Shopping Cart: Tax: Header Text"
+msgstr "Shopping Cart: Tax: Header Text"
+
+msgid "Cancel ID"
+msgstr "Cancel ID"
+
+msgid "Cart has been modified after displaying order review"
+msgstr "Cart has been modified after displaying order review"
+
+msgid "Create a recurring payment, with an existing alias is not supported"
+msgstr "Create a recurring payment, with an existing alias is not supported"
+
+msgid "Shopping Cart: ShippingCosts: Element"
+msgstr "Shopping Cart: ShippingCosts: Element"
+
+msgid "The given rang is empty. It must be a nummeric value with length of two."
+msgstr "The given rang is empty. It must be a nummeric value with length of two."
+
+msgid "No authorization method found for payment method !method."
+msgstr "Geen vergunning methode gevonden voor de betalingswijze"
+
+msgid "Account Holder: !holder"
+msgstr "Account Holder: !holder"
+
+msgid "Please enter your issue number, if there is no CVC code on your card."
+msgstr "Vul uw probleem nummer als er geen CVC code op uw kaart."
+
+msgid "Please select your gender."
+msgstr "Selecteer uw geslacht."
+
+msgid "Captures"
+msgstr "Boekingen"
+
+msgid "Shopping Cart: Product Numbers Header Text"
+msgstr "Shopping Cart: Product Numbers Header Text"
+
+msgid "If it is not applicable leave the field empty."
+msgstr "Als het niet van toepassing laat het veld leeg."
+
+msgid "Transaction not found."
+msgstr "Transactie niet gevonden."
+
+msgid "If the status is 'Pending' it is unclear whether the transaction will be cancelled successfully."
+msgstr "Als de status 'Pending' het is onduidelijk of de transactie met succes zal worden geannuleerd."
+
+msgid "Only an authorized transaction can be marked as finally declined."
+msgstr "Only an authorized transaction can be marked as finally declined."
+
+msgid "Dear customer, it appears to us that your payment was successful, but we are still waiting for confirmation. You can wait on this page and we will redirect you after we received the confirmation. Or you can close this window and we will send out an order confirmation email."
+msgstr "Dear customer, it appears to us that your payment was successful, but we are still waiting for confirmation. You can wait on this page and we will redirect you after we received the confirmation. Or you can close this window and we will send out an order confirmation email."
+
+msgid "The given password is empty."
+msgstr "The given password is empty."
+
+msgid "Please select"
+msgstr "Selecteer aub"
+
+msgid "You have to enter the account holder name."
+msgstr "Je moet de naam van de rekeninghouder te voeren."
+
+msgid "#Error: @errNo"
+msgstr "#Error: @errNo"
+
+msgid "Merchant ID for productive mode (beginning with 7) will be provided by mPAY24."
+msgstr "Merchant ID voor productieve modus (beginnend met 7) zal worden verstrekt door mPAY24."
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Error Message:"
+msgstr "Foutmelding:"
+
+msgid "The given card number has an invalid check sum."
+msgstr "Het opgegeven kaartnummer heeft een ongeldige checksum."
+
+msgid "Capture"
+msgstr "Boeken"
+
+msgid "Shopping Cart: Quantity"
+msgstr "Shopping Cart: Quantity"
+
+msgid "Time Out"
+msgstr "Time Out"
+
+msgid "Please enter your phone number registered as Paybox identifier."
+msgstr "Please enter your phone number registered as Paybox identifier."
+
+msgid "A cancelled transaction cannot be cancelled again."
+msgstr "Een geannuleerde transactie kan niet worden weer geannuleerd."
+
+msgid "Shopping Cart: Discount: Header Text"
+msgstr "Shopping Cart: Discount: Header Text"
+
+msgid "EPS"
+msgstr "EPS"
+
+msgid "Display"
+msgstr "Display"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "A captured transaction cannot be marked as failed."
+msgstr "Een opgenomen transactie kan niet worden gemarkeerd als mislukt."
+
+msgid "Please enter here the commercial number of your company."
+msgstr "Vul hier het commerciële nummer van uw bedrijf."
+
+msgid "Only authorized transaction can be captured."
+msgstr "Alleen geautoriseerde transacties kunnen worden geregistreerd"
+
+msgid "Is Authorized"
+msgstr "Is geaturoriseerde"
+
+msgid "Shopping Cart: SubTotal: Header"
+msgstr "Shopping Cart: SubTotal: Header"
+
+msgid "Gesamt"
+msgstr "Gesamt"
+
+msgid "Enter the date on which your card expires."
+msgstr "Voer de vervaldatum van de kaart"
+
+msgid "The provided IBAN is not plausible."
+msgstr "The provided IBAN is not plausible."
+
+msgid "The payment method mismatches."
+msgstr "The payment method mismatches."
+
+msgid "The transaction failed with error code !code."
+msgstr "The transaction failed with error code !code."
+
+msgid "Amount to capture"
+msgstr "Bedrag dat moet worden gecompenseerd"
+
+msgid "The parameter amount holds invalid values."
+msgstr "The parameter amount holds invalid values."
+
+msgid "Social Security Number"
+msgstr "Social Security Number"
+
+msgid "The cancellation could not be conducted. Error code: !error."
+msgstr "The cancellation could not be conducted. Error code: !error."
+
+msgid "The transaction @tid had the unexcpected state @tState"
+msgstr "De transactie  @tid had de onverwachte toestand @tState"
+
+msgid "Order Review"
+msgstr "Order Review"
+
+msgid "Previous Actions"
+msgstr "Eerdere acties"
+
+msgid "The whole transaction is cancelled."
+msgstr "De gehele transactie is geannuleerd."
+
+msgid "The identifier as defined in the backoffice of mPAY24."
+msgstr "The identifier as defined in the backoffice of mPAY24."
+
+msgid "You have to enter your social security number."
+msgstr "U moet uw sofi-nummer in te voeren."
+
+msgid "You can choose a previous used card:"
+msgstr "U kunt kiezen uit een eerder gebruikte kaart:"
+
+msgid "This password is used for recurring payments and for the alias manager as well as for the server authorization. This is the password of the mPAY24 account."
+msgstr "This password is used for recurring payments and for the alias manager as well as for the server authorization. This is the password of the mPAY24 account."
+
+msgid "Check to activate the external checkout."
+msgstr "Check to activate the external checkout."
+
+msgid "You can specify the order status when an order is cancelled."
+msgstr "U kunt de status van de order te geven wanneer een bestelling wordt geannuleerd."
+
+msgid "The given hmac key is empty."
+msgstr "The given hmac key is empty."
+
+msgid "You do have the option to style the payment pages. In the payment page styling section you are able to define your CSS that will be applied to the payment pages."
+msgstr "You do have the option to style the payment pages. In the payment page styling section you are able to define your CSS that will be applied to the payment pages."
+
+msgid "Subscription Payment Failed with error:"
+msgstr "Betaling voor de subscription is mislukt met fout:"
+
+msgid "Unfortunately the transaction could not be verified"
+msgstr "Helaas is de transactie kon niet worden geverifieerd."
+
+msgid "Enable/Disable"
+msgstr "Inschakelen / uitschakelen"
+
+msgid "Success"
+msgstr "Succes"
+
+msgid "Update Transactions"
+msgstr "Transactie Updates"
+
+msgid "Unexpected return code received: @returnCode"
+msgstr "Onverwachte terugkeer code ontvangen: @returnCode"
+
+msgid "Transaction Cancelled"
+msgstr "Transactie geannuleerd"
+
+msgid "The amount could not be verified."
+msgstr "The amount could not be verified."
+
+msgid "Profile Name"
+msgstr "Profile Name"
+
+msgid "Define a minimal order total for this checkout to be available."
+msgstr "Define a minimal order total for this checkout to be available."
+
+msgid "Every 12 hours"
+msgstr "Elke 12 uur"
+
+msgid "Preis"
+msgstr "Preis"
+
+msgid "Should the amount be captured automatically after the order (direct) or should the amount only be reserved (deferred)?"
+msgstr "Indien het bedrag automatisch wordt afgeschreven van de klant na de bestelling (direct) of het bedrag alleen worden gereserveerd (vertraagde)?"
+
+msgid "The token data could not be encrypted."
+msgstr "The token data could not be encrypted."
+
+msgid "Costs"
+msgstr "Costs"
+
+msgid "This transaction is already closed for further refunds."
+msgstr "Deze transactie werd gesloten voor meer credits."
+
+msgid "Only on captured transaction the flag customer refusing to pay can be set."
+msgstr "Only on captured transaction the flag customer refusing to pay can be set."
+
+msgid "Confirm email"
+msgstr "Confirm email"
+
+msgid "Shopping Cart: Description"
+msgstr "Shopping Cart: Description"
+
+msgid "The parameter @param could not be found."
+msgstr "The parameter @param could not be found."
+
+msgid "Test Password"
+msgstr "Test Password"
+
+msgid "You can not submit both forms at once"
+msgstr "You can not submit both forms at once"
+
+msgid "Produkt"
+msgstr "Produkt"
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Please enter the location of your bank."
+msgstr "Vul de locatie van uw bank."
+
+msgid "A cancelled transaction cannot be marked as failed."
+msgstr "Een geannuleerde transactie kan niet worden gemarkeerd als mislukt."
+
+msgid "No shipping method available for your region"
+msgstr "No shipping method available for your region"
+
+msgid "You have to enter sales tax number of your company."
+msgstr "You have to enter sales tax number of your company."
+
+msgid "Bank account number"
+msgstr "Bankrekeningnummer"
+
+msgid "Please select the expiry month on your card."
+msgstr "Selecteer de mot van vervaldatum op uw kaart."
+
+msgid "Parameter \"USER_FIELD\" did not match"
+msgstr "Parameter \"USER_FIELD\" komen niet overeen."
+
+msgid "yes"
+msgstr "yes"
+
+msgid "Cancel status"
+msgstr "Cancel status"
+

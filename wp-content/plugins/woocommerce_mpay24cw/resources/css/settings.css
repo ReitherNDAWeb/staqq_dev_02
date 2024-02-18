@@ -1,0 +1,96 @@
+.mpay24cw-renewal {
+	margin-top: 5px;
+	margin-botton: 5px;
+}
+
+.mpay24cw-transaction-table .mpay24cw-details-row {
+	display: none;
+}
+
+.mpay24cw-transaction-table .mpay24cw-main-row .mpay24cw-more-details-button {
+	cursor: pointer;
+}
+
+.mpay24cw-transaction-table .mpay24cw-main-row.active .mpay24cw-more-details-button {
+	display: none;
+}
+
+.mpay24cw-transaction-table .mpay24cw-main-row.active td {
+	border-bottom-color: #f0f0f0;
+}
+
+.mpay24cw-transaction-table .mpay24cw-details-row.active {
+	display: table-row;
+}
+
+.mpay24cw-transaction-table label {
+	float: none;
+	font-weight: normal;
+}
+
+.mpay24cw-transaction-table .mpay24cw-main-row .mpay24cw-less-details-button {
+	display: none;
+	cursor: pointer;
+}
+
+.mpay24cw-transaction-table .mpay24cw-main-row.active .mpay24cw-less-details-button {
+	display: inline-block;
+}
+
+.mpay24cw-transaction-table .label-box {
+	float: left;
+	width: 380px;
+	margin-right: 75px;
+	padding: 3px;
+}
+
+.mpay24cw-transaction-table .label-box .label-title {
+	width: 50%;
+	font-weight: bold;
+	float: left;
+}
+
+.mpay24cw-transaction-table .label-box .label-value {
+	width: 50%;
+	float: right;
+}
+
+.mpay24cw-box-labels {
+	overflow: auto;
+	width: 100%;
+	margin-bottom: 2em;
+}
+
+.mpay24cw-transaction-table .box {
+	border-top: solid 1px #FFF;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	padding: 0.1em 0.8em 0.8em 0.8em;
+}
+
+.mpay24cw-transaction-table .box h4 {
+	margin: 0.6em 0;
+}
+
+.multi-control > .controls {
+	display: inline;
+}
+
+
+table th {
+	text-align: left;
+}
+
+table .left-align {
+	text-align: left;
+}
+
+table .right-align {
+	text-align: right;
+}
+
+.closable-box {
+	text-align: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

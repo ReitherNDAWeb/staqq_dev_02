@@ -1,0 +1,90 @@
+.user-type-radio-images .user-type-radio {
+  opacity: .45;
+  background: none;
+  border: none;
+  transition: 0.1s all;
+}
+.user-type-radio-images .active .user-type-radio, .user-type-radio-images .user-type-radio:hover{
+  opacity: 1;
+}
+.user-type-radio-images .user-type-radio input{
+  display: none;
+}
+.user-type-radio-images .user-type-radio input, .user-type-radio-images .user-type-radio{
+  cursor:pointer;
+}
+.user-type-radio-images{
+  padding: 0 100px;
+}
+.regheader{
+  padding:15px 0;
+  background-color: #f5a705;
+}
+.regheader p{
+  color: #fff;
+  font-size: 1.4rem;
+  margin: 0;
+}
+
+
+.footer{
+  background-color: #fff;
+}
+.footer p, .footer p a{
+  color: #888;
+  text-align: center;
+}
+.footer-register{
+  background: none;
+  border-top: none;
+}
+
+.footer-register .section__overlay{
+  background-color: #f5a705;
+}
+.footer-register p, .footer-register p a{
+  color: #fff;
+  text-align: center;
+}
+
+.signup-step--step-agb {
+  border-bottom: 0px;
+}
+.regsvg{
+  margin-bottom: -1px;
+  margin-top: -1px;
+}
+
+.header__logo {
+  float: right;
+}
+.header__navigation #header__navigation-rwd-pull, .header__navigation #header__navigation-rwd-close {
+  left: 14px;
+  right: auto;
+}
+.section--home-hero {
+  background: none;
+}
+.section--home-hero .section__overlay{
+  background: linear-gradient(#f7ab0a 0%,#f7ab0a 5%, #fdf9ee 100%);
+}
+@media screen and (max-width: 1100px) {
+  .social-registrierung-buttons .button--social-registrierung{
+  display:block;
+  margin: 10px auto;
+  width: 100%;
+  max-width: 35em;
+  }
+  .user-type-radio-images{
+   padding: 0;
+  }
+  .user-type-radio-images .gd--4{
+   width: 33%;
+   padding: 0px;
+  }
+  .social-registrierung-buttons .button--social-registrierung.button--xing-registrierung iframe {
+   float: none;
+   margin-top: 5px
+  }
+
+}

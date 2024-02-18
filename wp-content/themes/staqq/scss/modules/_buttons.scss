@@ -1,0 +1,37 @@
+.button{
+    background-color: $base_color;
+    color: #fff;
+    display: inline-block;
+    border: none;
+    border-radius: 999em;
+    padding: 10px 35px;
+    font-size: 0.9em;
+    font-weight: normal;
+    transition: all ease 300ms;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 1;
+
+    &:hover{
+        cursor: pointer;
+        opacity: 0.8;
+    }
+
+    &--outline{
+        border: 2px $base_color solid;
+        color: $base_color;
+        background-color: transparent;
+
+        &:hover{
+            background-color: $base_color;
+            color: #fff;
+        }
+    }
+    
+    
+    &--white{
+        background-color: #fff;
+        color: $base-color;
+    }
+}

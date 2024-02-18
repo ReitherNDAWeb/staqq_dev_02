@@ -1,0 +1,79 @@
+.widefat{
+		
+	td, th{
+		border-bottom: 1px #f8f8f8 solid;
+	}
+}
+
+.backend-datatable{
+	margin-top: 30px;
+	max-width: 1100px;
+	display: table;
+}
+
+// Data Tables
+
+.dataTables_length{
+	background-color: #fff;
+	border: 1px #ddd solid;
+	padding: 24px 30px;
+	width: 140px;
+	float: right;
+}
+
+.dataTables_filter{
+	background-color: #fff;
+	border: 1px #ddd solid;
+	border-right: 0px;
+	padding: 20px 30px;
+	margin-bottom: 20px;
+	width: 260px;
+	float: right;
+	
+	label{
+		margin-top: 0px;
+		font-weight: bold;
+	}
+	
+	input{
+		padding: 8px;
+		border: 1px #ccc solid;
+		background-color: transparent;
+		font-size: 1rem;
+	}
+}
+
+.paging_simple_numbers{
+	margin-top: 20px;
+	
+	a{
+		padding: 10px;
+		background-color: #fff;
+		margin-right: 10px;
+		line-height: 1;
+	}
+}
+
+.remodal-user{
+	
+	table{
+		th, td{
+			text-align: left !important;
+		}
+	}
+	
+}
+
+.remodal-job-details{
+	
+	.spinner-wrapper{
+		.uil-default-css{
+		    margin: 0px auto;
+		}
+	}
+	
+	.content{
+		text-align: left;
+	}
+	
+}

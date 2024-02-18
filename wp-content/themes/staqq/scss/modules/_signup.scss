@@ -1,0 +1,270 @@
+.signup-step{
+    border-bottom: 1px #ddd solid;
+    opacity: 0.3;
+    text-align: center;
+    
+    &--active{
+        opacity: 1;
+    }
+    
+    &--user-ressource,
+    &--user-dienstleister,
+    &--user-kunde{
+        display: none;
+    }
+    
+    h2{
+        text-align: left;
+    }
+    
+    label{
+        text-align: left;
+    }
+    
+    .section__overlay{
+        display: table;
+        width: 100%;
+        height: calc(100vh - 66px);
+        
+        .section__wrapper{
+            height: auto;
+            display: table-cell;
+            vertical-align: middle;
+            max-width: none;
+            
+            .center{
+                width: auto;
+                height: auto;
+                display: block;
+                padding: 0px;
+                margin: 0px auto;
+                max-width: $layout_max_width;
+                @extend .clearfix;
+            }
+        }
+    }
+    
+}
+
+.user-type-radio{
+    border: 1px #e5e5e5 solid;
+    background-color: #f2f2f2;
+    border-radius: 0px;
+	padding: 0px;
+    width: 100%;
+	
+	
+	
+	&--ressource h3{
+        background-color: $colors_ressources;
+    }
+    
+    &--dienstleister h3{
+        background-color: $colors_dienstleister;
+    }
+    
+    &--kunde h3{
+		background-color: $colors_kunden;
+	}
+    
+    h3{  
+        text-align: center;
+		color: #fff;
+		padding: 10px;
+    }
+
+    input[type=radio]{
+        margin: 40px auto;
+        display: block;
+    	font-size: 3rem;
+    }
+}
+
+.social-registrierung-buttons{
+	display: block;
+	margin-bottom: 30px;
+
+	.button--social-registrierung{
+		margin: 0px 10px;
+		line-height: 1;
+		display: inline;
+
+		span{
+			line-height: 22px;
+			height: 22px;
+			display: inline-block;
+			padding-top: 1px;
+		}
+
+		&.button--facebook-registrierung{
+			background-color: #3b5998;
+		}
+
+		&.button--xing-registrierung{
+			background-color: #126567;
+
+			span{
+				margin-right: 10px;
+			}
+
+			iframe{
+				float: right;
+			}
+		}
+
+		&.button--linkedin-registrierung{
+			background-color: #0077b5;
+		}
+
+	}
+}
+
+
+
+.berufswahl{
+    
+    &__items{
+        height: 350px;
+        overflow: auto;
+        
+        padding: 10px;
+        border: 1px #ccc solid;
+    }
+    
+    h3{
+        text-align: left;
+        display: block;
+        background-color: $orange;
+        padding: 8px 14px;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 1rem;
+        margin-bottom: 10px;
+    }
+    
+    h4{
+        text-align: left;
+        margin-top: 20px;
+    }
+    
+    p{
+        text-align: left;
+        line-height: 20px;
+        margin: 2px 0px;
+        padding: 0px;
+		padding-right: 15px;
+        @extend .clearfix;
+		position: relative;
+			
+		.icon--berufswahl{
+			float: left;
+			margin-right: 8px;
+		}
+		
+		.verrechnungskategorie{
+			width: 16px;
+			height: 16px;
+			margin: 2px 0px;
+			position: absolute;
+			right: 0px;
+			background-color: $orange;
+			line-height: 16px;
+			font-size: 0.7em;
+			font-weight: bold;
+			font-style: normal;
+			text-align: center;
+			color: #fff;
+			border-radius: 999em;
+		}
+
+		input[type="checkbox"]{
+			float: left;
+			margin: 3px 8px 3px 0px;
+		}
+        
+        select{
+            float: right;
+            font-size: 0.75rem;
+            font-weight: bold;
+            line-height: 1;
+            padding: 4px 5px;
+            width: auto;
+            background-color: $colors_zusatz_2;
+            color: #fff;
+            text-align: center !important;
+            border: 0px;
+            margin: 0px;
+            display: none;
+            text-transform: uppercase;
+        }
+        
+        input:checked + select{
+            display: inline-block;
+        }
+    }
+}
+
+
+
+.ms-drop{
+    /*
+    display: block;
+    position: fixed !important;
+    top: 50% !important;
+    left: 50%;
+    width: 600px !important;
+    height: 480px;
+    margin-top: -240px !important;
+    margin-left: -300px;
+    box-shadow: none !important;
+    border: 1px #ddd solid !important;
+    border-radius: 0px !important;
+    */
+    
+    ul{
+        /*
+        height: 100%;
+        padding: 5px 8px;
+        max-height: none !important;
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        */
+        
+        li{
+            text-align: left;
+            /*
+            flex: 0 1 50%;
+            padding: 5px;
+            */
+            
+            label{
+                input{
+                    margin-right: 5px;
+                }
+            }
+        }
+    }
+}
+
+
+
+
+ul.helper-text {
+    list-style: none;
+    border: 1px #ddd solid;
+    padding: 20px;
+    margin: 20px 0px;
+    
+    li{
+        display: block;
+        text-align: left;
+        color: #333;
+        line-height: 1;
+        padding: 2px 3px;
+        
+        &.valid{
+            color: $green;
+        }
+    }
+}

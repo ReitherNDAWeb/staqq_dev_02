@@ -1,0 +1,33 @@
+$theme_name: "STAQQ";
+$theme_uri: "https://www.appartig.at";
+$theme_description: "Klima- und Energie-Modellregion";
+$theme_version: "1.0";
+$theme_author: "AppArtig e.U.";
+$theme_author_uri: "https://www.appartig.at";
+$theme_license: "AppArtig AGB";
+$theme_license_uri: "https://www.appartig.at/agb";
+$theme_tags: "black, responsive-layout, dark";
+$theme_text_domain: "appartig_kem";
+
+$base_font_familiy: "museo-sans-rounded", 'Lato', sans-serif;
+$base_font_size: 15px;
+$base_color: #F6A800;
+
+$layout_max_width: 1100px;
+$layout_breakpoint: 900px;
+
+$orange: $base_color;
+$green: #a4c300;
+$header-border-color: #E7E7E9;
+
+$colors_zusatz_1: #ffcc00;
+$colors_zusatz_2: #00cc99;
+$colors_zusatz_3: #fef200;
+
+$colors_ressources: $colors_zusatz_2;
+$colors_dienstleister: $green;
+$colors_kunden: $colors_zusatz_1;
+
+$text_color: #535353;
+
+$navigation_base_height: 26px;

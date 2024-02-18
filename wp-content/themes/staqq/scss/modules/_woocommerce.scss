@@ -1,0 +1,95 @@
+.woocommerce{
+	margin-top: 40px;
+	
+	.woocommerce-message{
+		display: none;
+	}
+	
+	.shop_table{
+		@extend .table;
+		border: 0px !important;
+		border-radius: 0px !important;
+	}
+	
+	.product-thumbnail{
+		display: none;
+	}
+	
+	.product-name{
+		.variation{
+			line-height: 1.5;
+			font-size: 0.85rem;
+			
+			dt, dd{
+				line-height: inherit;
+				margin: 0px !important;
+				padding: 0px !important;
+				
+				p{
+				line-height: inherit;
+					font-size: inherit;
+				}
+			}
+			
+			dt{
+				width: 70px;
+			}
+		}
+	}
+	
+	.button[name=update_cart]{
+		float: right !important;
+	}
+	
+	.product-quantity{
+		input[type="number"]{
+			padding: 15px;
+			width: 4.5rem;
+		}
+	}
+	
+	.wc-proceed-to-checkout .button,
+	#place_order{
+		background-color: $orange !important;
+	}
+	
+	
+	.wc_payment_method{
+		margin-bottom: 10px !important;
+		
+		.input-radio{
+			margin: 10px 10px 10px 0px !important;
+			float: left;
+		}
+		
+		label{
+			float: left;
+			margin: 0px;
+			line-height: 33px !important;
+		}
+		
+		.payment_box{
+			display: none !important;
+		}
+	}
+	
+	
+	//
+	
+	#customer_details{
+		display: none;
+	}
+	
+	
+	
+	//
+	
+	.woocommerce-thankyou-order-details{
+		padding: 20px;
+		background-color: #f4f4f4;
+	}
+	
+	.order-again{
+		display: none;
+	}
+}
