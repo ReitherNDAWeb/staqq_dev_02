@@ -1,0 +1,4921 @@
+[Fri, 28 Jul 2017 07:31:58 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501192815,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'app',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://staqq.at/',
+      'tmbUrl' => 'https://staqq.at/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-7z-compressed',
+          1 => 'application/zip',
+          2 => 'application/x-tar',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/zip',
+          1 => 'application/x-7z-compressed',
+          2 => 'application/x-tar',
+        ),
+        'createext' => 
+        array (
+          'application/x-7z-compressed' => '7z',
+          'application/zip' => 'zip',
+          'application/x-tar' => 'tar',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+    'root' => 'l1_Lw',
+  ),
+  'options' => 
+  array (
+    'path' => 'app',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501192815,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356082,
+      'read' => 1,
+      'write' => 1,
+      'size' => '29896',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1494974752,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7433',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487234090,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3278',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3301',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3636',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485355652,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3286',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4513',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353059,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_YXBp',
+      'name' => 'api',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201861,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_dXNhZ2U',
+      'name' => 'usage',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => '51',
+      'hash' => 'l1_dmFyX2R1bXAucGhw',
+      'name' => 'var_dump.php',
+      'phash' => 'l1_Lw',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139737,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139432,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1485353058,
+      'read' => 1,
+      'write' => 1,
+      'size' => '234',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353528,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353268,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1496912466,
+      'read' => 1,
+      'write' => 1,
+      'size' => '41',
+      'hash' => 'l1_LmdpdC1mdHAubG9n',
+      'name' => '.git-ftp.log',
+      'phash' => 'l1_Lw',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201964,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_bG9ncw',
+      'name' => 'logs',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356081,
+      'read' => 1,
+      'write' => 1,
+      'size' => '33939',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353278,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5447',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_c3JkYg',
+      'name' => 'srdb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227118,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1492711797,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16255',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226802,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8647',
+      'hash' => 'l1_bGllc21pY2guaHRtbA',
+      'name' => 'liesmich.html',
+      'phash' => 'l1_Lw',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487138664,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'api' => '2.1',
+  'uplMaxSize' => '200M',
+  'uplMaxFile' => '20',
+  'netDrivers' => 
+  array (
+  ),
+  'maxTargets' => 1000,
+) 
+[Fri, 28 Jul 2017 07:32:04 +0000] ARCHIVE: array (
+  'added' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227124,
+      'mime' => 'application/x-7z-compressed',
+      'read' => 1,
+      'write' => 1,
+      'size' => '296298',
+      'hash' => 'l1_YXBpLjd6',
+      'name' => 'api.7z',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'changed' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501192815,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:32:08 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501226802,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudA',
+    'name' => 'wp-content',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'app/wp-content',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487118846,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9sYW5ndWFnZXM',
+      'name' => 'languages',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226800,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487120157,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487118797,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:32:32 +0000] ARCHIVE: array (
+  'added' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227152,
+      'mime' => 'application/x-7z-compressed',
+      'read' => 1,
+      'write' => 1,
+      'size' => '9644495',
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5zLjd6',
+      'name' => 'plugins.7z',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+  ),
+  'changed' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227133,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:32:35 +0000] FILE: array (
+  'volume' => 
+  elFinderVolumeLocalFileSystem::__set_state(array(
+     'driverId' => 'l',
+     'archiveSize' => 0,
+     'netMountKey' => '',
+     'ARGS' => 
+    array (
+      'cmd' => 'file',
+      'target' => 'l1_d3AtY29udGVudC9wbHVnaW5zLjd6',
+      'download' => '1',
+      'action' => 'connector',
+      'file_manager_security_token' => '3306037826',
+    ),
+     'id' => 'l1_',
+     'mounted' => true,
+     'root' => '/www/htdocs/w014d338/app',
+     'rootName' => 'app',
+     'startPath' => '',
+     'URL' => 'https://staqq.at/',
+     'tmbPath' => '/www/htdocs/w014d338/app/.tmb',
+     'tmbPathWritable' => true,
+     'tmbURL' => 'https://staqq.at/.tmb/',
+     'tmbSize' => 48,
+     'imgLib' => 'imagick',
+     'imgConverter' => 
+    array (
+    ),
+     'cryptLib' => '',
+     'archivers' => 
+    array (
+      'create' => 
+      array (
+        'application/x-7z-compressed' => 
+        array (
+          'cmd' => '7za',
+          'argc' => 'a',
+          'ext' => '7z',
+        ),
+        'application/zip' => 
+        array (
+          'cmd' => '7za',
+          'argc' => 'a -tzip',
+          'ext' => 'zip',
+        ),
+        'application/x-tar' => 
+        array (
+          'cmd' => '7za',
+          'argc' => 'a -ttar',
+          'ext' => 'tar',
+        ),
+      ),
+      'extract' => 
+      array (
+        'application/zip' => 
+        array (
+          'cmd' => 'unzip',
+          'argc' => '',
+          'ext' => 'zip',
+        ),
+        'application/x-7z-compressed' => 
+        array (
+          'cmd' => '7za',
+          'argc' => 'x -y',
+          'ext' => '7z',
+        ),
+        'application/x-tar' => 
+        array (
+          'cmd' => '7za',
+          'argc' => 'x -ttar -y',
+          'ext' => 'tar',
+        ),
+      ),
+    ),
+     'encoding' => NULL,
+     'treeDeep' => 1,
+     'error' => 
+    array (
+    ),
+     'today' => 1501200000,
+     'yesterday' => 1501113600,
+     'extractToNewdir' => 'auto',
+     'options' => 
+    array (
+      'id' => '',
+      'rootRev' => '',
+      'type' => '',
+      'path' => '/www/htdocs/w014d338/app/',
+      'phash' => '',
+      'startPath' => '',
+      'treeDeep' => 1,
+      'URL' => 'https://staqq.at',
+      'dirUrlOwn' => false,
+      'separator' => '/',
+      'encoding' => '',
+      'locale' => '',
+      'icon' => '',
+      'rootCssClass' => 'elfinder-navbar-root-local',
+      'noSessionCache' => 
+      array (
+      ),
+      'i18nFolderName' => false,
+      'searchTimeout' => 30,
+      'searchExDirReg' => '',
+      'cryptLib' => '',
+      'mimeDetect' => 'auto',
+      'mimefile' => '',
+      'mimeMap' => 
+      array (
+        'md:application/x-genesis-rom' => 'text/x-markdown',
+        'md:text/plain' => 'text/x-markdown',
+        'markdown:text/plain' => 'text/x-markdown',
+        'css:text/x-asm' => 'text/css',
+        'ico:image/vnd.microsoft.icon' => 'image/x-icon',
+        'csv:text/plain' => 'text/csv',
+        'm4a:video/mp4' => 'audio/mp4',
+        'oga:application/ogg' => 'audio/ogg',
+        'ogv:application/ogg' => 'video/ogg',
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'tmbPath' => '/www/htdocs/w014d338/app/.tmb',
+      'tmbPathMode' => 511,
+      'tmbURL' => '',
+      'tmbSize' => 48,
+      'tmbCrop' => true,
+      'tmbBgColor' => 'transparent',
+      'bgColorFb' => '#ffffff',
+      'imgLib' => 'auto',
+      'tmbFbSelf' => true,
+      'imgConverter' => 
+      array (
+      ),
+      'tmbVideoConvLen' => 10000000,
+      'tmbVideoConvSec' => 6,
+      'resourcePath' => '/www/htdocs/w014d338/app/wp-content/plugins/file-manager/elFinder/php/resources',
+      'jpgQuality' => 100,
+      'copyOverwrite' => true,
+      'copyJoin' => true,
+      'uploadOverwrite' => true,
+      'uploadAllow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'uploadDeny' => 
+      array (
+      ),
+      'uploadOrder' => 
+      array (
+        0 => 'allow',
+        1 => 'deny',
+      ),
+      'uploadMaxSize' => 0,
+      'uploadMaxConn' => 3,
+      'dateFormat' => 'j M Y H:i',
+      'timeFormat' => 'H:i',
+      'checkSubfolders' => true,
+      'copyFrom' => true,
+      'copyTo' => true,
+      'duplicateSuffix' => ' %s ',
+      'uniqueNumFormat' => '%d',
+      'disabled' => NULL,
+      'statOwner' => false,
+      'allowChmodReadOnly' => false,
+      'acceptedName' => '/^[^\\.].*/',
+      'accessControl' => 'access',
+      'accessControlData' => NULL,
+      'defaults' => 
+      array (
+        'read' => true,
+        'write' => true,
+        'locked' => false,
+        'hidden' => false,
+      ),
+      'attributes' => 
+      array (
+      ),
+      'maxArcFilesSize' => 0,
+      'archiveMimes' => 
+      array (
+      ),
+      'archivers' => 
+      array (
+      ),
+      'plugin' => 
+      array (
+      ),
+      'syncChkAsTs' => true,
+      'syncCheckFunc' => 
+      array (
+        0 => NULL,
+        1 => 'localFileSystemInotify',
+      ),
+      'plStandby' => 30,
+      'tsPlSleep' => 10,
+      'lsPlSleep' => 30,
+      'syncMinMs' => 10000,
+      'utf8fix' => false,
+      'utf8patterns' => 
+      array (
+        0 => '\\u0438\\u0306',
+        1 => '\\u0435\\u0308',
+        2 => '\\u0418\\u0306',
+        3 => '\\u0415\\u0308',
+        4 => '\\u00d8A',
+        5 => '\\u030a',
+      ),
+      'utf8replace' => 
+      array (
+        0 => '\\u0439',
+        1 => '\\u0451',
+        2 => '\\u0419',
+        3 => '\\u0401',
+        4 => '\\u00d8',
+        5 => '\\u00c5',
+      ),
+      'alias' => '',
+      'dirMode' => 493,
+      'fileMode' => 420,
+      'quarantine' => '.quarantine',
+      'followSymLinks' => true,
+      'detectDirIcon' => '',
+      'keepTimestamp' => 
+      array (
+        'copy' => 0,
+        'move' => 1,
+      ),
+      'driver' => 'LocalFileSystem',
+      'uiCmdMap' => 
+      array (
+      ),
+    ),
+     'defaults' => 
+    array (
+      'read' => true,
+      'write' => true,
+      'locked' => false,
+      'hidden' => false,
+    ),
+     'attributes' => 
+    array (
+      0 => 
+      array (
+        'pattern' => '~^/$~',
+        'locked' => true,
+        'hidden' => false,
+      ),
+      1 => 
+      array (
+        'pattern' => '~^/\\.quarantine$~',
+        'read' => false,
+        'write' => false,
+        'locked' => true,
+        'hidden' => true,
+      ),
+    ),
+     'access' => NULL,
+     'uploadAllow' => 
+    array (
+      0 => 'text',
+      1 => 'image',
+      2 => 'video',
+      3 => 'audio',
+      4 => 'application',
+      5 => 'model',
+      6 => 'chemical',
+      7 => 'x-conference',
+      8 => 'message',
+    ),
+     'uploadDeny' => 
+    array (
+    ),
+     'uploadOrder' => 
+    array (
+      0 => 'allow',
+      1 => 'deny',
+    ),
+     'uploadMaxSize' => 9223372036854775807,
+     'mimeDetect' => 'finfo',
+     'finfo' => NULL,
+     'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+     'separator' => '/',
+     'systemRoot' => '/',
+     'onlyMimes' => 
+    array (
+    ),
+     'removed' => 
+    array (
+    ),
+     'added' => 
+    array (
+    ),
+     'cache' => 
+    array (
+      '/www/htdocs/w014d338/app/wp-content' => 
+      array (
+        'isowner' => false,
+        'ts' => 1501227133,
+        'mime' => 'directory',
+        'read' => 1,
+        'write' => 1,
+        'size' => 0,
+        'hash' => 'l1_d3AtY29udGVudA',
+        'name' => 'wp-content',
+        'phash' => 'l1_Lw',
+        'volumeid' => 'l1_',
+        'dirs' => 1,
+      ),
+      '/www/htdocs/w014d338/app/wp-content/plugins.7z' => 
+      array (
+        'isowner' => false,
+        'ts' => 1501227152,
+        'mime' => 'application/x-7z-compressed',
+        'read' => 1,
+        'write' => 1,
+        'size' => '9644495',
+        'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5zLjd6',
+        'name' => 'plugins.7z',
+        'phash' => 'l1_d3AtY29udGVudA',
+      ),
+    ),
+     'dirsCache' => 
+    array (
+    ),
+     'subdirsCache' => 
+    array (
+    ),
+     'sessionCache' => 
+    array (
+      'rootstat' => 
+      array (
+        '2fe625693a566f56b6f2f93d0dfbad6a' => 
+        array (
+          'isowner' => false,
+          'ts' => 1501192815,
+          'mime' => 'directory',
+          'read' => 1,
+          'write' => 1,
+          'size' => 0,
+          'hash' => 'l1_Lw',
+          'name' => 'app',
+          'rootRev' => '',
+          'options' => 
+          array (
+            'path' => '',
+            'url' => '',
+            'tmbUrl' => '',
+            'disabled' => 
+            array (
+            ),
+            'separator' => '/',
+            'copyOverwrite' => 1,
+            'uploadOverwrite' => 1,
+            'uploadMaxSize' => 9223372036854775807,
+            'uploadMaxConn' => 3,
+            'uploadMime' => 
+            array (
+              'firstOrder' => 'allow',
+              'allow' => 
+              array (
+                0 => 'text',
+                1 => 'image',
+                2 => 'video',
+                3 => 'audio',
+                4 => 'application',
+                5 => 'model',
+                6 => 'chemical',
+                7 => 'x-conference',
+                8 => 'message',
+              ),
+              'deny' => 
+              array (
+              ),
+            ),
+            'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+            'jpgQuality' => 100,
+            'archivers' => 
+            array (
+              'create' => 
+              array (
+              ),
+              'extract' => 
+              array (
+              ),
+              'createext' => 
+              array (
+              ),
+            ),
+            'uiCmdMap' => 
+            array (
+            ),
+            'syncChkAsTs' => 1,
+            'syncMinMs' => 0,
+            'i18nFolderName' => 0,
+            'tmbCrop' => 1,
+            'csscls' => 'elfinder-navbar-root-local',
+          ),
+          'volumeid' => 'l1_',
+          'locked' => 1,
+          'dirs' => 1,
+        ),
+      ),
+      'subdirs' => 
+      array (
+        '/www/htdocs/w014d338/app' => true,
+        '/www/htdocs/w014d338/app/api' => true,
+        '/www/htdocs/w014d338/app/usage' => false,
+        '/www/htdocs/w014d338/app/wp-admin' => true,
+        '/www/htdocs/w014d338/app/wp-includes' => true,
+        '/www/htdocs/w014d338/app/logs' => false,
+        '/www/htdocs/w014d338/app/srdb' => true,
+        '/www/htdocs/w014d338/app/.tmb' => false,
+        '/www/htdocs/w014d338/app/wp-content' => true,
+        '/www/htdocs/w014d338/app/wp-content/plugins' => true,
+        '/www/htdocs/w014d338/app/wp-content/languages' => true,
+        '/www/htdocs/w014d338/app/wp-content/uploads' => true,
+        '/www/htdocs/w014d338/app/wp-content/themes' => true,
+        '/www/htdocs/w014d338/app/wp-content/upgrade' => false,
+      ),
+      'ARCHIVERS_CACHE' => 
+      array (
+        'create' => 
+        array (
+          'application/x-7z-compressed' => 
+          array (
+            'cmd' => '7za',
+            'argc' => 'a',
+            'ext' => '7z',
+          ),
+          'application/zip' => 
+          array (
+            'cmd' => '7za',
+            'argc' => 'a -tzip',
+            'ext' => 'zip',
+          ),
+          'application/x-tar' => 
+          array (
+            'cmd' => '7za',
+            'argc' => 'a -ttar',
+            'ext' => 'tar',
+          ),
+        ),
+        'extract' => 
+        array (
+          'application/zip' => 
+          array (
+            'cmd' => 'unzip',
+            'argc' => '',
+            'ext' => 'zip',
+          ),
+          'application/x-7z-compressed' => 
+          array (
+            'cmd' => '7za',
+            'argc' => 'x -y',
+            'ext' => '7z',
+          ),
+          'application/x-tar' => 
+          array (
+            'cmd' => '7za',
+            'argc' => 'x -ttar -y',
+            'ext' => 'tar',
+          ),
+        ),
+      ),
+    ),
+     'sessionCaching' => 
+    array (
+      'rootstat' => true,
+      'subdirs' => true,
+    ),
+     'session' => 
+    elFinderSession::__set_state(array(
+       'started' => false,
+       'keys' => 
+      array (
+        'default' => 'elFinderCaches',
+        'netvolume' => 'elFinderNetVolumes',
+      ),
+       'base64encode' => false,
+       'opts' => 
+      array (
+        'base64encode' => false,
+        'keys' => 
+        array (
+          'default' => 'elFinderCaches',
+          'netvolume' => 'elFinderNetVolumes',
+        ),
+      ),
+    )),
+     'searchStart' => NULL,
+     'doSearchCurrentQuery' => 
+    array (
+    ),
+     'rootModified' => false,
+     'nameValidator' => '/^[^\\.].*/',
+     'tmp' => '',
+     'quarantine' => '/www/htdocs/w014d338/app/.quarantine',
+  )),
+  'pointer' => NULL,
+  'info' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227152,
+    'mime' => 'application/x-7z-compressed',
+    'read' => 1,
+    'write' => 1,
+    'size' => '9644495',
+    'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5zLjd6',
+    'name' => 'plugins.7z',
+    'phash' => 'l1_d3AtY29udGVudA',
+  ),
+  'header' => 
+  array (
+    0 => 'Content-Type: application/x-7z-compressed',
+    1 => 'Content-Disposition: attachment; filename="plugins.7z"',
+    2 => 'Content-Transfer-Encoding: binary',
+    3 => 'Content-Length: 9644495',
+    4 => 'Connection: close',
+  ),
+) 
+[Fri, 28 Jul 2017 07:32:49 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227163,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudA',
+    'name' => 'wp-content',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'app/wp-content',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227150,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487118846,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9sYW5ndWFnZXM',
+      'name' => 'languages',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226800,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487120157,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487118797,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:32:49 +0000] PARENTS: array (
+  'tree' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227150,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353059,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_YXBp',
+      'name' => 'api',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201861,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_dXNhZ2U',
+      'name' => 'usage',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139737,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139432,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201964,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_bG9ncw',
+      'name' => 'logs',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_c3JkYg',
+      'name' => 'srdb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227118,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227163,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:32:49 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227150,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'app',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://staqq.at/',
+      'tmbUrl' => 'https://staqq.at/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-7z-compressed',
+          1 => 'application/zip',
+          2 => 'application/x-tar',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/zip',
+          1 => 'application/x-7z-compressed',
+          2 => 'application/x-tar',
+        ),
+        'createext' => 
+        array (
+          'application/x-7z-compressed' => '7z',
+          'application/zip' => 'zip',
+          'application/x-tar' => 'tar',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+  ),
+  'options' => 
+  array (
+    'path' => 'app',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356082,
+      'read' => 1,
+      'write' => 1,
+      'size' => '29896',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1494974752,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7433',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487234090,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3278',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3301',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3636',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485355652,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3286',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4513',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353059,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_YXBp',
+      'name' => 'api',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201861,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_dXNhZ2U',
+      'name' => 'usage',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => '51',
+      'hash' => 'l1_dmFyX2R1bXAucGhw',
+      'name' => 'var_dump.php',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139737,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139432,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1485353058,
+      'read' => 1,
+      'write' => 1,
+      'size' => '234',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353528,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353268,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1496912466,
+      'read' => 1,
+      'write' => 1,
+      'size' => '41',
+      'hash' => 'l1_LmdpdC1mdHAubG9n',
+      'name' => '.git-ftp.log',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201964,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_bG9ncw',
+      'name' => 'logs',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356081,
+      'read' => 1,
+      'write' => 1,
+      'size' => '33939',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353278,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5447',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_c3JkYg',
+      'name' => 'srdb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227118,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1492711797,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16255',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227163,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8647',
+      'hash' => 'l1_bGllc21pY2guaHRtbA',
+      'name' => 'liesmich.html',
+      'phash' => 'l1_Lw',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487138664,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:33:27 +0000] ARCHIVE: array (
+  'added' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227207,
+      'mime' => 'application/zip',
+      'read' => 1,
+      'write' => 1,
+      'size' => '410335001',
+      'hash' => 'l1_QXJjaGl2ZS56aXA',
+      'name' => 'Archive.zip',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'changed' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227150,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:34:33 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227163,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_d3AtY29udGVudA',
+    'name' => 'wp-content',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'app/wp-content',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9wbHVnaW5z',
+      'name' => 'plugins',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487118846,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC9sYW5ndWFnZXM',
+      'name' => 'languages',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226800,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGxvYWRz',
+      'name' => 'uploads',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487120157,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC90aGVtZXM',
+      'name' => 'themes',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487118797,
+      'read' => 1,
+      'write' => 1,
+      'size' => '28',
+      'hash' => 'l1_d3AtY29udGVudC9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_d3AtY29udGVudA',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501226777,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudC91cGdyYWRl',
+      'name' => 'upgrade',
+      'phash' => 'l1_d3AtY29udGVudA',
+      'volumeid' => 'l1_',
+    ),
+  ),
+) 
+[Fri, 28 Jul 2017 07:34:35 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227150,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'app',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://staqq.at/',
+      'tmbUrl' => 'https://staqq.at/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-7z-compressed',
+          1 => 'application/zip',
+          2 => 'application/x-tar',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/zip',
+          1 => 'application/x-7z-compressed',
+          2 => 'application/x-tar',
+        ),
+        'createext' => 
+        array (
+          'application/x-7z-compressed' => '7z',
+          'application/zip' => 'zip',
+          'application/x-tar' => 'tar',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+  ),
+  'options' => 
+  array (
+    'path' => 'app',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356082,
+      'read' => 1,
+      'write' => 1,
+      'size' => '29896',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1494974752,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7433',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487234090,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3278',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3301',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3636',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485355652,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3286',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4513',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353059,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_YXBp',
+      'name' => 'api',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201861,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_dXNhZ2U',
+      'name' => 'usage',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => '51',
+      'hash' => 'l1_dmFyX2R1bXAucGhw',
+      'name' => 'var_dump.php',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139737,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139432,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1485353058,
+      'read' => 1,
+      'write' => 1,
+      'size' => '234',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353528,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353268,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1496912466,
+      'read' => 1,
+      'write' => 1,
+      'size' => '41',
+      'hash' => 'l1_LmdpdC1mdHAubG9n',
+      'name' => '.git-ftp.log',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501201964,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_bG9ncw',
+      'name' => 'logs',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356081,
+      'read' => 1,
+      'write' => 1,
+      'size' => '33939',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353278,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5447',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_c3JkYg',
+      'name' => 'srdb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227118,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1492711797,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16255',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227163,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8647',
+      'hash' => 'l1_bGllc21pY2guaHRtbA',
+      'name' => 'liesmich.html',
+      'phash' => 'l1_Lw',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487138664,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+) 
+[Sun, 30 Jul 2017 18:04:32 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227699,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'app',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://staqq.at/',
+      'tmbUrl' => 'https://staqq.at/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-7z-compressed',
+          1 => 'application/zip',
+          2 => 'application/x-tar',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/zip',
+          1 => 'application/x-7z-compressed',
+          2 => 'application/x-tar',
+        ),
+        'createext' => 
+        array (
+          'application/x-7z-compressed' => '7z',
+          'application/zip' => 'zip',
+          'application/x-tar' => 'tar',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+    'root' => 'l1_Lw',
+  ),
+  'options' => 
+  array (
+    'path' => 'app',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227699,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '29924',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7413',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487234090,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3278',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227514,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_MQ',
+      'name' => '1',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227522,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Mg',
+      'name' => '2',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3301',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3636',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3286',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4513',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353059,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_YXBp',
+      'name' => 'api',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501370389,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_dXNhZ2U',
+      'name' => 'usage',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227388,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227414,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1501227473,
+      'read' => 1,
+      'write' => 1,
+      'size' => '234',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19550',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501370514,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_bG9ncw',
+      'name' => 'logs',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '34327',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5447',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_c3JkYg',
+      'name' => 'srdb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227118,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16200',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501437847,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8627',
+      'hash' => 'l1_bGllc21pY2guaHRtbA',
+      'name' => 'liesmich.html',
+      'phash' => 'l1_Lw',
+    ),
+    29 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'api' => '2.1',
+  'uplMaxSize' => '200M',
+  'uplMaxFile' => '20',
+  'netDrivers' => 
+  array (
+  ),
+  'maxTargets' => 1000,
+) 
+[Sun, 30 Jul 2017 18:05:08 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227514,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_MQ',
+    'name' => '1',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+  ),
+  'options' => 
+  array (
+    'path' => 'app/1',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+  ),
+) 
+[Sun, 30 Jul 2017 18:05:10 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227522,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Mg',
+    'name' => '2',
+    'phash' => 'l1_Lw',
+    'volumeid' => 'l1_',
+    'dirs' => 1,
+  ),
+  'options' => 
+  array (
+    'path' => 'app/2',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356082,
+      'read' => 1,
+      'write' => 1,
+      'size' => '29896',
+      'hash' => 'l1_Mi93cC1zaWdudXAucGhw',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Mg',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1494974752,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7433',
+      'hash' => 'l1_Mi9yZWFkbWUuaHRtbA',
+      'name' => 'readme.html',
+      'phash' => 'l1_Mg',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3301',
+      'hash' => 'l1_Mi93cC1sb2FkLnBocA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Mg',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3636',
+      'hash' => 'l1_Mi93cC1jb25maWctc2FtcGxlLnBocA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Mg',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485355652,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3286',
+      'hash' => 'l1_Mi93cC1jcm9uLnBocA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Mg',
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4513',
+      'hash' => 'l1_Mi93cC10cmFja2JhY2sucGhw',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Mg',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => '51',
+      'hash' => 'l1_Mi92YXJfZHVtcC5waHA',
+      'name' => 'var_dump.php',
+      'phash' => 'l1_Mg',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139737,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Mi93cC1hZG1pbg',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Mg',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356080,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_Mi93cC1saW5rcy1vcG1sLnBocA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Mg',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1487139432,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Mi93cC1pbmNsdWRlcw',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Mg',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1485353058,
+      'read' => 1,
+      'write' => 1,
+      'size' => '234',
+      'hash' => 'l1_Mi8uaHRhY2Nlc3M',
+      'name' => '.htaccess',
+      'phash' => 'l1_Mg',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353528,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_Mi93cC1ibG9nLWhlYWRlci5waHA',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Mg',
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356083,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_Mi94bWxycGMucGhw',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Mg',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19935',
+      'hash' => 'l1_Mi9saWNlbnNlLnR4dA',
+      'name' => 'license.txt',
+      'phash' => 'l1_Mg',
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353268,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_Mi9pbmRleC5waHA',
+      'name' => 'index.php',
+      'phash' => 'l1_Mg',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1496912466,
+      'read' => 1,
+      'write' => 1,
+      'size' => '41',
+      'hash' => 'l1_Mi8uZ2l0LWZ0cC5sb2c',
+      'name' => '.git-ftp.log',
+      'phash' => 'l1_Mg',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485356081,
+      'read' => 1,
+      'write' => 1,
+      'size' => '33939',
+      'hash' => 'l1_Mi93cC1sb2dpbi5waHA',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Mg',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353278,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5447',
+      'hash' => 'l1_Mi93cC1hY3RpdmF0ZS5waHA',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Mg',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1492711797,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16255',
+      'hash' => 'l1_Mi93cC1zZXR0aW5ncy5waHA',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Mg',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1485353529,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_Mi93cC1jb21tZW50cy1wb3N0LnBocA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Mg',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1488837578,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8647',
+      'hash' => 'l1_Mi9saWVzbWljaC5odG1s',
+      'name' => 'liesmich.html',
+      'phash' => 'l1_Mg',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487138664,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_Mi93cC1tYWlsLnBocA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Mg',
+    ),
+  ),
+) 
+[Sun, 30 Jul 2017 18:05:13 +0000] OPEN: array (
+  'cwd' => 
+  array (
+    'isowner' => false,
+    'ts' => 1501227699,
+    'mime' => 'directory',
+    'read' => 1,
+    'write' => 1,
+    'size' => 0,
+    'hash' => 'l1_Lw',
+    'name' => 'app',
+    'rootRev' => '',
+    'options' => 
+    array (
+      'path' => '',
+      'url' => 'https://staqq.at/',
+      'tmbUrl' => 'https://staqq.at/.tmb/',
+      'disabled' => 
+      array (
+        0 => 'chmod',
+      ),
+      'separator' => '/',
+      'copyOverwrite' => 1,
+      'uploadOverwrite' => 1,
+      'uploadMaxSize' => 9223372036854775807,
+      'uploadMaxConn' => 3,
+      'uploadMime' => 
+      array (
+        'firstOrder' => 'allow',
+        'allow' => 
+        array (
+          0 => 'text',
+          1 => 'image',
+          2 => 'video',
+          3 => 'audio',
+          4 => 'application',
+          5 => 'model',
+          6 => 'chemical',
+          7 => 'x-conference',
+          8 => 'message',
+        ),
+        'deny' => 
+        array (
+        ),
+      ),
+      'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+      'jpgQuality' => 100,
+      'archivers' => 
+      array (
+        'create' => 
+        array (
+          0 => 'application/x-7z-compressed',
+          1 => 'application/zip',
+          2 => 'application/x-tar',
+        ),
+        'extract' => 
+        array (
+          0 => 'application/zip',
+          1 => 'application/x-7z-compressed',
+          2 => 'application/x-tar',
+        ),
+        'createext' => 
+        array (
+          'application/x-7z-compressed' => '7z',
+          'application/zip' => 'zip',
+          'application/x-tar' => 'tar',
+        ),
+      ),
+      'uiCmdMap' => 
+      array (
+      ),
+      'syncChkAsTs' => 1,
+      'syncMinMs' => 10000,
+      'i18nFolderName' => 0,
+      'tmbCrop' => 1,
+      'csscls' => 'elfinder-navbar-root-local',
+    ),
+    'volumeid' => 'l1_',
+    'locked' => 1,
+    'dirs' => 1,
+    'isroot' => 1,
+    'phash' => '',
+  ),
+  'options' => 
+  array (
+    'path' => 'app',
+    'url' => 'https://staqq.at/',
+    'tmbUrl' => 'https://staqq.at/.tmb/',
+    'disabled' => 
+    array (
+      0 => 'chmod',
+    ),
+    'separator' => '/',
+    'copyOverwrite' => 1,
+    'uploadOverwrite' => 1,
+    'uploadMaxSize' => 9223372036854775807,
+    'uploadMaxConn' => 3,
+    'uploadMime' => 
+    array (
+      'firstOrder' => 'allow',
+      'allow' => 
+      array (
+        0 => 'text',
+        1 => 'image',
+        2 => 'video',
+        3 => 'audio',
+        4 => 'application',
+        5 => 'model',
+        6 => 'chemical',
+        7 => 'x-conference',
+        8 => 'message',
+      ),
+      'deny' => 
+      array (
+      ),
+    ),
+    'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+    'jpgQuality' => 100,
+    'archivers' => 
+    array (
+      'create' => 
+      array (
+        0 => 'application/x-7z-compressed',
+        1 => 'application/zip',
+        2 => 'application/x-tar',
+      ),
+      'extract' => 
+      array (
+        0 => 'application/zip',
+        1 => 'application/x-7z-compressed',
+        2 => 'application/x-tar',
+      ),
+      'createext' => 
+      array (
+        'application/x-7z-compressed' => '7z',
+        'application/zip' => 'zip',
+        'application/x-tar' => 'tar',
+      ),
+    ),
+    'uiCmdMap' => 
+    array (
+    ),
+    'syncChkAsTs' => 1,
+    'syncMinMs' => 10000,
+    'i18nFolderName' => 0,
+    'tmbCrop' => 1,
+  ),
+  'files' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '29924',
+      'hash' => 'l1_d3Atc2lnbnVwLnBocA',
+      'name' => 'wp-signup.php',
+      'phash' => 'l1_Lw',
+    ),
+    1 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '7413',
+      'hash' => 'l1_cmVhZG1lLmh0bWw',
+      'name' => 'readme.html',
+      'phash' => 'l1_Lw',
+    ),
+    2 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1487234090,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3278',
+      'hash' => 'l1_d3AtY29uZmlnLnBocA',
+      'name' => 'wp-config.php',
+      'phash' => 'l1_Lw',
+    ),
+    3 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227514,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_MQ',
+      'name' => '1',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    4 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227522,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Mg',
+      'name' => '2',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    5 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3301',
+      'hash' => 'l1_d3AtbG9hZC5waHA',
+      'name' => 'wp-load.php',
+      'phash' => 'l1_Lw',
+    ),
+    6 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3636',
+      'hash' => 'l1_d3AtY29uZmlnLXNhbXBsZS5waHA',
+      'name' => 'wp-config-sample.php',
+      'phash' => 'l1_Lw',
+    ),
+    7 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3286',
+      'hash' => 'l1_d3AtY3Jvbi5waHA',
+      'name' => 'wp-cron.php',
+      'phash' => 'l1_Lw',
+    ),
+    8 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '4513',
+      'hash' => 'l1_d3AtdHJhY2tiYWNrLnBocA',
+      'name' => 'wp-trackback.php',
+      'phash' => 'l1_Lw',
+    ),
+    9 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353059,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_YXBp',
+      'name' => 'api',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    10 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501370389,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_dXNhZ2U',
+      'name' => 'usage',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    11 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227388,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtYWRtaW4',
+      'name' => 'wp-admin',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    12 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '2422',
+      'hash' => 'l1_d3AtbGlua3Mtb3BtbC5waHA',
+      'name' => 'wp-links-opml.php',
+      'phash' => 'l1_Lw',
+    ),
+    13 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227414,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtaW5jbHVkZXM',
+      'name' => 'wp-includes',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    14 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/plain',
+      'ts' => 1501227473,
+      'read' => 1,
+      'write' => 1,
+      'size' => '234',
+      'hash' => 'l1_Lmh0YWNjZXNz',
+      'name' => '.htaccess',
+      'phash' => 'l1_Lw',
+    ),
+    15 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '364',
+      'hash' => 'l1_d3AtYmxvZy1oZWFkZXIucGhw',
+      'name' => 'wp-blog-header.php',
+      'phash' => 'l1_Lw',
+    ),
+    16 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '3065',
+      'hash' => 'l1_eG1scnBjLnBocA',
+      'name' => 'xmlrpc.php',
+      'phash' => 'l1_Lw',
+    ),
+    17 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-pascal',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '19550',
+      'hash' => 'l1_bGljZW5zZS50eHQ',
+      'name' => 'license.txt',
+      'phash' => 'l1_Lw',
+    ),
+    18 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '418',
+      'hash' => 'l1_aW5kZXgucGhw',
+      'name' => 'index.php',
+      'phash' => 'l1_Lw',
+    ),
+    19 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501370514,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_bG9ncw',
+      'name' => 'logs',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    20 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '34327',
+      'hash' => 'l1_d3AtbG9naW4ucGhw',
+      'name' => 'wp-login.php',
+      'phash' => 'l1_Lw',
+    ),
+    21 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '5447',
+      'hash' => 'l1_d3AtYWN0aXZhdGUucGhw',
+      'name' => 'wp-activate.php',
+      'phash' => 'l1_Lw',
+    ),
+    22 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1485353277,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_c3JkYg',
+      'name' => 'srdb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    23 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501227118,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_LnRtYg',
+      'name' => '.tmb',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+    ),
+    24 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '16200',
+      'hash' => 'l1_d3Atc2V0dGluZ3MucGhw',
+      'name' => 'wp-settings.php',
+      'phash' => 'l1_Lw',
+    ),
+    25 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '1627',
+      'hash' => 'l1_d3AtY29tbWVudHMtcG9zdC5waHA',
+      'name' => 'wp-comments-post.php',
+      'phash' => 'l1_Lw',
+    ),
+    26 => 
+    array (
+      'isowner' => false,
+      'mime' => 'directory',
+      'ts' => 1501437847,
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_d3AtY29udGVudA',
+      'name' => 'wp-content',
+      'phash' => 'l1_Lw',
+      'volumeid' => 'l1_',
+      'dirs' => 1,
+    ),
+    27 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/html',
+      'ts' => 1501227339,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8627',
+      'hash' => 'l1_bGllc21pY2guaHRtbA',
+      'name' => 'liesmich.html',
+      'phash' => 'l1_Lw',
+    ),
+    28 => 
+    array (
+      'isowner' => false,
+      'mime' => 'text/x-php',
+      'ts' => 1501227340,
+      'read' => 1,
+      'write' => 1,
+      'size' => '8048',
+      'hash' => 'l1_d3AtbWFpbC5waHA',
+      'name' => 'wp-mail.php',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+) 
+[Sun, 30 Jul 2017 18:05:30 +0000] ARCHIVE: array (
+  'added' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501437930,
+      'mime' => 'application/x-7z-compressed',
+      'read' => 1,
+      'write' => 1,
+      'size' => '4245404',
+      'hash' => 'l1_Mi43eg',
+      'name' => '2.7z',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'changed' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227699,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+  ),
+) 
+[Sun, 30 Jul 2017 18:07:35 +0000] ARCHIVE: array (
+  'added' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501438055,
+      'mime' => 'application/x-7z-compressed',
+      'read' => 1,
+      'write' => 1,
+      'size' => '366264259',
+      'hash' => 'l1_d2ViLjd6',
+      'name' => 'web.7z',
+      'phash' => 'l1_Lw',
+    ),
+  ),
+  'changed' => 
+  array (
+    0 => 
+    array (
+      'isowner' => false,
+      'ts' => 1501227699,
+      'mime' => 'directory',
+      'read' => 1,
+      'write' => 1,
+      'size' => 0,
+      'hash' => 'l1_Lw',
+      'name' => 'app',
+      'rootRev' => '',
+      'options' => 
+      array (
+        'path' => '',
+        'url' => 'https://staqq.at/',
+        'tmbUrl' => 'https://staqq.at/.tmb/',
+        'disabled' => 
+        array (
+          0 => 'chmod',
+        ),
+        'separator' => '/',
+        'copyOverwrite' => 1,
+        'uploadOverwrite' => 1,
+        'uploadMaxSize' => 9223372036854775807,
+        'uploadMaxConn' => 3,
+        'uploadMime' => 
+        array (
+          'firstOrder' => 'allow',
+          'allow' => 
+          array (
+            0 => 'text',
+            1 => 'image',
+            2 => 'video',
+            3 => 'audio',
+            4 => 'application',
+            5 => 'model',
+            6 => 'chemical',
+            7 => 'x-conference',
+            8 => 'message',
+          ),
+          'deny' => 
+          array (
+          ),
+        ),
+        'dispInlineRegex' => '^(?:(?:image|text)|application/x-shockwave-flash$)',
+        'jpgQuality' => 100,
+        'archivers' => 
+        array (
+          'create' => 
+          array (
+            0 => 'application/x-7z-compressed',
+            1 => 'application/zip',
+            2 => 'application/x-tar',
+          ),
+          'extract' => 
+          array (
+            0 => 'application/zip',
+            1 => 'application/x-7z-compressed',
+            2 => 'application/x-tar',
+          ),
+          'createext' => 
+          array (
+            'application/x-7z-compressed' => '7z',
+            'application/zip' => 'zip',
+            'application/x-tar' => 'tar',
+          ),
+        ),
+        'uiCmdMap' => 
+        array (
+        ),
+        'syncChkAsTs' => 1,
+        'syncMinMs' => 10000,
+        'i18nFolderName' => 0,
+        'tmbCrop' => 1,
+        'csscls' => 'elfinder-navbar-root-local',
+      ),
+      'volumeid' => 'l1_',
+      'locked' => 1,
+      'dirs' => 1,
+      'isroot' => 1,
+      'phash' => '',
+    ),
+  ),
+) 
